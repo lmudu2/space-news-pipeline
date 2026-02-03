@@ -30,8 +30,7 @@ A daily automated data pipeline that fetches the latest space news, performs sen
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/lmudu2/space-news-pipeline.git
    ```
 
 2. Install dependencies:
