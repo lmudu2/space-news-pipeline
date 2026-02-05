@@ -1,0 +1,224 @@
+[
+    {
+        "id": 35984,
+        "title": "Milano Cortina 2026",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/milano-cortina-2026/milan_oli_20261208.jpg",
+        "news_site": "NASA",
+        "summary": "About 2,900 Olympic athletes have converged on northern Italy to sort out who is the GOAT\u2014or perhaps the stoat.",
+        "published_at": "2026-02-05T05:01:00Z",
+        "updated_at": "2026-02-05T05:10:22.181296Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 35983,
+        "title": "House Committee Approves New NASA Authorization Bill",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/house-committee-approves-new-nasa-authorization-bill/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Babin-Feb-4-2026-300x209.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The House Science, Space, and Technology Committee unanimously approved a new NASA authorization bill today after adopting a number of amendments. Overall the bill reemphasizes congressional commitment to U.S. leadership [\u2026]",
+        "published_at": "2026-02-05T01:51:00Z",
+        "updated_at": "2026-02-05T02:01:20.799979Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0909090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 35982,
+        "title": "House committee advances NASA authorization bill",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/house-committee-advances-nasa-authorization-bill/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe House Science Committee unanimously approved a NASA authorization bill Feb. 4 after adopting dozens of amendments.\nThe post House committee advances NASA authorization bill appeared first on SpaceNews.",
+        "published_at": "2026-02-05T00:41:09Z",
+        "updated_at": "2026-02-05T00:50:41.972797Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 35981,
+        "title": "Viridian inks cooperative agreement with Air Force Research Laboratory",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/viridian-inks-cooperative-agreement-with-air-force-research-laboratory/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/rsz_picture2-cropped.jpg?fit=879%2C627&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSAN FRANCISCO \u2014 Viridian Space Corp.\u00a0signed a cooperative research and development agreement (CRADA) with the Air Force Research Laboratory. The five-year CRADA will provide the Southern California startup with access [\u2026]\nThe post Viridian inks cooperative agreement with Air Force Research Laboratory appeared first on SpaceNews.",
+        "published_at": "2026-02-04T23:49:01Z",
+        "updated_at": "2026-02-04T23:50:54.364937Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 35980,
+        "title": "Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/january/https___mars.nasa.gov_msl-raw-images_msss_04789_mcam_4789ML1087390100509312C00_DXXX.jpg",
+        "news_site": "NASA",
+        "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, Jan. 30, 2026 Mars has emerged from its holiday behind the Sun, and we here on Earth have been able to reconnect with Curiosity and get back to work on Mars. Our first planning day last Friday gave Curiosity a full [\u2026]",
+        "published_at": "2026-02-04T23:05:07Z",
+        "updated_at": "2026-02-05T08:07:52.512603Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.16666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 35979,
+        "title": "NASA, University of Texas Expand Research and Workforce Development",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2026e000691.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Johnson Space Center in Houston and the University of Texas System (UT System) announced the signing of a collaborative Space Act Agreement on Jan. 9, 2026. The agreement expands research and workforce development partnership opportunities across NASA centers and UT System facilities. The agreement builds upon decades of collaboration between NASA and the UT [\u2026]",
+        "published_at": "2026-02-04T22:10:15Z",
+        "updated_at": "2026-02-04T22:10:27.461290Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 35978,
+        "title": "US House takes first step toward creating \"commercial\" deep space program",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
+        "published_at": "2026-02-04T21:01:05Z",
+        "updated_at": "2026-02-04T21:10:12.960424Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 35977,
+        "title": "Station Nation:\u00a0Erin Edwards, Deputy Branch Chief for Crew Operations and Capsule Communicator",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/station-nation-erin-edwards-deputy-branch-chief-for-crew-operations-and-capsule-communicator/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/erin-capcom.jpg",
+        "news_site": "NASA",
+        "summary": "As a member of the Crew Operations Office, Erin Edwards\u00a0and her\u00a0team\u00a0manage astronaut candidate training schedules, including field medical exercises, land survival, and underwater operations at NASA\u2019s Neutral Buoyancy Laboratory in Houston. She also develops and tests new training programs to keep crews\u00a0mission-ready.\u00a0\u00a0 Along with her role as a crew operations officer, Edwards works in the [\u2026]",
+        "published_at": "2026-02-04T19:52:21Z",
+        "updated_at": "2026-02-04T20:00:22.243254Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 35976,
+        "title": "Northrop Grumman tests second solid motor developed under 2025 SMART program",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/ng-bamm2920-test/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/G_3h8jkWEAAOyI7-1-scaled.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Northrop Grumman has successfully tested the Bombardment Attack Missile Motor 29! 2.0, also known as\u2026\nThe post Northrop Grumman tests second solid motor developed under 2025 SMART program appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-04T19:34:11Z",
+        "updated_at": "2026-02-04T19:40:18.601818Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.18160714285714286,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 35975,
+        "title": "Evaluation of Adhesive and Solvent Alternatives for PolymericBonding Applications",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/nesc/evaluation-of-adhesive-and-solvent-alternatives-for-polymericbonding-applications/",
+        "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+        "news_site": "NASA",
+        "summary": "The NASA Engineering and Safety Center (NESC) conducted a technical assessment to evaluate alternatives to dichloromethane, traditionally used for bonding transparent polymeric materials. This effort was initiated in response to potential regulatory restrictions under the EPA Toxic Substances Control Act (TSCA), which could impact critical bonding processes used in spaceflight hardware and experimental systems. Download [\u2026]",
+        "published_at": "2026-02-04T18:09:35Z",
+        "updated_at": "2026-02-04T18:10:19.756039Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
