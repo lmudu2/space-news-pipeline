@@ -1,0 +1,226 @@
+[
+    {
+        "id": 36042,
+        "title": "A Grand, Snow-Rimmed Canyon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-grand,-snow-rimmed-canyon/ISS074-E-208838.jpg",
+        "news_site": "NASA",
+        "summary": "A dusting of white highlighted the Colorado Plateau around the deep gorge, while shadows created a visual illusion.",
+        "published_at": "2026-02-07T05:01:00Z",
+        "updated_at": "2026-02-07T05:10:11.907491Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36041,
+        "title": "NASA seeks to bolster workforce, reduce reliance on contractors",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/isaacman-ames.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAfter losing about 20% of its civil servant workforce in the past year, NASA\u2019s administrator says the agency plans to bring more expertise in-house and reduce its reliance on contractors.\nThe post NASA seeks to bolster workforce, reduce reliance on contractors appeared first on SpaceNews.",
+        "published_at": "2026-02-07T00:15:08Z",
+        "updated_at": "2026-02-07T00:20:27.768441Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36040,
+        "title": "Viasat sees orbital data center partnership opportunity",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/New-VS3-Globe-Image-001-hi-res-scaled.jpg?fit=1024%2C556&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWhile Viasat has no plans to join the rush to deploy orbital data centers, the satellite operator sees a role providing the communications links needed to connect such systems with users on Earth and other spacecraft.\nThe post Viasat sees orbital data center partnership opportunity appeared first on SpaceNews.",
+        "published_at": "2026-02-06T22:56:34Z",
+        "updated_at": "2026-02-06T23:00:33.941561Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.015000000000000003,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36039,
+        "title": "Isaacman Wants to Restore NASA\u2019s Core Competencies",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/isaacman-wants-to-restore-nasas-core-competencies/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/isaacman-header-300x64.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA Administrator Jared Isaacman issued a directive today to restore the agency\u2019s \u201ccore competencies\u201d in order to fulfill President Trump\u2019s December 2025 Executive Order on Ensuring American Space Superiority. The [\u2026]",
+        "published_at": "2026-02-06T22:49:17Z",
+        "updated_at": "2026-02-06T22:50:19.530781Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36038,
+        "title": "SpaceX shifts away from Dragon launches at pad 39A as Starship looms",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/02/06/spacex-shifts-away-from-dragon-launches-at-pad-39a-as-starship-looms/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260206_LC-39A.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The last Dragon flight from pad 39A was the CRS-33 mission in August 2025. SpaceX is preparing for the just the second pad 40 launch supporting NASA's Commercial Crew Program no earlier than Feb. 11. ",
+        "published_at": "2026-02-06T21:16:27Z",
+        "updated_at": "2026-02-06T21:20:23.769428Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36037,
+        "title": "NASA Sets Coverage for Agency\u2019s SpaceX Crew-12 Launch, Docking",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/55066128654-9e7e5a4894-k.jpg",
+        "news_site": "NASA",
+        "summary": "NASA will stream live coverage of the upcoming prelaunch, launch, and docking activities for the agency\u2019s SpaceX Crew-12 mission to the International Space Station. Liftoff is targeted for no earlier than 6:01 a.m. EST on Wednesday, Feb. 11, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The targeted docking time [\u2026]",
+        "published_at": "2026-02-06T21:11:44Z",
+        "updated_at": "2026-02-06T21:20:09.403574Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.04090909090909091,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36035,
+        "title": "Strong Solar Flare",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/strong-solar-flare/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/sdo-02-04-26-1216ut-x4-131-171-v3.jpg",
+        "news_site": "NASA",
+        "summary": "This Feb. 4, 2026, image from NASA\u2019s Solar Dynamics Observatory (SDO) captures a strong solar flare erupting from the star. Solar flares are powerful bursts of energy that can, along with other types of solar eruptions, can impact radio communications, electric power grids, navigation signals, and pose risks to spacecraft and astronauts. The flare pictured [\u2026]",
+        "published_at": "2026-02-06T20:05:52Z",
+        "updated_at": "2026-02-06T20:10:12.509174Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.26041666666666663,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36036,
+        "title": "Boreal Forests Are Shifting North",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/02/BorealShift_THUMB.jpg",
+        "news_site": "NASA",
+        "summary": "The boreal forest\u2014the world\u2019s largest terrestrial biome\u2014is warming faster than any other forest type. New research uses Landsat data to track how the forests shift.",
+        "published_at": "2026-02-06T19:58:06Z",
+        "updated_at": "2026-02-06T20:10:12.560559Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0037878787878787845,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36034,
+        "title": "To reuse or not reuse\u2014the eternal debate of New Glenn's second stage reignites",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/new-glenn_gs2-hotfire.webp",
+        "news_site": "Arstechnica",
+        "summary": "A new job posting suggests the debate may be swinging back toward reusing GS2.",
+        "published_at": "2026-02-06T19:31:09Z",
+        "updated_at": "2026-02-06T19:40:09.361653Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36025,
+        "title": "\u2018We helped usher in the modern era of AI in NGA.\u2019",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mark-Munsell.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIn 2025, more than 322,000 civil servants left jobs voluntarily or were dismissed out of a workforce of roughly 2.4 million. The 13% drop in staffing is the largest single-year decline since the end of World War II. In total, more than 5,000 people who were part of the federal space workforce left their positions. [\u2026]\nThe post \u2018We helped usher in the modern era of AI in NGA.\u2019 appeared first on SpaceNews.",
+        "published_at": "2026-02-06T16:56:49Z",
+        "updated_at": "2026-02-06T17:00:41.047133Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.17222222222222222,
+        "sentiment_label": "Positive"
+    }
+]
