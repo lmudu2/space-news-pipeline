@@ -1,0 +1,253 @@
+[
+    {
+        "id": 36272,
+        "title": "NASA to attempt second full fueling test of its Space Launch System rocket",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260216_WDR-2_annoucement-1_MC-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The operation comes a week after NASA conducted a so-called \u2018confidence test\u2019 on Feb. 12, which was the process of loading some liquid hydrogen on the rocket\u2019s core stage.",
+        "published_at": "2026-02-17T00:34:09Z",
+        "updated_at": "2026-02-17T08:19:55.462627Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1332,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.175,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36271,
+        "title": "NASA Will Conduct Second Artemis II WDR on Thursday",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Artemis-II-in-walkway-300x200.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA will conduct a second Wet Dress Rehearsal (WDR) on Thursday in preparation for the launch of Artemis II. The nearly 50-hour test actually begins Tuesday evening as launch teams [\u2026]",
+        "published_at": "2026-02-16T23:33:05Z",
+        "updated_at": "2026-02-17T08:20:12.414543Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1332,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36270,
+        "title": "Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/launch-preview-021626/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/IMG_2706.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "After a brief grounding earlier this month following the Starlink Group 17-32 second stage deorbit\u2026\r\nThe post Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-16T23:04:49Z",
+        "updated_at": "2026-02-17T08:21:19.716422Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "3f6de963-7197-48aa-a49f-6c944cbf85e9",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "57cc5e9e-97c2-4833-8bcd-e4e62ce63ec6",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a0ed15aa-4d23-48ac-a712-950228663b43",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "49532577-7d26-49df-ada3-12a85bb8189e",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "7442d6d7-91a1-4c30-a759-3a6c16ce896c",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "742daf86-0810-4df5-8a7d-1ff72a14e261",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36268,
+        "title": "Launching the first Ariane 6 with four boosters",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launching_the_first_Ariane_6_with_four_boosters",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/02/launching_the_first_ariane_6_with_four_boosters/27113296-1-eng-GB/Launching_the_first_Ariane_6_with_four_boosters_card_full.png",
+        "news_site": "ESA",
+        "summary": "This first launch of the four-booster version of Ariane 6, operated by Arianespace, took 32 satellites for Amazon\u2019s Leo constellation to low-Earth orbit. Liftoff occurred at 13:45 local time (16:45 GMT/17:45 CET) from Europe\u2019s Spaceport in French Guiana, with separation of the last satellites occurring after 114 minutes.",
+        "published_at": "2026-02-16T16:20:00Z",
+        "updated_at": "2026-02-17T08:19:39.311059Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "71eba994-ab9f-4707-ba5e-024cfff73c01",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36267,
+        "title": "NASA work on several programs pending responses to White House executive order",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/NHQ202602130037large.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA Administrator Jared Isaacman said he expects to provide details about several agency priorities, including lunar exploration and commercial space stations, in the coming weeks.\nThe post NASA work on several programs pending responses to White House executive order appeared first on SpaceNews.",
+        "published_at": "2026-02-16T16:11:06Z",
+        "updated_at": "2026-02-16T16:20:27.247938Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03571428571428571,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36269,
+        "title": "RFA Begins Final Preparations for Inaugural RFA ONE Launch",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/rfa-begins-final-preparations-for-inaugural-rfa-one-launch/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/RFA-Advances-Preparations-for-Inaugural-RFA-ONE-Launch.webp",
+        "news_site": "European Spaceflight",
+        "summary": "German rocket builder Rocket Factory Augsburg (RFA) is making significant progress toward once again attempting an inaugural flight of its RFA ONE rocket. The company is currently moving forward with commissioning its launch pad at SaxaVord Spaceport as it works toward a hot fire test of the rocket\u2019s first stage. The RFA ONE rocket is [\u2026]\r\nThe post RFA Begins Final Preparations for Inaugural RFA ONE Launch appeared first on European Spaceflight.",
+        "published_at": "2026-02-16T15:05:25Z",
+        "updated_at": "2026-02-17T08:19:31.548071Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36265,
+        "title": "The space nuclear power bottleneck \u2014 and how to fix it",
+        "authors": [
+            {
+                "name": "David Schleeper",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Fission-Surface-Power_mid_01.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNo technology holds more transformative potential for America\u2019s space aspirations than nuclear power. Radioisotopes can safely produce heat that will enable deep space exploration and survival of the frigid lunar night while fission reactors are capable of producing kilowatts of electricity on the moon or in orbit. Fission is also the key to advanced nuclear [\u2026]\nThe post The space nuclear power bottleneck \u2014 and how to fix it appeared first on SpaceNews.",
+        "published_at": "2026-02-16T14:00:00Z",
+        "updated_at": "2026-02-16T14:00:41.352052Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10555555555555556,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36264,
+        "title": "Low-profile Chinese launch firm conducts first stage static fire",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ZH-1-first-stage-hot-fire-HOS-1-Shandong-feb2026-ZenkSpace.jpg?fit=1024%2C573&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nOne of China\u2019s lower profile launch startups, Zenk Space, has conducted a first stage static fire for its Zhihang-1 rocket ahead of a planned launch.\nThe post Low-profile Chinese launch firm conducts first stage static fire appeared first on SpaceNews.",
+        "published_at": "2026-02-16T11:54:56Z",
+        "updated_at": "2026-02-16T12:00:32.917998Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19090909090909092,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36263,
+        "title": "Portions of the Pentagon\u2019s LEO constellation on hold as acquisition reviews proceed",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Screenshot-2026-02-15-at-3.05.38-PM-scaled-e1771198547644.png?fit=1024%2C523&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nChanges anticipated for \u2018custody\u2019 and \u2018transport\u2019 layers\nThe post Portions of the Pentagon\u2019s LEO constellation on hold as acquisition reviews proceed appeared first on SpaceNews.",
+        "published_at": "2026-02-16T11:00:00Z",
+        "updated_at": "2026-02-16T11:00:32.133142Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
