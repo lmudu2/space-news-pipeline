@@ -1,0 +1,217 @@
+[
+    {
+        "id": 36337,
+        "title": "Northern Glow Spans Iceland and Canada",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/northern-glow-spans-iceland-and-canada/icelandaurora_vir_20260216.jpg",
+        "news_site": "NASA",
+        "summary": "A vivid display of the aurora lit up skies over the Denmark Strait and eastern Canada during a minor geomagnetic storm in February 2026.",
+        "published_at": "2026-02-19T05:00:00Z",
+        "updated_at": "2026-02-19T05:10:09.458123Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0375,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36336,
+        "title": "Pentagon seeks commercially built GEO spy satellites",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Defense Innovation Unit plans to select companies to field and operate spacecraft before transferring them to government control within three years\nThe post Pentagon seeks commercially built GEO spy satellites\u00a0 appeared first on SpaceNews.",
+        "published_at": "2026-02-18T22:06:28Z",
+        "updated_at": "2026-02-18T22:10:27.550180Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36335,
+        "title": "Digital Surface and Terrain Models from Vantor\u2019s Precision3D Product Line Added to Satellite Data Explorer",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/peoria-vantor-dsm.jpg",
+        "news_site": "NASA",
+        "summary": "The CSDA Program added three digital elevation and digital terrain products from Vantor\u2019s Precision3D Product Line to the Satellite Data Explorer.",
+        "published_at": "2026-02-18T21:05:58Z",
+        "updated_at": "2026-02-18T22:10:11.230256Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36332,
+        "title": "Vantor Archive Imagery Added to Satellite Data Explorer",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/vator-multispectral-dc.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Commercial Satellite Data Acquisition (CSDA) Program announces the addition of imagery from Vantor to its Satellite Data Explorer (SDX) data access and discovery tool.",
+        "published_at": "2026-02-18T20:54:31Z",
+        "updated_at": "2026-02-18T21:10:09.837903Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36333,
+        "title": "CSDA Releases New Data Acquisition Request System",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/sdx-dashboard.jpg",
+        "news_site": "NASA",
+        "summary": "The CSDA Program\u2019s Data Acquisition Request System lets authorized users submit proposals for yet-to-be-collected data from CSDA\u2019s commercial partners.",
+        "published_at": "2026-02-18T20:42:16Z",
+        "updated_at": "2026-02-18T21:10:09.870347Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36334,
+        "title": "CSDA Program Announces Eight New Data Agreements",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/02/pittsburg-capella-space.png",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Commercial Satellite Data Acquisition (CSDA) Program\u00a0announced eight new agreements with seven of its commercial partners to give users more access to near\u2011global multispectral and synthetic aperture radar data.",
+        "published_at": "2026-02-18T20:23:53Z",
+        "updated_at": "2026-02-18T21:10:09.881426Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15454545454545454,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36325,
+        "title": "Notes from the Field",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/explorer/notes-from-the-field/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/tucker1.jpg",
+        "news_site": "NASA",
+        "summary": "Looking at Chlorophyll from Space By Compton \u201cJim\u201d Tucker NASA scientists are able to study plants from space, but this wasn\u2019t always the case. \u201cI love using satellite data to study the Earth,\u201d says Dr. Compton \u201cJim\u201d Tucker. When Tucker was a graduate student, he and some friends discovered a new way to study photosynthesis. [\u2026]",
+        "published_at": "2026-02-18T19:23:57Z",
+        "updated_at": "2026-02-18T20:10:10.394329Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.37878787878787873,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36326,
+        "title": "42 Years of Measuring the Sun, the Earth and the Energy in Between",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/galleries/images/erbe.jpg",
+        "news_site": "NASA",
+        "summary": "By Denise Lineberry On Jan. 31, 1958, Explorer 1 became the first satellite launched by the United States. Its primary science instrument, a cosmic ray detector, was designed to measure the radiation environment in Earth orbit. Though its final transmission was in May 1958, it continued to revolve around Earth more than 58,000 times. As [\u2026]",
+        "published_at": "2026-02-18T19:23:36Z",
+        "updated_at": "2026-02-18T20:10:10.409895Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2875,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36327,
+        "title": "The Sky Belongs to All of Us",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/jwst_concept.jpg",
+        "news_site": "NASA",
+        "summary": "By Hashima Hasan How did a little girl born in India soon after its independence from the British Empire, become a program scientist for NASA\u2019s Hubble Space Telescope, and the first female program scientist for the James Webb Space Telescope, Stratospheric Observatory for Infrared Astronomy (SOFIA), Gravity Probe B, and other astrophysics flight missions? The [\u2026]",
+        "published_at": "2026-02-18T19:23:12Z",
+        "updated_at": "2026-02-18T20:10:10.423482Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.0125,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36328,
+        "title": "Measuring the Big Bang with the COBE satellite",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/explorer/measuring-the-big-bang-with-the-cobe-satellite/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/explorer-1/cobe.jpg",
+        "news_site": "NASA",
+        "summary": "By John Mather The Cosmic Background Explorer satellite (COBE) went up on a Delta rocket on Nov. 18, 1989, into a polar sun-synchronous orbit 900 km up. Our team at NASA Goddard Space Flight Center (GSFC), Ball Aerospace, the Jet Propulsion Laboratory (JPL) and universities built it to look at the cosmic microwave and infrared [\u2026]",
+        "published_at": "2026-02-18T19:22:41Z",
+        "updated_at": "2026-02-19T07:19:49.183007Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f882fa67-e09c-49a9-8296-99ba83d5f561",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.061111111111111116,
+        "sentiment_label": "Neutral"
+    }
+]
