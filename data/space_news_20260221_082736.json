@@ -1,0 +1,263 @@
+[
+    {
+        "id": 36393,
+        "title": "Bruno says he joined Blue Origin to work on \u2018urgent\u2019 national security projects",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/bruno-blue.jpeg?fit=1024%2C731&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nTory Bruno, former CEO of United Launch Alliance, said he decided to join Blue Origin to work on important national security projects, including applications of the company\u2019s Blue Ring spacecraft.\nThe post Bruno says he joined Blue Origin to work on \u2018urgent\u2019 national security projects appeared first on SpaceNews.",
+        "published_at": "2026-02-21T02:02:39Z",
+        "updated_at": "2026-02-21T02:10:37.163495Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09285714285714286,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36392,
+        "title": "Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "SpaceX is counting down to the launch of a Falcon 9 rocket carrying 25 Starlink satellites from California, after days of delay. Liftoff from Space Launch Complex 4 East at Vandenberg Space Force Base is scheduled for 1 a.m. PST (4 a.m. EST / 0900 UTC).",
+        "published_at": "2026-02-20T22:46:55Z",
+        "updated_at": "2026-02-21T06:32:01.936052Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7442d6d7-91a1-4c30-a759-3a6c16ce896c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.2797979797979798,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36391,
+        "title": "Aalto plots Australia base to boost planned high-altitude pseudo satellite service",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Zephyr_Take-off.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAalto is turning to Australia as a key operating base to bolster the business case for initial commercial services of its stratospheric pseudo-satellite over Japan, now pushed to 2027 amid regulatory hurdles and ongoing system-integration work.\nThe post Aalto plots Australia base to boost planned high-altitude pseudo satellite service appeared first on SpaceNews.",
+        "published_at": "2026-02-20T22:04:17Z",
+        "updated_at": "2026-02-20T22:10:40.057143Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.3071428571428572,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36390,
+        "title": "Boeing insists NASA criticism will reinforce efforts on Starliner",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-20-20-50-40-184-wmarked.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Following NASA Administrator Jared Isaacman\u2019s stark assessment of the Boeing CST-100 Starliner program\u2019s troubled history\u2014pinning\u2026\r\nThe post Boeing insists NASA criticism will reinforce efforts on Starliner appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-20T21:08:38Z",
+        "updated_at": "2026-02-21T06:31:41.955516Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "968067d1-8c12-4018-9854-b7b7d4bddc6b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.11249999999999999,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36389,
+        "title": "NASA Is Helping Bring Giant Tortoises Back to the Gal\u00e1pagos",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/tort.jpg",
+        "news_site": "NASA",
+        "summary": "Giant tortoises are returning to Floreana Island after more than 150 years, guided by NASA data that shows suitable areas for release.",
+        "published_at": "2026-02-20T20:00:00Z",
+        "updated_at": "2026-02-20T20:10:15.651911Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21000000000000002,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36388,
+        "title": "NASA Confirms March 6 as Target Date for Astronaut Moon Mission",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/Lori-Glaze-Feb-20-26-presser-300x155.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA confirmed today that March 6 is their target for sending astronauts around the Moon for the first time in more than 50 years on the Artemis II mission. The [\u2026]",
+        "published_at": "2026-02-20T19:28:13Z",
+        "updated_at": "2026-02-21T06:31:34.134088Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36386,
+        "title": "NASA targeting March 6 for Artemis 2 launch",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-260129.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "NASA is targeting a March 6 launch for Artemis 2 after completing a countdown test with few problems.\r\nThe post NASA targeting March 6 for Artemis 2 launch appeared first on SpaceNews.",
+        "published_at": "2026-02-20T18:40:05Z",
+        "updated_at": "2026-02-21T06:31:29.753213Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.024999999999999994,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36387,
+        "title": "The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/02/The-UK-Amends-Launch-Liability-Rules-as-RFA-Prepares-for-Inaugural-Flight.webp",
+        "news_site": "European Spaceflight",
+        "summary": "An amendment to the United Kingdom\u2019s Space Industry Act will mandate that limits are set on how much launch operators are financially liable for if something goes wrong. The government has framed the change as a necessary step to strengthen the country\u2019s position as a competitive launch location. The concept of states being liable for [\u2026]\r\nThe post The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight appeared first on European Spaceflight.",
+        "published_at": "2026-02-20T15:01:00Z",
+        "updated_at": "2026-02-21T06:31:24.182461Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.03571428571428571,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36385,
+        "title": "Artemis II Crew Trains on T-38",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2026e007422orig.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronaut Christina Koch and Canadian Space Agency astronaut Jeremy Hansen take off on a T-38 training flight from Ellington Field on Feb. 11, 2026, as a waning crescent Moon hovers above. Koch and Hansen, along with NASA astronauts Reid Wiseman and Victor Glover, are part of NASA\u2019s Artemis II mission, the first crewed flight [\u2026]",
+        "published_at": "2026-02-20T14:50:53Z",
+        "updated_at": "2026-02-20T17:36:45.374692Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36384,
+        "title": "Week in images: 16-20 February 2026",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/annular_solar_eclipse_seen_from_space/27119314-1-eng-GB/Annular_solar_eclipse_seen_from_space_card_full.png",
+        "news_site": "ESA",
+        "summary": "Week in images: 16-20 February 2026",
+        "published_at": "2026-02-20T14:10:00Z",
+        "updated_at": "2026-02-20T14:10:35.626731Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
