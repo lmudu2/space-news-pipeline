@@ -1,0 +1,135 @@
+[
+    {
+        "id": 36399,
+        "title": "Live coverage: SpaceX\u2019s most-flown Falcon booster to launch on record 33rd flight",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/02/21/live-coverage-spacexs-most-flown-falcon-booster-to-launch-on-record-33rd-flight/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 6-104 mission will add another 28 Starlink V2 Mini Optimized satellites into low Earth orbit. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 10:47 p.m. EST (0347 UTC). ",
+        "published_at": "2026-02-21T22:24:04Z",
+        "updated_at": "2026-02-21T22:30:23.998580Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36398,
+        "title": "Following Near-Perfect Rehearsal, Artemis II Faces a Rollback",
+        "authors": [
+            {
+                "name": "Scarlet Dominik",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/02/wolf-ground.jpg",
+        "news_site": "Space Scout",
+        "summary": "After an issue with the SLS rocket's upper stage, NASA has made the difficult decision to roll the Artemis II stack back to the Vehicle Assembly Building (VAB).",
+        "published_at": "2026-02-21T20:46:43Z",
+        "updated_at": "2026-02-21T20:50:25.351680Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.125,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36397,
+        "title": "NASA prepares for likely rollback of SLS, delaying Artemis II to April",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/nasa-rollback-sls-delaying-artemis-april/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/02/NSF-2026-02-21-20-33-45-477.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "NASA is gearing up for a likely rollback of the Space Launch System (SLS) rocket\u2026\nThe post NASA prepares for likely rollback of SLS, delaying Artemis II to April appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-21T20:45:33Z",
+        "updated_at": "2026-02-21T20:50:16.592688Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36396,
+        "title": "NASA\u2019s Artemis 2 rocket hit by new problem expected to bump moonshot into early April",
+        "authors": [
+            {
+                "name": "William Harwood",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/02/21/nasas-artemis-2-rocket-hit-by-new-problem-expected-to-bump-moonshot-into-early-april/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260221-SLS_pad_shot_ICPS.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Engineers ran into problems repressurizing the Artemis 2 moon rocket\u2019s upper stage helium tanks overnight Friday, a problem that will require rolling the huge rocket off the launch pad and back to its processing hangar for troubleshooting. The work will push the already delayed mission from March to at least early April, officials said Saturday. ",
+        "published_at": "2026-02-21T18:26:20Z",
+        "updated_at": "2026-02-21T18:30:29.215439Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04204545454545455,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36395,
+        "title": "NASA preparing for Artemis 2 rollback to fix upper stage problem",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/art2-20260202.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nJust 24 hours after setting a March 6 launch date for the Artemis 2 mission, NASA said a problem with the Space Launch System upper stage could delay the launch.\nThe post NASA preparing for Artemis 2 rollback to fix upper stage problem appeared first on SpaceNews.",
+        "published_at": "2026-02-21T16:22:16Z",
+        "updated_at": "2026-02-21T16:30:29.090857Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36394,
+        "title": "Artemis II Likely Delayed Due to Upper Stage Problem",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/02/trouble-300x100.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Just one day after excitedly sharing the successful results of the second Artemis II Wet Dress Rehearsal, NASA has a different message this morning. A problem with helium flow to [\u2026]",
+        "published_at": "2026-02-21T16:00:56Z",
+        "updated_at": "2026-02-21T16:10:20.771671Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1125,
+        "sentiment_label": "Positive"
+    }
+]
