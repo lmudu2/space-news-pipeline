@@ -1,0 +1,70 @@
+[
+    {
+        "id": 36402,
+        "title": "Juno data provides insight into thickness of Europa\u2019s surface ice sheet",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2021/06/Europa.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Using recent data from NASA\u2019s Juno orbiter, scientists have uncovered new details on the thickness\u2026\r\nThe post Juno data provides insight into thickness of Europa\u2019s surface ice sheet appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-23T00:50:12Z",
+        "updated_at": "2026-02-23T07:22:40.206514Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "60ea06b7-2470-41a8-b9f0-65c95c0d807b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36401,
+        "title": "What\u2019s Happening in Space Policy February 22-28, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/01/Artemis-2-rolling-out-best-Jan-17-26-200x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of February 22-28, 2026 and any insight we can offer about them. The Senate is scheduled to be in [\u2026]",
+        "published_at": "2026-02-23T00:23:52Z",
+        "updated_at": "2026-02-23T00:30:27.757356Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36400,
+        "title": "German defense firm said to be weighing bid for Mynaric",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/FocqgZhaUAECh_z-scaled.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nRheinmetall\u2019s reported interest in the laser communications firm would complicate Rocket Lab\u2019s planned acquisition\nThe post German defense firm said to be weighing bid for Mynaric appeared first on SpaceNews.",
+        "published_at": "2026-02-22T11:50:26Z",
+        "updated_at": "2026-02-22T11:50:37.687968Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05833333333333335,
+        "sentiment_label": "Neutral"
+    }
+]
