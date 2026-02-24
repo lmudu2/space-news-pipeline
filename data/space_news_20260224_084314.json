@@ -1,0 +1,266 @@
+[
+    {
+        "id": 36439,
+        "title": "Showy Swirls Around Jeju Island",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/showy-spirals-around-jeju-island/cloudvortices_tmo_20260219.jpg",
+        "news_site": "NASA",
+        "summary": "Winds blowing past the volcanic landmass near the Korean Peninsula created a trail of spiraling clouds, while murky water churned nearby.",
+        "published_at": "2026-02-24T05:01:00Z",
+        "updated_at": "2026-02-24T05:10:20.264843Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36438,
+        "title": "Boeing demonstrates large language model for space-grade hardware",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_2img_1113.jpg?fit=879%2C659&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSAN FRANCISCO \u2013 Before uploading a large language model to space-grade hardware, Boeing Space Mission Systems engineers sought guidance from the hardware manufacturer. \u201cThey told us it wasn\u2019t possible, but we are skilled engineers who were going to figure out a pathway to make it happen,\u201d Arvel Chappell III, Boeing Space Mission Systems AI Lab [\u2026]\nThe post Boeing demonstrates large language model for space-grade hardware appeared first on SpaceNews.",
+        "published_at": "2026-02-24T01:47:12Z",
+        "updated_at": "2026-02-24T01:50:27.606395Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.23214285714285712,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36437,
+        "title": "Meink, Saltzman make case for Space Force expansion",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55112820571_c66bb7ac48_6k-scaled.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMeink: How the future force is designed \u2018will be critical as the Space Force expands even faster in the next few years\u2019\nThe post Meink, Saltzman make case for Space Force expansion\u00a0 appeared first on SpaceNews.",
+        "published_at": "2026-02-24T00:42:02Z",
+        "updated_at": "2026-02-24T00:50:27.259681Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.009999999999999998,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36436,
+        "title": "Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/02/launch-preview-022326/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-2.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Seven missions are on this week\u2019s launch manifest, with SpaceX\u2019s Falcon 9 dominating the schedule.\u2026\r\nThe post Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-02-23T23:31:22Z",
+        "updated_at": "2026-02-24T08:22:29.744051Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "3785d31d-770f-4622-b7e4-a683dbd34c39",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "3f6de963-7197-48aa-a49f-6c944cbf85e9",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "742daf86-0810-4df5-8a7d-1ff72a14e261",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "db5c6392-a8b5-4f97-8a38-cc147f086f00",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "887eb3dc-ead1-4fef-87a1-b490e780f43a",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "aeccc82e-4a01-46dc-a893-1d6d098973e2",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "3f71a8a7-118f-460c-953b-984de24aba5c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36434,
+        "title": "Young \u2018Sun\u2019 Caught Blowing Bubbles by NASA\u2019s Chandra",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/chandra/young-sun-caught-blowing-bubbles-by-nasas-chandra/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/astrosphere-xray-infrared.jpg",
+        "news_site": "NASA",
+        "summary": "For the first time, a much younger version of the Sun has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA\u2019s Chandra X-ray Observatory. The bubble \u2013 called an \u201castrosphere\u201d \u2013 completely surrounds the juvenile star. Winds from the star\u2019s surface are blowing up the bubble and filling it with hot gas [\u2026]",
+        "published_at": "2026-02-23T20:07:28Z",
+        "updated_at": "2026-02-23T20:15:05.400218Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36435,
+        "title": "Astronomy Activation Ambassadors: Embracing Multiple Perspectives",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-embracing-multiple-perspectives/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/sciact/AAA25_Fig1_group-at-VLBA_Dana_Backman.jpeg",
+        "news_site": "NASA",
+        "summary": "The Astronomy Activation Ambassadors (AAA) project, part of the NASA Science Activation program, aims to measurably enhance student STEM (Science, Technology, Engineering, & Mathematics) engagement via middle school, high school, and community college science teacher professional development.",
+        "published_at": "2026-02-23T20:03:22Z",
+        "updated_at": "2026-02-23T20:10:21.029211Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.065,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36433,
+        "title": "Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks",
+        "authors": [
+            {
+                "name": "Emily B",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/02/flawless-second-artemis-ii-launch-rehearsal-shows-readiness-despite-setbacks/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/02/wolf-green-scaled.jpg",
+        "news_site": "Space Scout",
+        "summary": "The second launch rehearsal for Artemis II was a massive success and a showcase of the propellant loading process and systems working as designed.",
+        "published_at": "2026-02-23T19:16:51Z",
+        "updated_at": "2026-02-23T19:58:20.640209Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1332,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.26,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36432,
+        "title": "Space Force seeks market answers on in-orbit refueling",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Provisioner_Astroscale-U.S._Goddard-Testing.jpg.jpeg?fit=960%2C640&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA new RFI poses questions to industry on future refueling architecture\nThe post Space Force seeks market answers on in-orbit refueling appeared first on SpaceNews.",
+        "published_at": "2026-02-23T19:00:00Z",
+        "updated_at": "2026-02-23T19:02:25.648557Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36431,
+        "title": "NASA to Cover 33rd SpaceX Resupply Mission Station Departure",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-to-cover-33rd-spacex-resupply-mission-station-departure/",
+        "image_url": "https://images-assets.nasa.gov/image/iss073e0545540/iss073e0545540~large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA and its international partners will receive scientific research samples and hardware when a SpaceX Dragon spacecraft departs the International Space Station on Thursday, Feb. 26, and returns to Earth. Watch NASA\u2019s live coverage of the undocking and departure of the agency\u2019s 33rd SpaceX Commercial Resupply Services mission starting at 11:45 a.m. EST on NASA+, [\u2026]",
+        "published_at": "2026-02-23T18:47:50Z",
+        "updated_at": "2026-02-23T19:59:53.212280Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e8e93778-657c-401c-9c88-3cd4c7c45c9d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1310,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.02727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36430,
+        "title": "AST SpaceMobile wins $30 million contract for military\u00a0 broadband demo",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/PR_final.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Space Development Agency will explore the use of commercial satellites to test direct-to-device connectivity for future warfighting network\nThe post AST SpaceMobile wins $30 million contract for military\u00a0 broadband demo appeared first on SpaceNews.",
+        "published_at": "2026-02-23T18:08:47Z",
+        "updated_at": "2026-02-23T18:10:25.253829Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09285714285714286,
+        "sentiment_label": "Neutral"
+    }
+]
