@@ -1,0 +1,238 @@
+[
+    {
+        "id": 36620,
+        "title": "A Little Town with a Long Name",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-little-town-with-a-long-name/welshtownzm_oli_20250409.jpg",
+        "news_site": "NASA",
+        "summary": "A NASA luminary from the Apollo era grew up in Wales near Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.",
+        "published_at": "2026-03-05T05:01:00Z",
+        "updated_at": "2026-03-05T05:10:12.874794Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.04583333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36619,
+        "title": "Senate Committee Clears New NASA Authorization Bill, Calls for Moon Base",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/senate-committee-clears-new-nasa-authorization-bill-calls-for-moon-base/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Cruz-Cantwell-NASA-auth-300x183.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Senate Commerce, Science, and Transportation Committee approved a new NASA authorization bill today. Among its many provisions, the bill supports recent changes to the Artemis program, directs NASA to [\u2026]",
+        "published_at": "2026-03-05T04:47:14Z",
+        "updated_at": "2026-03-05T04:50:26.353075Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.005454545454545467,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36618,
+        "title": "Third Kairos launch fails",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/third-kairos-launch-fails/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/kairos-flight3.jpeg?fit=1024%2C558&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "The third launch of a small launch vehicle developed by a Japanese company failed shortly after liftoff March 4, raising questions about the rocket\u2019s future.\r\nThe post Third Kairos launch fails appeared first on SpaceNews.",
+        "published_at": "2026-03-05T03:26:48Z",
+        "updated_at": "2026-03-05T07:27:04.115514Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "cd4bb934-0652-4425-9a5c-bbe5e467ade4",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.11666666666666665,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36617,
+        "title": "Spanish launch startup PLD Space raises $209 million to scale its rocket production",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260304_Miura-5_manufacturing.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "This Series C funding was led by Mitsubishi Electric Corporation, which invested \u20ac50 million ($58 million). To date, PLD Space raised more than \u20ac350 million ($407 million). ",
+        "published_at": "2026-03-05T01:07:07Z",
+        "updated_at": "2026-03-05T01:10:57.224447Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36616,
+        "title": "High-Speed Flight Project Overview",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2023/06/high-speed-aircraft.png",
+        "news_site": "NASA",
+        "summary": "What We do The High-Speed Flight (HSF) project develops technologies that make high-speed, airbreathing, commercial flight possible from Mach 1 to Mach 5 and above. HSF creates tools, technologies, and knowledge that will help eliminate today\u2019s technical barriers to practical supersonic flight, most notably sonic boom. The project supports the X-59 quiet supersonic vehicle testing [\u2026]",
+        "published_at": "2026-03-05T01:05:42Z",
+        "updated_at": "2026-03-05T01:10:23.687371Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14285714285714285,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36615,
+        "title": "Senate committee advances NASA authorization bill that changes Artemis and extends ISS",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/slseus.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Senate Commerce Committee advanced a revised NASA authorization bill that implements some of the changes to Artemis sought by the agency while also extending the life of the ISS\nThe post Senate committee advances NASA authorization bill that changes Artemis and extends ISS appeared first on SpaceNews.",
+        "published_at": "2026-03-05T00:20:44Z",
+        "updated_at": "2026-03-05T00:31:19.327296Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.325,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36614,
+        "title": "Telus invests in AST SpaceMobile to expand D2D coverage in Canada",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/BB7.jpeg?fit=768%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nCanadian telco Telus has agreed to take a stake in AST SpaceMobile and invest in ground infrastructure needed to connect subscribers to the operator\u2019s planned direct-to-smartphone constellation.\nThe post Telus invests in AST SpaceMobile to expand D2D coverage in Canada appeared first on SpaceNews.",
+        "published_at": "2026-03-04T23:18:20Z",
+        "updated_at": "2026-03-04T23:20:25.589532Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36613,
+        "title": "Space Force presses case for more personnel and training",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-at-4.14.25-PM.png?fit=1024%2C581&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAt Senate Armed Services subcommittee hearing, Vice Chief Bratton said Space Force \u2018must aggressively increase its end strength and infrastructure\u2019\nThe post Space Force presses case for more personnel and training appeared first on SpaceNews.",
+        "published_at": "2026-03-04T23:06:12Z",
+        "updated_at": "2026-03-04T23:10:29.887026Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4166666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36611,
+        "title": "China to test capsule further, attempt booster recoveries on land and sea",
+        "authors": [
+            {
+                "name": "Martin Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/china-roundup-202603/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/Nanhaijiu-118-ship-approaches-the-Mengzhou-capsule-for-recovery-Xinhua-.png",
+        "news_site": "NASASpaceflight",
+        "summary": "China is set to perform additional testing of its Mengzhou crew capsule following a successful\u2026\nThe post China to test capsule further, attempt booster recoveries on land and sea appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-04T20:44:14Z",
+        "updated_at": "2026-03-04T20:50:18.916485Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36612,
+        "title": "About Advanced Air Vehicles Program (AAVP)",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/aavp/about-aavp/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/aavpbackground-2026.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Advanced Air Vehicles Program (AAVP) studies, evaluates, and develops technologies and capabilities for new aircraft systems and explores far-future concepts for revolutionary air travel improvements. AAVP develops technologies for all flight regimes from hover to hypersonic to enable safe, new aircraft that are faster, quieter, and more fuel efficient. AAVP develops a broad range [\u2026]",
+        "published_at": "2026-03-04T19:00:00Z",
+        "updated_at": "2026-03-04T23:10:13.430245Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.30503246753246754,
+        "sentiment_label": "Positive"
+    }
+]
