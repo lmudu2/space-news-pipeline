@@ -1,0 +1,226 @@
+[
+    {
+        "id": 36685,
+        "title": "NASA contract confirms selection of ULA\u2019s Centaur 5 as new upper stage for the SLS rocket",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260306_Centuar-V_Cert-1_pressure_testing.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The upper stage of United launch Alliance\u2019s Vulcan rockets performed successfully across the first four flights of the rocket since 2024. The first launch of a Centaur 5 as part of a Space Launch System rocket would be on the Artemis 4 mission. ",
+        "published_at": "2026-03-07T00:40:15Z",
+        "updated_at": "2026-03-07T00:50:47.907601Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.23106060606060605,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36684,
+        "title": "NASA selects Centaur for new SLS upper stage",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/54091767752_006ce7503a_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA has selected the Centaur upper stage currently used on United Launch Alliance\u2019s Vulcan rocket for future flights of the Space Launch System.\nThe post NASA selects Centaur for new SLS upper stage appeared first on SpaceNews.",
+        "published_at": "2026-03-06T23:42:43Z",
+        "updated_at": "2026-03-06T23:50:37.248638Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06534090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36683,
+        "title": "Ding-dong! The Exploration Upper Stage is dead",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/upper-exploration-witch-hat.jpg",
+        "news_site": "Arstechnica",
+        "summary": "The Exploration Upper Stage did not in any way get NASA closer to landing on the Moon.",
+        "published_at": "2026-03-06T23:40:35Z",
+        "updated_at": "2026-03-06T23:50:12.236753Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36682,
+        "title": "NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/crs-24-resupply-launch-advisory-march-6.jpg",
+        "news_site": "NASA",
+        "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in April to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA\u2019s Northrop Grumman Commercial Resupply Services 24 [\u2026]",
+        "published_at": "2026-03-06T21:36:22Z",
+        "updated_at": "2026-03-06T21:40:15.191162Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36680,
+        "title": "NASA\u2019s Artemis \u2018Course Correction\u2019 Boosts Moonward Momentum: Key Details Still Maturing",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-18-57-48-225.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "NASA Administrator Jared Isaacman unveiled sweeping changes to the Artemis program, aimed at restoring momentum,\u2026\nThe post NASA\u2019s Artemis \u2018Course Correction\u2019 Boosts Moonward Momentum: Key Details Still Maturing appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-06T21:02:09Z",
+        "updated_at": "2026-03-06T21:10:17.146577Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36679,
+        "title": "NASA\u2019s DART Mission Changed Orbit of Asteroid Didymos Around Sun",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-licia-cube-nasa.jpg",
+        "news_site": "NASA",
+        "summary": "New research reveals that when NASA\u2019s DART (Double Asteroid Redirection Test) spacecraft intentionally impacted the asteroid moonlet Dimorphos in September 2022, it didn\u2019t just change the motion of Dimorphos around its larger companion, Didymos; the crash also shifted the orbit of both asteroids around the Sun. Linked together by gravity, Didymos and Dimorphos orbit each [\u2026]",
+        "published_at": "2026-03-06T19:00:36Z",
+        "updated_at": "2026-03-06T19:10:13.888759Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36678,
+        "title": "Eutelsat completes $5.8 billion refinancing plan",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/Intelsat-PR_EutelsatGroup-scaled-1.webp?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nEutelsat has completed the last step in a 5 billion euro ($5.8 billion) refinancing plan to refresh its OneWeb constellation and support Europe\u2019s IRIS\u00b2 sovereign connectivity program, the French satellite operator announced March 6.\nThe post Eutelsat completes $5.8 billion refinancing plan appeared first on SpaceNews.",
+        "published_at": "2026-03-06T17:16:18Z",
+        "updated_at": "2026-03-06T17:20:52.366330Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36677,
+        "title": "Live coverage: SpaceX plans mid-afternoon Falcon 9 rocket launch from Vandenberg SFB",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/06/live-coverage-spacex-plans-mid-afternoon-falcon-9-rocket-launch-from-vandenberg-sfb/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/01/20240118-Starlink-File-Photo-Feature-Image.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 17-18 mission will add 25 more satellites to SpaceX\u2019s low Earth orbit megaconstellation. Liftoff from pad 4E is scheduled during a launch window that opens at 1 p.m. PST (4 p.m. EST / 2100 UTC). ",
+        "published_at": "2026-03-06T17:13:23Z",
+        "updated_at": "2026-03-06T17:20:52.082759Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21212121212121213,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36676,
+        "title": "UK domestic launch milestone as RFA ONE rocket arrives in Scotland",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/uk-milestone-domestic-launch-rfa-one-scotland/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-06-16-34-54-519.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "German aerospace company Rocket Factory Augsburg (RFA) has achieved a significant milestone in its quest\u2026\nThe post UK domestic launch milestone as RFA ONE rocket arrives in Scotland appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-06T16:46:04Z",
+        "updated_at": "2026-03-06T16:50:17.809360Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36674,
+        "title": "Track NASA\u2019s Artemis II Mission in Real Time",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/2026-01-22-screenshot-211-3840x2160-1.jpg",
+        "news_site": "NASA",
+        "summary": "As NASA invites the public to follow the Artemis II mission as a crew of four astronauts venture around the Moon inside the agency\u2019s Orion spacecraft, people around the world can pinpoint Orion during its journey using the Artemis Real-time Orbit Website (AROW). During the approximately 10-day mission, NASA will test how the spacecraft\u2019s systems [\u2026]",
+        "published_at": "2026-03-06T16:40:25Z",
+        "updated_at": "2026-03-06T16:50:10.519022Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666667,
+        "sentiment_label": "Neutral"
+    }
+]
