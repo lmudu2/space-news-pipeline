@@ -1,0 +1,72 @@
+[
+    {
+        "id": 36688,
+        "title": "RFA plans first launch this summer",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/rfa-plans-first-launch-this-summer/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rfaone-march2026.jpeg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nGerman launch startup Rocket Factory Augsburg (RFA) says it is planning its first launch for this summer after delivering two of its stages to the launch site.\nThe post RFA plans first launch this summer appeared first on SpaceNews.",
+        "published_at": "2026-03-08T01:31:17Z",
+        "updated_at": "2026-03-08T01:40:29.268428Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36687,
+        "title": "Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission",
+        "authors": [
+            {
+                "name": "Martijn Luinstra and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/baikonur-launch-pad-restored-progress-ms-33/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-07-19-07-16-386.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Russia\u2019s crucial launch infrastructure at Baikonur Cosmodrome\u2019s Site 31/6 has been fully repaired following a\u2026\nThe post Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-07T19:49:38Z",
+        "updated_at": "2026-03-07T19:50:19.511069Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36686,
+        "title": "Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-07-at-5.17.18-AM.png?fit=1024%2C666&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nProgram will test large segmented optical system for future surveillance satellites\nThe post Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload appeared first on SpaceNews.",
+        "published_at": "2026-03-07T11:41:26Z",
+        "updated_at": "2026-03-07T11:50:59.660760Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21326530612244896,
+        "sentiment_label": "Positive"
+    }
+]
