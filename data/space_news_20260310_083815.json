@@ -1,0 +1,239 @@
+[
+    {
+        "id": 36754,
+        "title": "Shades of a Lunar Eclipse",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/shades-of-a-lunar-eclipse/alaskalunar_vir2_20260303.jpg",
+        "news_site": "NASA",
+        "summary": "A series of nighttime satellite images revealed how moonlight reaching Earth varied throughout a total lunar eclipse.",
+        "published_at": "2026-03-10T04:01:00Z",
+        "updated_at": "2026-03-10T08:13:36.588126Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1328,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36753,
+        "title": "After years of missteps, Blue Origin to finally offer meaningful stock options",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1036093724.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"It's a big fat middle finger for those that thought they had something.\"",
+        "published_at": "2026-03-09T23:00:18Z",
+        "updated_at": "2026-03-09T23:10:10.448223Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36751,
+        "title": "Live coverage: SpaceX to launch direct television satellite for EchoStar",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/09/live-coverage-spacex-to-launch-direct-television-satellite-for-echostar/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260309_Echostar_XXV_vertical.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The launch of the EchoStar 25 satellite is SpaceX\u2019s first launch to a geosynchronous transfer orbit so far this year. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 11:19 p.m. EDT (0319 UTC).",
+        "published_at": "2026-03-09T21:58:19Z",
+        "updated_at": "2026-03-10T08:13:20.944052Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8701f102-a33e-450b-87b1-660679aab736",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.14659090909090908,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36752,
+        "title": "Meridian Space Diplomacy Forum & Executive Space Training \u2013 March 25 & 26",
+        "authors": [
+            {
+                "name": "Meridian",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/PrimaryLogo-2.png?fit=371%2C361&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWashington, D.C. \u2014 Meridian International Center today announced the return of its Space Diplomacy Forum: Shared Horizons (https://diplomacyforum.meridian.org/space), a half-day forum dedicated to advancing cooperation in outer space at a [\u2026]\nThe post Meridian Space Diplomacy Forum & Executive Space Training \u2013 March 25 & 26 appeared first on SpaceNews.",
+        "published_at": "2026-03-09T21:52:59Z",
+        "updated_at": "2026-03-09T22:00:34.795391Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.049999999999999996,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36750,
+        "title": "SSTL to build spacecraft for private space telescope",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/lazuli.jpeg?fit=900%2C840&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSurrey Satellite Technology Ltd. (SSTL), a British company best known for developing small satellites, will help build a large, privately funded space telescope.\nThe post SSTL to build spacecraft for private space telescope appeared first on SpaceNews.",
+        "published_at": "2026-03-09T21:48:28Z",
+        "updated_at": "2026-03-09T21:50:26.495078Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1517857142857143,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36749,
+        "title": "Missile detection satellite designed by BAE Systems passes early review",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/250602-X-X0813-1001-scaled.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpace Force pushes ahead with medium Earth orbit sensor layer for hypersonic tracking\nThe post Missile detection satellite designed by BAE Systems passes early review appeared first on SpaceNews.",
+        "published_at": "2026-03-09T21:15:08Z",
+        "updated_at": "2026-03-09T21:21:53.036788Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36746,
+        "title": "NASA\u2019s\u00a0Van Allen Probe A\u00a0to Re-Enter Atmosphere",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/r/rl-escapade-beauty-shot001-0000239.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s\u00a0Van Allen Probe A\u00a0is expected to re-enter Earth\u2019s atmosphere, almost\u00a014\u00a0years after launch. From\u00a02012\u00a0to\u00a02019, the spacecraft and its twin, Van Allen Probe B, flew through the Van Allen belts,\u00a0rings of charged particles trapped by Earth\u2019s magnetic field,\u00a0to understand how particles were gained and lost.\u00a0The belts shield Earth from cosmic radiation, solar storms, and the constantly streaming [\u2026]",
+        "published_at": "2026-03-09T19:55:37Z",
+        "updated_at": "2026-03-10T08:15:15.054963Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "dff8cf1f-d141-453a-9ef7-81fb62bb8945",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.10000000000000002,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36744,
+        "title": "SpaceX\u2019s Enters a new era with Booster 19 rolling to Pad 2",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/spacexs-booster-19-pad-2/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_9597-wmarked-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "For the first time since Flight 11 on Oct 13, 2025, 147 days ago, SpaceX\u2026\r\nThe post SpaceX\u2019s Enters a new era with Booster 19 rolling to Pad 2 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-09T19:23:30Z",
+        "updated_at": "2026-03-10T08:13:00.719858Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19318181818181818,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36747,
+        "title": "About Subsonic Flight Demonstrator (SFD) Project",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2021/06/ttbw-3-4-back-left.jpg",
+        "news_site": "NASA",
+        "summary": "The purpose of the Subsonic Flight Demonstrator (SFD) project is to engage with industry and other government organizations to\u00a0identify, select, and mature key airframe technologies, such as new wing designs, that have a high probability of transition to the next generation single-aisle seat class airliner.\u00a0 Moving technologies from a research environment to a production environment [\u2026]",
+        "published_at": "2026-03-09T19:00:00Z",
+        "updated_at": "2026-03-09T21:00:26.504937Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03876623376623377,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36743,
+        "title": "About Flight Demonstrations and Capabilities (FDC) Project",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/afrc2025-0168-045orig.jpg",
+        "news_site": "NASA",
+        "summary": "The FDC project conducts complex integrated small-scale flight research to\u00a0validate\u00a0the benefits of\u00a0new technologies. By\u00a0modifying\u00a0aircraft\u00a0from FDC\u2019s support fleet, the project enables aggressive, success-oriented flight campaign schedules. While many technologies are at mid-levels of technology\u00a0readiness, the FDC project supports all phases of technology maturation.\u00a0\u00a0 FDC\u2019s support\u00a0aircraft\u00a0fleet enables safety chase and in-flight experimental measurements for a variety of [\u2026]",
+        "published_at": "2026-03-09T18:30:00Z",
+        "updated_at": "2026-03-09T19:20:42.585979Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1090909090909091,
+        "sentiment_label": "Positive"
+    }
+]
