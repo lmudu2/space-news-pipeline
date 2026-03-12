@@ -1,0 +1,240 @@
+[
+    {
+        "id": 36802,
+        "title": "Firefly Alpha returns to flight",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nFirefly Aerospace\u2019s Alpha rocket successfully returned to flight March 11, launching a technology demonstration mission more than 10 months after the rocket\u2019s previous launch failed.\nThe post Firefly Alpha returns to flight appeared first on SpaceNews.",
+        "published_at": "2026-03-12T04:09:13Z",
+        "updated_at": "2026-03-12T04:10:27.095844Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36801,
+        "title": "Dust Outbreak Reaches Europe",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg",
+        "news_site": "NASA",
+        "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
+        "published_at": "2026-03-12T04:01:00Z",
+        "updated_at": "2026-03-12T04:10:10.459750Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36800,
+        "title": "The Post-Capacity Era of Satellite Connectivity",
+        "authors": [
+            {
+                "name": "Novaspace",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nParis, February 2026 \u2014\u00a0Novaspace\u2019s\u00a0Capacity Pricing Trends, 8th Edition\u00a0finds the satellite connectivity market has entered a\u00a0Post\u2011Capacity Era, where bandwidth is no longer the basis of differentiation. Starlink\u2019s vertical integration and cost [\u2026]\nThe post The Post-Capacity Era of Satellite Connectivity appeared first on SpaceNews.",
+        "published_at": "2026-03-12T01:10:51Z",
+        "updated_at": "2026-03-12T01:20:31.521856Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36799,
+        "title": "Enpulsion raises $26 million",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/enpulsion-raises-26-million/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nEnpulsion, an Austrian company that produces satellite electric propulsion systems, has raised its first significant outside funding to increase production and potentially acquire other companies.\nThe post Enpulsion raises $26 million appeared first on SpaceNews.",
+        "published_at": "2026-03-12T00:21:11Z",
+        "updated_at": "2026-03-12T00:30:37.758067Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36798,
+        "title": "Report criticizes delays in Artemis lunar lander development",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/lunarlanders.jpeg?fit=1024%2C638&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA\u2019s approach to managing the development of crewed lunar landers for Artemis has successfully controlled costs but not schedule, raising questions about NASA\u2019s desire to accelerate those efforts.\nThe post Report criticizes delays in Artemis lunar lander development appeared first on SpaceNews.",
+        "published_at": "2026-03-11T22:57:28Z",
+        "updated_at": "2026-03-11T23:00:35.259606Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36797,
+        "title": "New crew arrivals and science highlight February aboard the ISS",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_2855.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Following the early departure of Crew-11 in mid-January due to a medical concern, the International\u2026\nThe post New crew arrivals and science highlight February aboard the ISS appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-11T22:38:16Z",
+        "updated_at": "2026-03-11T22:40:17.409313Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0711038961038961,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36796,
+        "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-1751402466.jpg",
+        "news_site": "Arstechnica",
+        "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
+        "published_at": "2026-03-11T22:04:42Z",
+        "updated_at": "2026-03-11T22:10:07.603344Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36794,
+        "title": "2026 William T. Pecora Award Nominations Now Being Accepted",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/03/WTPecora_PressPhoto1970.jpg",
+        "news_site": "NASA",
+        "summary": "The William T. Pecora Award is presented annually to individuals or teams using satellite or aerial remote sensing that make outstanding contributions toward understanding the Earth (land, oceans, and air), educating the next generation of scientists, informing decision-makers, or supporting natural or human-induced disaster response. Both national and international nominations are welcome.",
+        "published_at": "2026-03-11T20:18:22Z",
+        "updated_at": "2026-03-11T21:10:10.229796Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.22142857142857145,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36792,
+        "title": "Missile strike hits SES teleport in Israel",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/SES_Betzdorf_2020_03_0.jpg?fit=1024%2C682&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSatellite operator SES said a missile \u201ctargeted and struck\u201d its teleport facility in Israel March 9 as tensions spill across the region amid ongoing Israeli and U.S. military operations against Iran.\nThe post Missile strike hits SES teleport in Israel appeared first on SpaceNews.",
+        "published_at": "2026-03-11T18:57:37Z",
+        "updated_at": "2026-03-11T19:02:35.852837Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36793,
+        "title": "About University Innovation Project (UI)",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-books.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s University Innovation (UI) project funds university-led innovation to address the agency\u2019s Aeronautics Research Mission Directorate\u2019s system-level challenges via independent, NASA-alternate-path, multi-disciplinary awards. Strategic Goals The UI portfolio\u2019s strategic goals in descending order of importance are: 1.\u00a0\u00a0 \u00a0Assist in achieving aviation outcomes defined in the ARMD Strategic Implementation Plan through NASA-complementary research. 2.\u00a0\u00a0 \u00a0Transition research [\u2026]",
+        "published_at": "2026-03-11T17:00:00Z",
+        "updated_at": "2026-03-11T20:40:12.701595Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
