@@ -1,0 +1,241 @@
+[
+    {
+        "id": 36825,
+        "title": "Eruption at Mayon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-at-mayon/mayonvolcano_oli_20260226.jpg",
+        "news_site": "NASA",
+        "summary": "Activity at the volcano in the Philippines sent lava and pyroclastic flows down the volcano\u2019s flanks and prompted evacuations in nearby communities.",
+        "published_at": "2026-03-13T04:01:00Z",
+        "updated_at": "2026-03-13T04:10:14.836135Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.15555555555555559,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36824,
+        "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 17-31 mission is SpaceX\u2019s 26th mission supporting its broadband internet satellite constellation so far in 2026. Liftoff from pad 4 East at Vandenberg Space Force Base is scheduled for 7:33:50 a.m. PDT (10:33:50 a.m. EDT / 1433:50 UTC).",
+        "published_at": "2026-03-13T02:57:21Z",
+        "updated_at": "2026-03-13T07:30:42.303774Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.22272727272727275,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 36823,
+        "title": "Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 10-48 mission will add another 29 broadband internet satellites to the company\u2019s constellation in low Earth orbit. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 8:10 a.m. EDT (1210 UTC).",
+        "published_at": "2026-03-13T02:08:35Z",
+        "updated_at": "2026-03-13T07:30:35.680922Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "6f2868b8-1000-48e5-893b-700c1371b4fb",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36821,
+        "title": "NASA Now Targeting April 1 for Artemis II\u2019s Launch Around The Moon",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-2-April-dates-297x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA announced today they are targeting April 1 at 6:24 pm Eastern Daylight Time for sending the Artemis II crew around the Moon. In preparation, their Space Launch System rocket [\u2026]",
+        "published_at": "2026-03-12T22:38:00Z",
+        "updated_at": "2026-03-13T07:30:24.569372Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36819,
+        "title": "China\u2019s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/mars-northern-hemisphere-medium-res-Tianwen1-26march2021-cnsa-pec-scaled.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "China\u2019s Tianwen-3 Mars sample return mission is entering flight hardware development, targeting a late 2028 launch to seek out biosignatures on the Red Planet.\r\nThe post China\u2019s Tianwen-3 Mars sample return mission moves into spacecraft construction phase appeared first on SpaceNews.",
+        "published_at": "2026-03-12T22:23:52Z",
+        "updated_at": "2026-03-13T07:30:18.481878Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.016666666666666663,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36822,
+        "title": "About Low Boom Flight Demonstrator (LBFD) Project",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0168-038orig.jpg",
+        "news_site": "NASA",
+        "summary": "The Low Boom Flight Demonstrator project (LBFD) is part of NASA\u2019s effort to help enable new\u00a0aircraft\u00a0noise standards that are\u00a0required\u00a0to open the market to commercial supersonic flight over land. The federal government banned all civilian supersonic flights over land more than fifty years ago due to sonic boom noise. If new standards are\u00a0established, the U.S. aviation [\u2026]",
+        "published_at": "2026-03-12T22:00:00Z",
+        "updated_at": "2026-03-12T23:20:09.451418Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08096590909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36818,
+        "title": "NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/",
+        "image_url": "https://images-assets.nasa.gov/image/iss073e0008485/iss073e0008485~large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronauts will conduct a pair of spacewalks beginning Wednesday, March 18, outside of the International Space Station to prepare for the installation of two roll-out solar arrays. Experts from NASA will preview the spacewalks during a news conference at 2 p.m. EDT, Monday, March 16, at the agency\u2019s Johnson Space Center in Houston. Watch [\u2026]",
+        "published_at": "2026-03-12T21:09:16Z",
+        "updated_at": "2026-03-13T07:30:06.915840Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1308,
+                "provider": "Launch Library 2"
+            },
+            {
+                "event_id": 1309,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.025,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36820,
+        "title": "About Integrated Aviation Systems Program (IASP)",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/iasp-cover-03a.jpeg",
+        "news_site": "NASA",
+        "summary": "The Integrated Aviation Systems Program (IASP) conducts research and integrated, systems-level demonstrations in a flight environment to prove, mature and transition them into future aircraft and systems. The program aims to determine feasibility and accelerate development of less mature technologies, and for more mature technologies, execute highly complex flight demonstrations to prove and accelerate technology [\u2026]",
+        "published_at": "2026-03-12T21:00:00Z",
+        "updated_at": "2026-03-12T22:40:13.137854Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.047619047619047616,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36817,
+        "title": "Voyager opens defense and space tech hub in Long Beach",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Voyager-Long-Beach-Exterior-Top-View-Courtesy-Voyager-Technologies-scaled.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNew facility to support electronics and software development for missile defense and space programs\nThe post Voyager opens defense and space tech hub in Long Beach appeared first on SpaceNews.",
+        "published_at": "2026-03-12T18:00:00Z",
+        "updated_at": "2026-03-12T18:02:21.024864Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0715909090909091,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36816,
+        "title": "Tiny NASA Spacecraft Delivers\u00a0Exoplanet Mission\u2019s\u00a0First Images",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/1-pia26731-sparcs-first-light-20260309-0837.png",
+        "news_site": "NASA",
+        "summary": "With the first images from the spacecraft now in hand, the team behind NASA\u2019s Star-Planet Activity Research CubeSat, or SPARCS, is ready to begin charting the energetic lives of the galaxy\u2019s most common stars to help answer one of humanity\u2019s most profound questions: Which distant worlds beyond our solar system might be habitable?\u00a0 Initial, or [\u2026]",
+        "published_at": "2026-03-12T16:41:27Z",
+        "updated_at": "2026-03-13T07:31:01.350306Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1236111111111111,
+        "sentiment_label": "Positive"
+    }
+]
