@@ -1,0 +1,44 @@
+[
+    {
+        "id": 36862,
+        "title": "Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept",
+        "authors": [
+            {
+                "name": "Martijn Luinstra and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-14-21-00-18-971.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Blue Origin has unveiled a new mission concept called NEO Hunter, designed to protect Earth\u2026\nThe post Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-14T21:15:26Z",
+        "updated_at": "2026-03-14T21:20:15.593439Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36861,
+        "title": "NASA Administrator teases further Artemis program updates in one-on-one interview",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260312_Isaacman_Interview_JP-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The conversation took place amid the flight readiness review for the Artemis 2 mission, which is currently set to launch no earlier than April 1, 2026, pending work being completed in the Vehicle Assembly Building. ",
+        "published_at": "2026-03-14T11:23:21Z",
+        "updated_at": "2026-03-14T11:30:29.764793Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
