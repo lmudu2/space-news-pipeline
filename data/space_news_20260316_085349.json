@@ -1,0 +1,121 @@
+[
+    {
+        "id": 36867,
+        "title": "Starcloud files plans for 88,000-satellite constellation",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAn orbital data center startup is seeking approval from the Federal Communications Commission for a constellation of as many as 88,000 satellites.\nThe post Starcloud files plans for 88,000-satellite constellation appeared first on SpaceNews.",
+        "published_at": "2026-03-15T22:32:15Z",
+        "updated_at": "2026-03-15T22:40:45.176713Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21666666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36866,
+        "title": "What\u2019s Happening in Space Policy March 15-22, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-to-VAB-Feb-25-26-300x200.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week plus a day of March 15-22, 2026 and any insight we can offer about them. The House and Senate [\u2026]",
+        "published_at": "2026-03-15T20:38:34Z",
+        "updated_at": "2026-03-15T20:40:24.880212Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36865,
+        "title": "OSTP taking on space policy coordination work in place of National Space Council",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIn the absence of the National Space Council, the White House Office of Science and Technology Policy (OSTP) has taken on a lead role in coordinating national space policy.\nThe post OSTP taking on space policy coordination work in place of National Space Council appeared first on SpaceNews.",
+        "published_at": "2026-03-15T16:04:52Z",
+        "updated_at": "2026-03-15T16:10:28.884546Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07916666666666666,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36864,
+        "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-10.59.03-AM.png?fit=1024%2C526&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAnalysts are relying on tools that fuse satellite imagery, ship data and open-source reporting into real-time insight\nThe post Strait of Hormuz crisis drives demand for commercial geospatial intelligence appeared first on SpaceNews.",
+        "published_at": "2026-03-15T15:06:01Z",
+        "updated_at": "2026-03-15T15:10:37.057658Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36863,
+        "title": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/9335717-scaled.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe contract supports communications terminals used in the U.S. nuclear command-and-control architecture\nThe post Raytheon contract for protected satellite communications terminals raised by $2 billion appeared first on SpaceNews.",
+        "published_at": "2026-03-15T13:14:06Z",
+        "updated_at": "2026-03-15T13:20:24.137730Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
