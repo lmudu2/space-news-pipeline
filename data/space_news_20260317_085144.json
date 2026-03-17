@@ -1,0 +1,285 @@
+[
+    {
+        "id": 36890,
+        "title": "A Bit of Gray on an Emerald Isle",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg",
+        "news_site": "NASA",
+        "summary": "Ireland is best known for its many greens, but the striking grays of the island\u2019s Burren region also stand out in satellite images.",
+        "published_at": "2026-03-17T04:01:00Z",
+        "updated_at": "2026-03-17T04:10:06.348097Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.6666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36889,
+        "title": "Kshatriya Hints NASA May Reconsider South Pole for Initial Artemis Landings",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/kshatriya-hints-nasa-may-reconsider-south-pole-for-initial-artemis-landings/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Amit-Kshatryia-Feb-27-26-presser-300x160.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA Associate Administrator Amit Kshatriya said today that to be as agile as possible, the agency is opening up the specifications for early Artemis landings while keeping their sights on [\u2026]",
+        "published_at": "2026-03-17T03:39:24Z",
+        "updated_at": "2026-03-17T08:12:07.963927Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "372d94b1-88fe-4cc5-9296-d893c9fa9426",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d7042e81-6420-449d-8154-2611641e9822",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36888,
+        "title": "Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-031626/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/04/julia-streak-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Another busy launch manifest is scheduled for this week, with nine launches expected from various\u2026\r\nThe post Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-16T23:24:31Z",
+        "updated_at": "2026-03-17T08:01:24.029776Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "36dd2ab6-b454-40c5-8707-7d38c69cf226",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "cf34aee7-a118-433b-8337-05b2c6892815",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "42e15d83-d3b0-469d-9d58-580d242f364f",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "f5df8e48-7612-4757-bd1b-cdb5b5a1936b",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "890f714a-aa3c-487f-ae81-b7e654276cd5",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "1ca3ea18-b25b-4aad-9f6a-60a6434a8fa7",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "2ab15fcb-7a74-429d-bab0-43635b723cfd",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "9819a575-468b-41a3-b254-fe2db68889a4",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.09,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36887,
+        "title": "Live coverage: SpaceX to launch a Falcon 9 rocket on St. Patrick\u2019s Day morning",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-a-falcon-9-rocket-on-st-patricks-day-morning/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/09/20240904_F9_Starlink_8-11_prelaunch-678x452.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 10-46 mission will add another 29 Starlink V2 Mini satellites to the low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 6:26 a.m. EDT (1026 UTC).",
+        "published_at": "2026-03-16T22:28:23Z",
+        "updated_at": "2026-03-17T08:00:10.761396Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f5df8e48-7612-4757-bd1b-cdb5b5a1936b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36886,
+        "title": "Nvidia unveils AI computing module for space-based data centers",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-computing.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nChipmaker says new system is designed for satellites and other power-constrained missions\nThe post Nvidia unveils AI computing module for space-based data centers appeared first on SpaceNews.",
+        "published_at": "2026-03-16T22:17:41Z",
+        "updated_at": "2026-03-16T22:20:32.363493Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08712121212121211,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36884,
+        "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251007_Falcon-9_sunset.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Starlink 17-24 mission is scheduled for 8:39:30 p.m. PDT (11:39:30 p.m. EDT / 0339:30 UTC).",
+        "published_at": "2026-03-16T21:51:29Z",
+        "updated_at": "2026-03-17T08:00:04.590733Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "42e15d83-d3b0-469d-9d58-580d242f364f",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.13636363636363635,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36883,
+        "title": "Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Strait-of-Hormuz-Kuva-Space-HF-1.png?fit=882%2C896&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nTensions around the Strait of Hormuz have pushed interest in commercial geospatial intelligence services to unprecedented levels, an executive at Kayrros said after the satellite analytics provider agreed to be acquired by Energy Aspects.\nThe post Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis appeared first on SpaceNews.",
+        "published_at": "2026-03-16T21:47:33Z",
+        "updated_at": "2026-03-16T21:50:25.314825Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36882,
+        "title": "NASA Invites Media to Learn About Upcoming X-59 Test Flights",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg",
+        "news_site": "NASA",
+        "summary": "NASA will hold a media teleconference at 5:30 p.m. EDT on Thursday, March 19 to highlight plans for its X-59 quiet supersonic aircraft\u2019s upcoming flight tests. The teleconference is set to take place after the X-59 is scheduled to complete its second flight, in California. For the media call, NASA leadership will join representatives from [\u2026]",
+        "published_at": "2026-03-16T19:48:16Z",
+        "updated_at": "2026-03-16T19:50:11.723930Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36880,
+        "title": "SPARCS CubeSat \u2018First Light\u2019 Images",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26731/PIA26731.png",
+        "news_site": "NASA",
+        "summary": "Description This pair of images shows stars observed by the SPARCS (Star-Planet Activity Research CubeSat) space telescope simultaneously in the near-ultraviolet, left, and far-ultraviolet, right. These observations were recorded on Feb. 6, 2026, three weeks after the cube satellite, or CubeSat, launched aboard a SpaceX Falcon 9 on Jan. 11. The fact that one star [\u2026]",
+        "published_at": "2026-03-16T18:52:50Z",
+        "updated_at": "2026-03-17T08:00:27.593925Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "02700e48-65c6-4a95-8b97-c47152302283",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.23392857142857143,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36881,
+        "title": "To Protect Artemis II Astronauts, NASA Experts Keep Eyes\u00a0on Sun",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/03/03b-perseverancesunspotsfeb-24-2720261.gif",
+        "news_site": "NASA",
+        "summary": "As four astronauts travel around the Moon on NASA\u2019s Artemis II mission, they\u00a0will\u00a0venture beyond Earth\u2019s protective magnetic field. The crew\u2019s spacecraft, Orion, will carry and protect them as they journey into deep space and serves as the main protection against the Sun\u2019s intense power.\u202f During their\u00a010-day\u00a0flight, NASA and the National Oceanic and Atmospheric Administration (NOAA)\u00a0will\u00a0monitor\u00a0the [\u2026]",
+        "published_at": "2026-03-16T18:42:13Z",
+        "updated_at": "2026-03-17T07:59:48.707013Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.09166666666666667,
+        "sentiment_label": "Neutral"
+    }
+]
