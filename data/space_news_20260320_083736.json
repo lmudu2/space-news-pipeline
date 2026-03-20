@@ -1,0 +1,226 @@
+[
+    {
+        "id": 36951,
+        "title": "Restless K\u012blauea Launches Lava and Ash",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/restless-k%C4%ABlauea-launches-lava-and-ash/kilauea_oli2_20260311.jpg",
+        "news_site": "NASA",
+        "summary": "Episode 43 of the Hawaiian volcano\u2019s current eruption was marked by high lava fountains and widespread ash dispersal.",
+        "published_at": "2026-03-20T04:01:00Z",
+        "updated_at": "2026-03-20T04:10:45.094320Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36950,
+        "title": "NASA Convening Artemis International Partners Next Week",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-convening-artemis-international-partners-next-week/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Aschbacher-presser-Mar-19-2026-300x168.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA is bringing together the international partners in the Artemis program next week to discuss the program\u2019s new architecture. NASA differentiates Artemis from the Apollo program by emphasizing that this [\u2026]",
+        "published_at": "2026-03-20T00:13:38Z",
+        "updated_at": "2026-03-20T00:20:47.527333Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36949,
+        "title": "Blue Origin joins the orbital data center race",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/gallery_ng2-liftoff.jpg?fit=1024%2C679&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nBlue Origin is the latest company to propose an orbital data center system, filing plans for a constellation of up to 51,600 satellites.\nThe post Blue Origin joins the orbital data center race appeared first on SpaceNews.",
+        "published_at": "2026-03-19T23:30:09Z",
+        "updated_at": "2026-03-19T23:32:36.851694Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05625000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36948,
+        "title": "Live coverage: NASA to roll its SLS rocket back to the launch pad ahead of planned April flight of Artemis 2",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/19/live-coverage-nasa-to-roll-its-sls-rocket-back-to-the-launch-pad-ahead-of-planned-april-flight-of-artemis-2/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260319_SLS_before_rollout.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The rollout of the 322-foot-tall rocket is anticipated to take about 12 hours after first motion. NASA hopes to launch the crewed test flight to the Moon no earlier than April 1. ",
+        "published_at": "2026-03-19T21:19:51Z",
+        "updated_at": "2026-03-19T21:22:45.803829Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09659090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36947,
+        "title": "Register now: The energy imperative driving the push toward orbital data centers",
+        "authors": [
+            {
+                "name": "SpaceNews Editor",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/the-energy-imperative-orbital-data-centers-virtual-event/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/2026-03-31-energy-imperative-odc-spacenews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nJoin us on March 31 for a virtual event, sponsored by Star Catcher and in partnership with the Commercial Space Federation\nThe post Register now: The energy imperative driving the push toward orbital data centers appeared first on SpaceNews.",
+        "published_at": "2026-03-19T18:37:29Z",
+        "updated_at": "2026-03-19T18:42:32.868719Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36946,
+        "title": "Kratos wins $446 million Space Force contract for missile-tracking ground systems",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/Millennium-MTC.jpg.jpeg?fit=800%2C500&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe agreement is for ground management and integration for the Resilient Missile Warning and Tracking satellite program\nThe post Kratos wins $446 million Space Force contract for missile-tracking ground systems appeared first on SpaceNews.",
+        "published_at": "2026-03-19T18:03:01Z",
+        "updated_at": "2026-03-19T18:05:30.715931Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36945,
+        "title": "Portal Space Systems and Paladin Space plan debris removal service",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/portal-paladin.jpeg?fit=1024%2C545&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nPortal Space Systems, a company developing maneuverable spacecraft, is partnering with an Australian startup to offer a commercial orbital debris removal service.\nThe post Portal Space Systems and Paladin Space plan debris removal service appeared first on SpaceNews.",
+        "published_at": "2026-03-19T17:00:00Z",
+        "updated_at": "2026-03-19T17:05:28.751346Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36944,
+        "title": "Eileen Collins on what it takes to become Space Shuttle Commander",
+        "authors": [
+            {
+                "name": "SpaceNews Editor",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-minds-podcast-eileen-collins-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIn this episode of the Space Minds podcast, host David Ariosto speaks with Eileen Collins, retired NASA astronaut, Air Force colonel and the first woman to pilot the Space Shuttle [\u2026]\nThe post Eileen Collins on what it takes to become Space Shuttle Commander appeared first on SpaceNews.",
+        "published_at": "2026-03-19T15:38:28Z",
+        "updated_at": "2026-03-19T15:41:20.909486Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36942,
+        "title": "American Bald Eagle at NASA\u2019s Kennedy Space Center",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/ksc-20260313-ph-jbs01-0203orig.jpg",
+        "news_site": "NASA",
+        "summary": "An American bald eagle flies away from its nest and tree at NASA\u2019s Kennedy Space Center in Florida on Friday, March 13, 2026. Bald eagle nesting surveys across NASA Kennedy, Merritt Island National Wildlife Refuge, and Canaveral National Seashore are conducted annually to document the number of bald eagle active and inactive nests in support [\u2026]",
+        "published_at": "2026-03-19T15:16:25Z",
+        "updated_at": "2026-03-19T15:20:13.149608Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666668,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36943,
+        "title": "How NASA is Collecting Explosion Data for Next Generation Rockets",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/joe-schuyler-4x3-1.jpg",
+        "news_site": "NASA",
+        "summary": "Commercial launch providers continue to advance propulsion technology with a renewed focus on liquid oxygen and methane propelled rockets and spacecraft. As systems grow in scale, carrying millions of pounds of propellant, so too does the responsibility to fully understand the safety profile. Engineers at NASA, with decades of cryogenic and test operations expertise, are [\u2026]",
+        "published_at": "2026-03-19T15:13:24Z",
+        "updated_at": "2026-03-19T15:20:13.207462Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
