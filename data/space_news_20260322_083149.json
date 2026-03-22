@@ -1,0 +1,100 @@
+[
+    {
+        "id": 36982,
+        "title": "Some European Launcher Challenge funding remains in limbo",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/orbexprime-nov2025.jpeg?fit=1024%2C682&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNearly 140 million euros ($162 million) that European Space Agency member states allocated to a program to support launch vehicle development remains in limbo and could be lost.\nThe post Some European Launcher Challenge funding remains in limbo appeared first on SpaceNews.",
+        "published_at": "2026-03-22T00:53:32Z",
+        "updated_at": "2026-03-22T01:01:59.805918Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06999999999999999,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36981,
+        "title": "Progress MS-33 set to resume Russian flights to ISS from repaired pad",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/progress-ms33/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_5463.png",
+        "news_site": "NASASpaceflight",
+        "summary": "Just under four months after Soyuz MS-28 launched from Site 31/6 at Baikonur Cosmodrome in\u2026\nThe post Progress MS-33 set to resume Russian flights to ISS from repaired pad appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-21T23:18:14Z",
+        "updated_at": "2026-03-21T23:20:19.481597Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36980,
+        "title": "Artemis 2 returns to the pad for April launch attempt",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ20260320_admin_0005-large.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Artemis 2 launch vehicle and spacecraft have returned to the launch pad for a launch as soon as April 1.\nThe post Artemis 2 returns to the pad for April launch attempt appeared first on SpaceNews.",
+        "published_at": "2026-03-21T15:14:03Z",
+        "updated_at": "2026-03-21T15:20:43.684700Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36979,
+        "title": "Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions",
+        "authors": [
+            {
+                "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-21-03-51-23-616.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Blue Origin is showcasing the production cadence of its New Glenn heavy-lift rocket at its\u2026\nThe post Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-21T13:19:28Z",
+        "updated_at": "2026-03-21T13:20:21.921683Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05101010101010101,
+        "sentiment_label": "Neutral"
+    }
+]
