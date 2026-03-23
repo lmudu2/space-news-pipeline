@@ -1,0 +1,199 @@
+[
+    {
+        "id": 36990,
+        "title": "A rare encounter: How Juice came to observe 3I/ATLAS",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/juice_s_navcam_video_of_3i_atlas_cruising_through_space/27162890-1-eng-GB/Juice_s_NavCam_video_of_3I_ATLAS_cruising_through_space_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "No matter how much planning goes into space missions, one must always expect the unexpected. But luck favours the prepared. In July 2025, an unexpected visitor entered our Solar System, interstellar object 3I/ATLAS. ESA\u2019s Jupiter Icy Moons Explorer \u2013 Juice \u2013 happened to be in the right place, with the right equipment, at the right time to see it.",
+        "published_at": "2026-03-23T07:30:00Z",
+        "updated_at": "2026-03-23T07:34:58.933175Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1821428571428571,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36988,
+        "title": "A Fault Line in Full Bloom",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-fault-line-in-full-bloom/carrizobloomwide_oli_20260305.jpg",
+        "news_site": "NASA",
+        "summary": "Plains around the San Andreas Fault and across Carrizo Plain National Monument are awash with yellow as wildflowers bloom.",
+        "published_at": "2026-03-23T04:01:00Z",
+        "updated_at": "2026-03-23T04:10:39.915099Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04523809523809524,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36989,
+        "title": "Swissto12 to build small optical relay GEO satellite for Space Compass",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/SWISSto12_Space-Compass_Leadership.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSwissto12, the Switzerland-based small geostationary satellite specialist, has signed a contract to build the first optical relay spacecraft using its washing machine-sized HummingSat platform.\nThe post Swissto12 to build small optical relay GEO satellite for Space Compass appeared first on SpaceNews.",
+        "published_at": "2026-03-23T04:01:00Z",
+        "updated_at": "2026-03-23T04:11:11.556514Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36987,
+        "title": "What\u2019s Happening in Space Policy March 22-28, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-22-28-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/progress-ms33-300x168.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of March 22-28, 2026 and any insight we can offer about them. The House and Senate are in session [\u2026]",
+        "published_at": "2026-03-22T21:20:33Z",
+        "updated_at": "2026-03-22T21:30:13.184778Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36986,
+        "title": "Transformational Tools and Technologies Resources",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/lrc-2025-ocio-p-03625-mod-a-0c4750.jpg",
+        "news_site": "NASA",
+        "summary": "Vision Studies, Analysis of Alternatives (AoA) Studies, and White Papers",
+        "published_at": "2026-03-22T18:59:32Z",
+        "updated_at": "2026-03-22T19:01:55.431359Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36985,
+        "title": "SpaceX offers details on orbital data center satellites",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starship-aisatmini.jpeg?fit=1024%2C572&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpaceX Chief Executive Elon Musk revealed more technical, but not financial, details about his company\u2019s plans to deploy an orbital data center constellation.\nThe post SpaceX offers details on orbital data center satellites appeared first on SpaceNews.",
+        "published_at": "2026-03-22T18:08:55Z",
+        "updated_at": "2026-03-22T18:30:25.043136Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07222222222222223,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 36984,
+        "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/22/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/02/20250211_Starlink_12-18_prelaunch-678x372.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Starlink 10-62 mission from pad 40 at Cape Canaveral Space Force Station is scheduled for 10:47 a.m. EDT (1447 UTC). The rocket will fly on a northeasterly trajectory.",
+        "published_at": "2026-03-22T13:14:25Z",
+        "updated_at": "2026-03-23T07:34:53.239878Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "2ab15fcb-7a74-429d-bab0-43635b723cfd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.4681818181818182,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 36983,
+        "title": "ESA Regains Contact With Lost Proba-3 Spacecraft",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/esa-regains-contact-with-lost-proba-3-spacecraft/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/03/ESA-Regains-Contact-With-Lost-Proba-3-Spacecraft.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The European Space Agency has regained contact with the Coronagraph spacecraft of its Proba-3 mission after more than a month of silence. Launched aboard an ISRO PSLV-XL rocket in December 2024, the Proba-3 mission\u2019s Coronagraph and Occulter spacecraft work in tandem to create and observe an artificial solar eclipse that enables observations of the Sun\u2019s [\u2026]\r\nThe post ESA Regains Contact With Lost Proba-3 Spacecraft appeared first on European Spaceflight.",
+        "published_at": "2026-03-22T06:16:35Z",
+        "updated_at": "2026-03-23T07:34:45.231728Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "2a780cb9-9bf9-4537-927e-389f1659a709",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.030000000000000006,
+        "sentiment_label": "Neutral"
+    }
+]
