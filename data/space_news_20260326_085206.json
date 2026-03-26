@@ -1,0 +1,242 @@
+[
+    {
+        "id": 37071,
+        "title": "A Hot Start to Spring in the Southwest",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-hot-start-to-spring-in-the-southwest/swheatwave_gmao_20260320.jpg",
+        "news_site": "NASA",
+        "summary": "Temperatures in several states climbed over 100 degrees Fahrenheit in March 2026, which in some places was the highest March temperature on record.",
+        "published_at": "2026-03-26T04:00:00Z",
+        "updated_at": "2026-03-26T04:10:42.899276Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37070,
+        "title": "NASA Gears Up for Artemis II Launch Around the Moon a Week From Now",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-on-pad-March-20-2026-Kowsky-209x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA continues to plan for the launch of the first crewed mission around the Moon in more than 50 years one week from today. Weather or technical issues could still [\u2026]",
+        "published_at": "2026-03-26T02:10:54Z",
+        "updated_at": "2026-03-26T08:02:07.442943Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37068,
+        "title": "NASA outlines Moon Base plans, pivots on Gateway",
+        "authors": [
+            {
+                "name": "Ryan Caton and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-25-22-12-49-708.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "In a major shift announced during its \u201cIgnition\u201d event this week, NASA unveiled a detailed\u2026\r\nThe post NASA outlines Moon Base plans, pivots on Gateway appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-25T23:16:13Z",
+        "updated_at": "2026-03-26T07:58:15.148695Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1379,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.321875,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37067,
+        "title": "NASA Ames Experts Available for Artemis II\u00a0Flight Test Interviews",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/01/iss-blog-nasa-meatball.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Ames Research Center in Silicon Valley invites media to interview local subject matter experts on Friday, March 27 from 10 a.m. to 2 p.m. ahead of the agency sending astronauts around the Moon for the first time in more than 50 years with the Artemis II flight test. NASA teams are gearing up for [\u2026]",
+        "published_at": "2026-03-25T23:16:01Z",
+        "updated_at": "2026-03-26T07:56:56.506310Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.14722222222222223,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37065,
+        "title": "NASA Sets Coverage for First Artemis Crewed Mission Around Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew-7ff19d.jpg",
+        "news_site": "NASA",
+        "summary": "A variety of prelaunch, launch, and mission events for NASA\u2019s Artemis II mission around the Moon will stream online. The agency is targeting no earlier than Wednesday, April 1, for the test flight during a two-hour window that opens at 6:24 p.m. EDT, with additional launch opportunities through Monday, April 6. Artemis II is NASA\u2019s [\u2026]",
+        "published_at": "2026-03-25T22:58:26Z",
+        "updated_at": "2026-03-26T07:58:18.147187Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37066,
+        "title": "Space Force weighs launch alternatives as Vulcan faces potential months-long grounding",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Officials explore shifting missions, extending satellites already in orbit\r\nThe post Space Force weighs launch alternatives as Vulcan faces potential months-long grounding appeared first on SpaceNews.",
+        "published_at": "2026-03-25T22:55:37Z",
+        "updated_at": "2026-03-26T08:01:58.958680Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37061,
+        "title": "NASA Sets Coverage for Artemis II Moon Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/a2crew.jpg",
+        "news_site": "NASA",
+        "summary": "Editor\u2019s note: NASA will continuously update this Artemis II briefings and mission events page throughout prelaunch, launch, and mission activities. NASA will provide live coverage of prelaunch, launch, and mission events for the agency\u2019s upcoming Artemis II crewed test flight around the Moon. Launch is targeted for no earlier than 6:24 p.m. EDT Wednesday, April [\u2026]",
+        "published_at": "2026-03-25T21:55:11Z",
+        "updated_at": "2026-03-26T07:56:36.170496Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37062,
+        "title": "Cavossa: CLD Companies Want Stability, Not a New Plan",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/03/Crew-10-view-of-ISS-Mar-15-25-300x160.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Companies developing commercial space stations to replace the International Space Station are not pleased with NASA\u2019s latest proposal to change the plan. At a House hearing today, the head of [\u2026]",
+        "published_at": "2026-03-25T21:54:17Z",
+        "updated_at": "2026-03-25T22:02:54.295471Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03636363636363636,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37063,
+        "title": "Artemis Moon Tree Dedicated in Honor of Mary W. Jackson",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/MaryJacksonArtemisMoonTreeSign.png",
+        "news_site": "NASA",
+        "summary": "On March 18, 2026, students, staff, and members of NASA\u2019s Langley Research Center gathered at Mary W. Jackson Elementary School in Hampton to celebrate the dedication of a remarkable addition to the campus \u2013 an Artemis Moon Tree. Although formally dedicated on this day, the loblolly pine had already taken root months earlier, having been [\u2026]",
+        "published_at": "2026-03-25T21:19:37Z",
+        "updated_at": "2026-03-25T22:11:19.820893Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37059,
+        "title": "NASA Names Jennifer Lyons as Acting Launch Services Program Manager",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/",
+        "image_url": "https://images-assets.nasa.gov/image/KSC-20240617-PH-SPX01_0009/KSC-20240617-PH-SPX01_0009~large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA has selected Jennifer Lyons as acting program manager for the agency\u2019s Launch Services Program (LSP) based at Kennedy Space Center in Florida. In this role, Lyons will lead NASA\u2019s acquisition and management of domestic commercial launch services for science and robotic exploration missions beginning Wednesday, April 1. Lyons will oversee mission planning, launch vehicle [\u2026]",
+        "published_at": "2026-03-25T19:59:37Z",
+        "updated_at": "2026-03-25T20:03:19.588759Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.03333333333333333,
+        "sentiment_label": "Neutral"
+    }
+]
