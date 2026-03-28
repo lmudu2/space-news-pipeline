@@ -1,0 +1,229 @@
+[
+    {
+        "id": 37129,
+        "title": "Artemis 2 astronauts arrive at KSC",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/art2-ksc-20260327.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "The four Artemis 2 astronauts arrived in Florida March 27 for final preparations ahead of a launch still scheduled as soon as April 1.\r\nThe post Artemis 2 astronauts arrive at KSC appeared first on SpaceNews.",
+        "published_at": "2026-03-28T00:45:26Z",
+        "updated_at": "2026-03-28T07:56:35.265962Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37127,
+        "title": "U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-arrv-KSC-Mar-27-26-300x166.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The four astronauts who will fly around the Moon as soon as next week and their backups arrived at Kennedy Space Center this afternoon. Full of enthusiasm, they also conveyed [\u2026]",
+        "published_at": "2026-03-27T22:23:08Z",
+        "updated_at": "2026-03-28T07:56:28.978540Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37126,
+        "title": "I Am Artemis: Erik Richards",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/02/image-1-2.jpg",
+        "news_site": "NASA",
+        "summary": "Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting\u00a0NASA\u2019s\u00a0first crewed Artemis\u00a0mission\u00a0to the Moon and back\u00a0is the culmination of a career spent helping spacecraft communicate\u00a0with Earth.\u00a0 Like many kids who grew up at the height of the Space Shuttle\u00a0Program, Richards dreamed of spaceflight\u00a0\u2014 a\u00a0dream\u00a0that\u00a0eventually\u00a0took him\u00a0from\u00a0the\u00a0remote\u00a0McMurdo Station\u00a0in Antarctica to [\u2026]",
+        "published_at": "2026-03-27T21:30:40Z",
+        "updated_at": "2026-03-27T21:40:31.673235Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1285714285714286,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37125,
+        "title": "NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/03/clps-nova-d-1.png",
+        "news_site": "NASA",
+        "summary": "NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency\u2019s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads \u2014 five of them NASA\u2019s \u2014 is expected to increase understanding of the chemical composition [\u2026]",
+        "published_at": "2026-03-27T21:12:52Z",
+        "updated_at": "2026-03-28T07:56:53.308756Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37124,
+        "title": "NASA\u2019s Environment and Energy \u201cBlue Marble\u201d Awards Categories",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2024/03/image-of-earth-13-apollo-17-blue-marble-photo-dec-7-1972-as17-148-22727.jpg",
+        "news_site": "NASA",
+        "summary": "Category I: NASA Environmental Quality Award Recognizes excellence in environmental management and planning, including stewardship of natural and cultural resources. This category highlights achievements in compliance, conservation, remediation, communication, and environmental information management, and the development of strong stakeholder partnerships. Category II: NASA Award for Excellence in Project or Program Execution Honors efforts that reduce [\u2026]",
+        "published_at": "2026-03-27T19:27:09Z",
+        "updated_at": "2026-03-27T19:30:40.664069Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37123,
+        "title": "Commercial Space Federation (CSF) Welcomes\u00a0Two New Associate Members",
+        "authors": [
+            {
+                "name": "Commercial Space Federation",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/commercial-space-federation-square.png?fit=1024%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMarch 27, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Astrolab and Zeno Power, two innovative companies advancing planetary mobility and reliable energy in extreme environments. [\u2026]\nThe post Commercial Space Federation (CSF) Welcomes\u00a0Two New Associate Members appeared first on SpaceNews.",
+        "published_at": "2026-03-27T19:00:00Z",
+        "updated_at": "2026-03-27T19:11:29.367367Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2197727272727273,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37120,
+        "title": "ESA to decide by June on Europe\u2019s Gateway contributions",
+        "authors": [
+            {
+                "name": "Emma Gatti",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/DSC_5064.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMUNICH \u2014 For more than a year, questions have swirled about Artemis changes and the Gateway\u2019s role in U.S. lunar ambitions. Following NASA\u2019s March 24 decision to halt work on Gateway, the lunar-orbiting station that had been intended to support astronauts before and after lunar surface missions, Europe now faces the challenge of redefining its [\u2026]\nThe post ESA to decide by June on Europe\u2019s Gateway contributions\u00a0 appeared first on SpaceNews.",
+        "published_at": "2026-03-27T18:55:53Z",
+        "updated_at": "2026-03-27T19:00:31.449950Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37121,
+        "title": "NISAR\u2019s View of Mount Rainier",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26672/PIA26672-NISAR%20Views%20Mount%20Ranier.jpg",
+        "news_site": "NASA",
+        "summary": "Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington\u2019s Mount Rainier. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR\u2019s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from the [\u2026]",
+        "published_at": "2026-03-27T18:32:40Z",
+        "updated_at": "2026-03-27T19:10:38.352782Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37122,
+        "title": "NISAR Views Mount St. Helens",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26692/PIA26692-NISAR%20Views%20Mount%20St.%20Helens.jpg",
+        "news_site": "NASA",
+        "summary": "Description This image captured by U.S.-Indian Earth satellite NISAR on Nov. 10, 2025, shows Washington\u2019s Mount St. Helens. The image is cropped from a much larger swath spanning the Pacific Northwest on a cloudy day; NISAR\u2019s L-band SAR instrument is able to peer through the clouds at the surface below. In Pacific Northwest imagery from [\u2026]",
+        "published_at": "2026-03-27T18:29:54Z",
+        "updated_at": "2026-03-27T19:10:38.501901Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37118,
+        "title": "NASA\u00a0Tech\u00a0and Science\u00a0Bound for\u00a0Low Earth Orbit\u00a0on Commercial Launch",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+        "news_site": "NASA",
+        "summary": "Technology and science demonstrations, supported by various NASA industry collaborations and agency developments, are set to launch to low Earth orbit aboard a SpaceX Falcon 9 rocket as part of the company\u2019s Transporter-16 commercial rideshare mission. These demonstrations will test thermal protection systems, advance in-space communications, deepen our understanding of Earth\u2019s atmosphere, and foster capabilities [\u2026]",
+        "published_at": "2026-03-27T18:00:08Z",
+        "updated_at": "2026-03-27T18:00:15.785276Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
