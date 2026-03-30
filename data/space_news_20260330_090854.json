@@ -1,0 +1,114 @@
+[
+    {
+        "id": 37140,
+        "title": "Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/30/live-coverage-spacex-to-launch-119-payloads-on-smallsat-rideshare-mission-from-california/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Transporter-16 mission is the 21st mission in the company\u2019s smallsat rideshare program. Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base is scheduled for 4:02 a.m. PDT (7:02 a.m. EDT / 1102 UTC). ",
+        "published_at": "2026-03-30T02:30:28Z",
+        "updated_at": "2026-03-30T02:32:50.901939Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.22121212121212122,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37139,
+        "title": "Satellite imaging industry\u2019s next challenge: getting systems to talk to each other",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/84d29df2069f02561a3177432af8265539dfa528-1920x1080.jpg.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nExecutives say lack of incentives and interoperability slows \u2018tipping and cueing\u2019 across vendors\nThe post Satellite imaging industry\u2019s next challenge: getting systems to talk to each other appeared first on SpaceNews.",
+        "published_at": "2026-03-29T21:31:45Z",
+        "updated_at": "2026-03-29T21:41:10.212870Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37138,
+        "title": "America\u2019s Rocket Factory comes Full Circle with Artemis",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-29-21-56-43-214.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "As NASA prepares for its long-awaited return of crewed launches beyond low Earth orbit with\u2026\nThe post America\u2019s Rocket Factory comes Full Circle with Artemis appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-29T21:28:30Z",
+        "updated_at": "2026-03-29T21:30:56.945431Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37137,
+        "title": "What\u2019s Happening in Space Policy March 29-April 4, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-crew-arrv-Mar-27-26-Shiflett-300x202.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of March 29-April 4, 2026 and any insight we can offer about them. The House and Senate are in [\u2026]",
+        "published_at": "2026-03-29T15:16:40Z",
+        "updated_at": "2026-03-29T15:20:24.599717Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37136,
+        "title": "\u2018Shots on goal and win the game\u2019: NASA\u2019s effort to accelerate lunar landings",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/im-5.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWhile NASA outlined plans to increase the cadence of robotic lunar lander missions at a recent event, it said little about accelerating work on crewed lunar landers.\nThe post \u2018Shots on goal and win the game\u2019: NASA\u2019s effort to accelerate lunar landings appeared first on SpaceNews.",
+        "published_at": "2026-03-29T09:37:26Z",
+        "updated_at": "2026-03-29T09:40:17.291391Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09531250000000001,
+        "sentiment_label": "Neutral"
+    }
+]
