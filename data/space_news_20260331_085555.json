@@ -1,0 +1,298 @@
+[
+    {
+        "id": 37163,
+        "title": "Eight more satellites added to IRIDE space programme",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/italy_s_iride_space_programme_adds_eight_satellites/27178038-4-eng-GB/Italy_s_IRIDE_space_programme_adds_eight_satellites_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Eight satellites have been added to Italy\u2019s IRIDE Earth observation programme, following launch on board a Falcon-9 rocket. The successful launch brings the total number of satellites in orbit for the Italian programme to 24.",
+        "published_at": "2026-03-31T07:00:00Z",
+        "updated_at": "2026-03-31T07:59:49.627667Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37162,
+        "title": "Artemis 2 countdown underway",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/artemis-2-countdown-underway/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603270006-large.jpg?fit=1024%2C709&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "The two-day countdown for the Artemis 2 mission around the moon started March 30 with NASA officials reporting no major issues for the launch.\r\nThe post Artemis 2 countdown underway appeared first on SpaceNews.",
+        "published_at": "2026-03-31T06:23:08Z",
+        "updated_at": "2026-03-31T07:56:47.642783Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.109375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37161,
+        "title": "Fires Tear Through Nebraska Grasslands",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-tear-through-nebraska-grasslands/nebraskafire_vir2_20260228.jpg",
+        "news_site": "NASA",
+        "summary": "Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire activity in March 2026.",
+        "published_at": "2026-03-31T04:01:00Z",
+        "updated_at": "2026-03-31T04:10:13.844366Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.30208333333333337,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37160,
+        "title": "Second Starlink satellite suffers anomaly, generating debris",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/second-starlink-satellite-suffers-anomaly-generating-debris/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/starlink-35956.jpeg?fit=752%2C752&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "For the second time in just over three months, a SpaceX Starlink satellite has generated debris from an apparent on-orbit malfunction.\r\nThe post Second Starlink satellite suffers anomaly, generating debris appeared first on SpaceNews.",
+        "published_at": "2026-03-30T23:50:44Z",
+        "updated_at": "2026-03-31T07:58:43.426551Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "02e56635-63a6-4abc-9f27-1e30f23bc7e1",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.12857142857142856,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37159,
+        "title": "Artemis II Ready to Go on April 1, Weather Permitting",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-at-pad-Mar-30-26-Ingalls-205x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Artemis II crew, rocket, and spacecraft are ready for liftoff on Wednesday, April 1, 2026 at 6:24 pm ET. No technical issues are currently being worked, with weather the [\u2026]",
+        "published_at": "2026-03-30T22:31:23Z",
+        "updated_at": "2026-03-31T07:56:39.640942Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37158,
+        "title": "Rocket Lab wins German approval for Mynaric deal",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/02/Clean-Room.jpg?fit=1024%2C682&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Decision clears path for April closing after months of scrutiny over keeping key space technology in domestic hands\r\nThe post Rocket Lab wins German approval for Mynaric deal appeared first on SpaceNews.",
+        "published_at": "2026-03-30T21:19:55Z",
+        "updated_at": "2026-03-31T07:31:22.097804Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12142857142857143,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37157,
+        "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/HEhZt6FWgAAtH1I.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Nine launches are scheduled this week, with rockets expected to liftoff from Florida, California, Russia,\u2026\r\nThe post Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-03-30T21:07:43Z",
+        "updated_at": "2026-03-31T07:31:11.761214Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8a9f7ce9-4ab5-4227-95f1-9f328def8828",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "e3b45caa-2ccc-4937-931b-780edbe58db9",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "98451321-cd10-4ca7-a0d1-4076db5fa73d",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "10fbecb2-7624-44bc-85ce-9a22b9b9f2ec",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "becc7e9c-72cc-4eb5-a638-1af4491a5729",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "63aa7636-d2b7-457f-a3e6-27e564e42941",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "bc0cca05-0fb5-43ca-b648-a852d20ceaf3",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0875,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37155,
+        "title": "Falcon 9 booster to fly for 34th time on Starlink delivery mission",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-34th-time-on-starlink-delivery-mission/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC).",
+        "published_at": "2026-03-30T19:58:17Z",
+        "updated_at": "2026-03-31T07:28:22.099344Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ae315ab0-ecda-4c54-99c6-0a8818f55b0d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.8,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37156,
+        "title": "Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260103_Starlink_6-88_prelaunch_JP-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff from pad 40 at Cape Canaveral Space Force Station in Florida is scheduled for the opening of the launch window at 5:15 p.m. EDT (2115 UTC).",
+        "published_at": "2026-03-30T19:58:17Z",
+        "updated_at": "2026-03-31T07:28:28.347184Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ae315ab0-ecda-4c54-99c6-0a8818f55b0d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.4681818181818182,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37153,
+        "title": "Varda flies navigation payload, heat shield tests on sixth reentry mission",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/HEqIYKza0AAsvOq-scaled.jpeg?fit=1024%2C989&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Rhea Space, Sandia and NASA hardware to gather data during high-speed descent\r\nThe post Varda flies navigation payload, heat shield tests on sixth reentry mission appeared first on SpaceNews.",
+        "published_at": "2026-03-30T18:48:36Z",
+        "updated_at": "2026-03-31T07:28:06.826090Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
