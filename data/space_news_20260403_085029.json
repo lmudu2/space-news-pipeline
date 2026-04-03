@@ -1,0 +1,260 @@
+[
+    {
+        "id": 37236,
+        "title": "Earth from Space: Eyes on our Moon",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_eyes_on_our_moon/27186197-1-eng-GB/Earth_from_Space_Eyes_on_our_Moon_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-04-03T08:00:00Z",
+        "updated_at": "2026-04-03T08:20:16.827355Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37235,
+        "title": "A pair of planet-forming discs",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_pair_of_planet-forming_discs/27184991-1-eng-GB/A_pair_of_planet-forming_discs_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-04-03T08:00:00Z",
+        "updated_at": "2026-04-03T08:00:37.613117Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37237,
+        "title": "SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/spacex-files-fcc-complaint-over-ariane-64-amazon-leo-launch/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/SpaceX-Files-FCC-Complaint-Over-Ariane-64-Amazon-LEO-Launch.webp",
+        "news_site": "European Spaceflight",
+        "summary": "In a complaint filed with the FCC on 1 April, US launch services provider SpaceX accused Amazon and its launch partner, Arianespace, of deploying 32 satellites into a higher orbit than authorised during a February Ariane 64 launch. In response, Amazon has issued a statement expressing surprise that SpaceX did not raise any objections when [\u2026]\nThe post SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch appeared first on European Spaceflight.",
+        "published_at": "2026-04-03T06:00:01Z",
+        "updated_at": "2026-04-03T08:30:17.534915Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666665,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37234,
+        "title": "Barents Sea Tied to Low Arctic Sea Ice",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/barents-sea-tied-to-low-arctic-sea-ice/barentsice_tmo_20260317.jpg",
+        "news_site": "NASA",
+        "summary": "Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which tied with the lowest maximum observed in the satellite record.",
+        "published_at": "2026-04-03T04:00:00Z",
+        "updated_at": "2026-04-03T04:10:13.215491Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37233,
+        "title": "Artemis II Orion performs TLI Burn \u2014 Now headed to the Moon",
+        "authors": [
+            {
+                "name": "Ryan Caton and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-03-04-28-53-534.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "In a historic milestone more than 50 years in the making, NASA\u2019s Orion spacecraft Integrity\u2026\r\nThe post Artemis II Orion performs TLI Burn \u2014 Now headed to the Moon appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-03T03:46:22Z",
+        "updated_at": "2026-04-03T06:50:29.110671Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37232,
+        "title": "NASA\u2019s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/tli.jpg",
+        "news_site": "NASA",
+        "summary": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion\u2019s main engine. With the approximately six-minute firing of the spacecraft\u2019s service module engine on Thursday, known as the translunar injection burn, Orion and its crew of [\u2026]",
+        "published_at": "2026-04-03T02:48:08Z",
+        "updated_at": "2026-04-03T06:48:20.705323Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2952380952380952,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37231,
+        "title": "Artemis 2 heads to the moon",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/artemis-2-heads-to-the-moon/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-cresentearth.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "NASA\u2019s Artemis 2 mission is on its way to the moon after a successful maneuver April 2.\r\nThe post Artemis 2 heads to the moon appeared first on SpaceNews.",
+        "published_at": "2026-04-03T02:30:13Z",
+        "updated_at": "2026-04-03T06:48:38.516954Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37230,
+        "title": "Four astronauts are now inexorably bound for the Moon",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-SLS_03302026_Artemis-II-Launch-wide_1medium.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\u201cI don\u2019t think we could be more pleased.\"",
+        "published_at": "2026-04-03T02:17:37Z",
+        "updated_at": "2026-04-03T06:49:54.588764Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37229,
+        "title": "Four Astronauts Headed to Moon After Successful TLI Burn",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/four-astronauts-headed-to-moon-after-successful-tli-burn/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-liftoff-Kowsky-Apr-1-26-300x154.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "After a day in earth orbit checking out systems on the Orion capsule, the Artemis II crew is headed to the Moon.\u00a0 Earlier today the Mission Management Team gave them [\u2026]",
+        "published_at": "2026-04-03T02:03:08Z",
+        "updated_at": "2026-04-03T06:49:44.492868Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37228,
+        "title": "Swift spacecraft reorientation buys time for reboost mission",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/katalyst-swift.jpeg?fit=1024%2C410&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "NASA modified operations of an astrophysics spacecraft in a decaying orbit to buy more time for a mission later this year that will attempt to raise its orbit.\r\nThe post Swift spacecraft reorientation buys time for reboost mission appeared first on SpaceNews.",
+        "published_at": "2026-04-02T23:35:06Z",
+        "updated_at": "2026-04-03T06:50:10.015787Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db02116f-17ba-429a-b6c1-8e7f13b5e787",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
