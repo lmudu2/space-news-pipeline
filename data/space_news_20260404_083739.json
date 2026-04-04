@@ -1,0 +1,233 @@
+[
+    {
+        "id": 37254,
+        "title": "Smooth Sailing for Artemis Crew So Far",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/smooth-sailing-for-artemis-crew-so-far/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earth-after-TLI-Apr-2-26-300x200.webp",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Artemis II crew continues on a smooth course to the Moon today. NASA astronauts Reid Wiseman, Victor Glover and Christina Koch and Canadian astronaut Jeremy Hansen are now about [\u2026]",
+        "published_at": "2026-04-04T03:20:13Z",
+        "updated_at": "2026-04-04T03:30:28.777751Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.3,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37253,
+        "title": "Artemis 2 in good shape cruising towards the moon",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/artemis2-earth.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA day after lighting its engine to head to the moon, the Artemis 2 Orion spacecraft is performing well with only minor issues.\nThe post Artemis 2 in good shape cruising towards the moon appeared first on SpaceNews.",
+        "published_at": "2026-04-04T01:18:26Z",
+        "updated_at": "2026-04-04T01:20:32.698780Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.31999999999999995,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37252,
+        "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/earth1.jpg",
+        "news_site": "Arstechnica",
+        "summary": "The cabin was colder on Thursday, but the crew has been able to adjust the temperature.",
+        "published_at": "2026-04-03T22:20:19Z",
+        "updated_at": "2026-04-03T22:30:10.985128Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37251,
+        "title": "Live coverage: ULA\u2019s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260338_Leo_Atlas_05_preview.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff from pad 41 at Cape Canaveral Space Force Station is scheduled for Saturday at 1:45 a.m. EDT (0545 UTC), weather permitting. ",
+        "published_at": "2026-04-03T22:10:24Z",
+        "updated_at": "2026-04-03T22:20:33.533671Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37250,
+        "title": "NASA Sets Coverage for Northrop Grumman\u2019s CRS-24 Resupply Launch",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/",
+        "image_url": "https://images-assets.nasa.gov/image/iss073e0816153/iss073e0816153~large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 8:49 a.m. EDT on Wednesday, April 8, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus XL spacecraft, aboard a SpaceX Falcon 9 rocket, will launch from Space [\u2026]",
+        "published_at": "2026-04-03T22:01:31Z",
+        "updated_at": "2026-04-03T22:10:15.418476Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37249,
+        "title": "Meet NASA\u2019s New Artemis II Science Officers",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/jsc2026e006229.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s first Artemis II science officers\u2014Kelsey Young, Trevor Graff, and Angela Garcia\u2014are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of the Moon.",
+        "published_at": "2026-04-03T17:35:44Z",
+        "updated_at": "2026-04-03T18:10:12.307437Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1603896103896104,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37248,
+        "title": "Italy\u2019s Argotec plans to scale Florida satellite facility to meet rising US demand",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Argotec-US.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nItaly\u2019s Argotec has officially opened its first U.S. satellite production facility, cementing a foothold near Kennedy Space Center in Florida to join other foreign space firms pursuing growing demand from American programs.\nThe post Italy\u2019s Argotec plans to scale Florida satellite facility to meet rising US demand appeared first on SpaceNews.",
+        "published_at": "2026-04-03T17:33:12Z",
+        "updated_at": "2026-04-03T17:40:30.439002Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03571428571428571,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37247,
+        "title": "Virgil I. \u201cGus\u201d Grissom",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/virgil-i-gus-grissom/",
+        "image_url": "https://images-assets.nasa.gov/image/s61-02898/s61-02898~large.jpg",
+        "news_site": "NASA",
+        "summary": "Today marks the 100th anniversary of the birth of Virgil I. \u201cGus\u201d Grissom, born April 3, 1926, in Mitchell, Indiana. As one of NASA\u2019s first seven astronauts, he became America\u2019s second astronaut to fly in space when he launched aboard the Liberty Bell 7 spacecraft on July 21, 1961, just weeks after Alan Shepard\u2019s historic [\u2026]",
+        "published_at": "2026-04-03T16:27:09Z",
+        "updated_at": "2026-04-03T16:30:18.141569Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37246,
+        "title": "Artemis II Sets Course for Moon",
+        "authors": [
+            {
+                "name": "Alejandro Turnbull",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/special-report-banner-2.png",
+        "news_site": "Space Scout",
+        "summary": "After a picture-perfect launch Wednesday placed the crew of Artemis II into a highly elliptical Earth orbit, astronauts Reid Wiseman, Victor Glover, Jeremy Hansen, and Christina Koch are now officially on their way towards the Moon, the first humans to make such a journey since 1972.",
+        "published_at": "2026-04-03T15:22:26Z",
+        "updated_at": "2026-04-03T15:30:36.109048Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1366666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37245,
+        "title": "White House again proposes steep NASA budget cuts",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2016/02/whitehouse_nasa_879x485.jpg?fit=879%2C485&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nFor the second consecutive year, the White House is proposing a major budget cut for NASA that would significantly impact the agency\u2019s science programs and the International Space Station.\nThe post White House again proposes steep NASA budget cuts appeared first on SpaceNews.",
+        "published_at": "2026-04-03T15:15:01Z",
+        "updated_at": "2026-04-03T15:20:33.619406Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0859375,
+        "sentiment_label": "Neutral"
+    }
+]
