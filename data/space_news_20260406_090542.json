@@ -1,0 +1,136 @@
+[
+    {
+        "id": 37298,
+        "title": "Artemis astronauts send down Easter message, prep for lunar fly around Monday",
+        "authors": [
+            {
+                "name": "William Harwood",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260405-Wiseman-Window.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Taking time out to send Easter greetings down to Earth, the four Artemis II astronauts closed in on the moon Sunday, already seeing unexpected detail on the surface and giving scientists a taste of things to come during a pass over the lunar far side Monday evening.",
+        "published_at": "2026-04-05T23:57:02Z",
+        "updated_at": "2026-04-06T06:59:05.033246Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1408,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.09814814814814815,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37297,
+        "title": "Isaacman defends NASA budget proposal despite steep cuts",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55165945281_2a9ea0fb1e_k.jpg?fit=1024%2C727&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency\u2019s budget by nearly 25%.\nThe post Isaacman defends NASA budget proposal despite steep cuts appeared first on SpaceNews.",
+        "published_at": "2026-04-05T22:20:09Z",
+        "updated_at": "2026-04-05T22:20:24.376397Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.175,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37296,
+        "title": "NASA stops work on SLS Mobile Launcher 2",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "NASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.\r\nThe post NASA stops work on SLS Mobile Launcher 2 appeared first on SpaceNews.",
+        "published_at": "2026-04-05T20:29:48Z",
+        "updated_at": "2026-04-06T06:58:51.875349Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37295,
+        "title": "What\u2019s Happening in Space Policy April 5-11, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earth-after-TLI-Apr-2-26-300x200.webp",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of April 5-11, 2026 and any insight we can offer about them.\u00a0 The House and Senate are in recess [\u2026]",
+        "published_at": "2026-04-05T19:34:43Z",
+        "updated_at": "2026-04-05T19:40:16.748141Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37294,
+        "title": "Thinking of You, Earth",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e008486orig.jpg",
+        "news_site": "NASA",
+        "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft\u2019s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts \u2013 Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut [\u2026]",
+        "published_at": "2026-04-05T14:04:33Z",
+        "updated_at": "2026-04-06T06:58:41.423622Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    }
+]
