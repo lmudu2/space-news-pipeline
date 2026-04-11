@@ -1,0 +1,289 @@
+[
+    {
+        "id": 37441,
+        "title": "NASA Cheers First Successful Moon Mission Since 1972",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-cheers-first-successful-moon-mission-since-1972/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-splashdown-NASA-tweet-300x154.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA is cheering the return of the Artemis II crew tonight after a 9-day mission around the Moon. Administrator Jared Isaacman aboard the recovery ship USS John P. Murtha declared [\u2026]",
+        "published_at": "2026-04-11T03:54:31Z",
+        "updated_at": "2026-04-11T06:11:48.816793Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37440,
+        "title": "The Artemis II mission has ended. Where does NASA go from here?",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e021278large.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"The work ahead is greater than the work behind us.\"",
+        "published_at": "2026-04-11T03:24:21Z",
+        "updated_at": "2026-04-11T06:11:43.011855Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.04999999999999999,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37438,
+        "title": "NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55199878669-257ddff58b-o-1.jpg",
+        "news_site": "NASA",
+        "summary": "The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA\u2019s Artemis II test flight. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen splashed down at 5:07 p.m. PDT Friday off the coast [\u2026]",
+        "published_at": "2026-04-11T02:31:50Z",
+        "updated_at": "2026-04-11T06:11:36.883502Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.0712962962962963,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37437,
+        "title": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
+        "authors": [
+            {
+                "name": "Moog Inc.",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/moog_square.png?fit=400%2C400&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "East Aurora, NY \u2013 Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, highlights the critical [\u2026]\r\nThe post Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission appeared first on SpaceNews.",
+        "published_at": "2026-04-11T00:41:38Z",
+        "updated_at": "2026-04-11T06:11:30.142657Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.17857142857142858,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37436,
+        "title": "They\u2019re Home! Artemis II is Back on Earth",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/splashdown-300x173.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Artemis II crew is back on Earth after the first trip around the Moon since 1972. NASA astronauts Reid Wiseman, Victor Glover and Christina Koch and Canadian Space Agency [\u2026]",
+        "published_at": "2026-04-11T00:21:43Z",
+        "updated_at": "2026-04-11T06:11:13.673990Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37435,
+        "title": "Orion splashes down to successfully end Artemis 2 mission",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art2-splashdown.jpeg?fit=1024%2C639&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "The first human mission beyond Earth orbit in more than 50 years successfully concluded with a splashdown in the Pacific Ocean April 10.\r\nThe post Orion splashes down to successfully end Artemis 2 mission appeared first on SpaceNews.",
+        "published_at": "2026-04-11T00:16:13Z",
+        "updated_at": "2026-04-11T06:11:18.908412Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.32654320987654323,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37434,
+        "title": "NASA confident Artemis 2 heat shield will protect crew during re-entry",
+        "authors": [
+            {
+                "name": "William Harwood",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260410-heat_shield_assembly.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "When the Artemis 2 Orion crew capsule returns to Earth after flying around the moon, it will hit the discernible atmosphere some 75 miles above the Pacific Ocean at a blistering 24,000 mph, fast enough to fly from New York to London in less than 10 minutes.",
+        "published_at": "2026-04-10T17:42:33Z",
+        "updated_at": "2026-04-11T06:11:05.234191Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1397,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.20995670995670992,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37433,
+        "title": "HawkEye 360 files to go public",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/hawkeye-360-files-to-go-public/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/HFUl9phWsAAkEJ7-scaled-e1775842311485.jpeg?fit=1024%2C766&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nBased in Herndon, Virginia, the company specializes in space-based radio-frequency signals intelligence for government agencies\nThe post HawkEye 360 files to go public appeared first on SpaceNews.",
+        "published_at": "2026-04-10T17:36:54Z",
+        "updated_at": "2026-04-10T17:40:27.685447Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37432,
+        "title": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/12/Spacety-hisea-1-c-band-SAR-dec2020-spacety.jpg?fit=1024%2C616&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nChinese satellite maker Spacety has completed multiple rounds of equity financing worth $190 million to scale its vertically integrated satellite manufacturing and data services model.\nThe post Spacety raises $190 million to scale satellite manufacturing, plans IPO appeared first on SpaceNews.",
+        "published_at": "2026-04-10T16:59:12Z",
+        "updated_at": "2026-04-10T17:00:36.527948Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37431,
+        "title": "New Perspective of Home",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/new-perspective-of-home/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e015228orig.jpg",
+        "news_site": "NASA",
+        "summary": "Seen during Artemis II\u2019s lunar flyby on April 6, 2026, the Moon and Earth align in the same frame, each partially illuminated by the Sun. The Moon\u2019s surface appears in sharp detail in the foreground, while Earth sits much farther away, smaller and softly lit in the background. A faint reflection in the spacecraft window [\u2026]",
+        "published_at": "2026-04-10T16:33:43Z",
+        "updated_at": "2026-04-10T16:41:12.045121Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.036079545454545454,
+        "sentiment_label": "Neutral"
+    }
+]
