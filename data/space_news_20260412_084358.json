@@ -1,0 +1,135 @@
+[
+    {
+        "id": 37447,
+        "title": "Artemis II Crew Joyously Back Home in Houston",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/artemis-ii-crew-joyously-back-home-in-houston/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-w-Orion-on-Murtha-300x279.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The four astronauts who flew around the Moon and splashed down in the Pacific Ocean yesterday are now back in Houston. The USS John P. Murtha recovery ship returned to [\u2026]",
+        "published_at": "2026-04-12T01:37:49Z",
+        "updated_at": "2026-04-12T01:40:18.757972Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.051851851851851864,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37446,
+        "title": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/f9-ng24.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA Falcon 9 launched a Cygnus cargo spacecraft April 11 as Northrop Grumman continues its dependence on a competitor to fly resupply missions to the International Space Station.\nThe post Falcon 9 launches Cygnus cargo spacecraft to the ISS appeared first on SpaceNews.",
+        "published_at": "2026-04-11T16:28:21Z",
+        "updated_at": "2026-04-11T16:30:36.749564Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.35000000000000003,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37445,
+        "title": "La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis\u00a0II, quienes batieron r\u00e9cords",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55199878669-257ddff58b-o-1-1.jpg",
+        "news_site": "NASA",
+        "summary": "Los primeros astronautas en viajar a la Luna en m\u00e1s de medio siglo han regresado a la Tierra tras una misi\u00f3n que ha establecido nuevos r\u00e9cords a bordo del vuelo de prueba Artemis\u00a0II de la NASA. Los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, y el astronauta Jeremy Hansen de la [\u2026]",
+        "published_at": "2026-04-11T14:54:04Z",
+        "updated_at": "2026-04-11T15:00:23.917172Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37444,
+        "title": "NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/blog-ng24-launch-041126.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency\u2019s Northrop Grumman Commercial Resupply Services 24 mission, or Northrop Grumman CRS-24. Northrop Grumman\u2019s Cygnus XL spacecraft, carrying approximately 11,000 pounds of cargo to the orbiting laboratory, lifted off at 7:41 a.m. EDT Saturday [\u2026]",
+        "published_at": "2026-04-11T13:49:05Z",
+        "updated_at": "2026-04-11T13:50:08.950303Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14166666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37443,
+        "title": "Falcon 9 launches CRS NG-24 cargo ship to ISS",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_8691-scaled.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Weeks after Northrop Grumman\u2019s Cygnus S.S. William McCool ended its CRS NG-23 mission with a\u2026\nThe post Falcon 9 launches CRS NG-24 cargo ship to ISS appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-11T13:37:36Z",
+        "updated_at": "2026-04-11T13:40:11.530468Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37442,
+        "title": "Artemis II Splashes Down",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/artemis-ii-splashes-down/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604100018.jpg",
+        "news_site": "NASA",
+        "summary": "This image from April 10, 2026, captures NASA\u2019s Orion spacecraft, with its parachutes deployed, seconds before splashdown in the Pacific Ocean. The Artemis II crew accomplished many milestones on their nearly 10-day mission, surpassing the Apollo 13 record for farthest crewed spaceflight and capturing views of the far side of the Moon. Under Artemis, NASA [\u2026]",
+        "published_at": "2026-04-11T11:05:23Z",
+        "updated_at": "2026-04-11T11:10:15.686795Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14888888888888888,
+        "sentiment_label": "Positive"
+    }
+]
