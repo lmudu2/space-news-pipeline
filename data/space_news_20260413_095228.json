@@ -1,0 +1,137 @@
+[
+    {
+        "id": 37452,
+        "title": "First Proba-3 science: surprisingly speedy solar wind",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/proba-3_tracks_solar_wind_moving_close_to_the_sun/27200925-1-eng-GB/Proba-3_tracks_solar_wind_moving_close_to_the_Sun_card_full.png",
+        "news_site": "ESA",
+        "summary": "Since July 2025, the European Space Agency\u2019s pair of\u00a0Proba-3\u00a0satellites has already created\u00a057\u00a0artificial solar eclipses. So far, the mission has collected\u00a0more than\u00a0250\u00a0hours\u00a0of high-resolution videos of the Sun\u2019s atmosphere,\u00a0called\u00a0the corona.\u00a0That\u2019s\u00a0the same amount of\u00a0observing\u00a0time as about 5000\u00a0total\u00a0solar eclipse campaigns carried out on Earth.\u00a0\u00a0",
+        "published_at": "2026-04-14T09:00:00Z",
+        "updated_at": "2026-04-13T09:20:17.606890Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.11875,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37451,
+        "title": "Sophia and Kepler to marry orbital compute with optical links",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_sophia_tile_cluster.png?fit=879%2C494&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nCOLORADO SPRINGS \u2013 Sophia Space will begin deploying edge compute nodes on Kepler Communications satellites in late 2026, under a strategic pact announced April 13. Through the partnership, Sophia Space will demonstrate its Orbital Data Center (ODC) software, while relying on Kepler\u2019s optical data relay network \u201cto enable distributed, resilient compute infrastructure in space,\u201d according [\u2026]\nThe post Sophia and Kepler to marry orbital compute with optical links appeared first on SpaceNews.",
+        "published_at": "2026-04-13T04:01:00Z",
+        "updated_at": "2026-04-13T04:10:36.226918Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05000000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37450,
+        "title": "What\u2019s Happening in Space Policy April 12-18, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Isaacman-Apr-11-26-welcome-home-300x169.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of April 12-18, 2026 and any insight we can offer about them. The House and Senate are in session [\u2026]",
+        "published_at": "2026-04-12T20:43:58Z",
+        "updated_at": "2026-04-12T20:50:17.414542Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37449,
+        "title": "Ship 39 and Booster 19 Roll out for Static Fire Testing",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-12-13-50-27-033.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Following the successful return of Orion, attention for the Artemis program has now shifted to\u2026\r\nThe post Ship 39 and Booster 19 Roll out for Static Fire Testing appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-12T13:05:40Z",
+        "updated_at": "2026-04-13T06:41:17.959595Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1444,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.4,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37448,
+        "title": "Rocket Lab wins contract for three more iQPS launches",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/electron-f79.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Rocket Lab has won a contract from Japanese radar satellite company iQPS for three additional Electron launches.\r\nThe post Rocket Lab wins contract for three more iQPS launches appeared first on SpaceNews.",
+        "published_at": "2026-04-12T11:43:00Z",
+        "updated_at": "2026-04-13T06:39:12.211791Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "56667c11-1346-436f-8625-69d1297a778c",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d2b7987a-f776-4615-a710-bc75a224d1af",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "749d5b4d-bb19-4224-8962-2c1aa1a05791",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.30833333333333335,
+        "sentiment_label": "Positive"
+    }
+]
