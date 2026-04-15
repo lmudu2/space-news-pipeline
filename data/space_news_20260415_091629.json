@@ -1,0 +1,226 @@
+[
+    {
+        "id": 37526,
+        "title": "Ash creeps across Mars",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/mars_express_captures_dark_ash_covering_mars_s_utopia_planitia/27198962-1-eng-GB/Mars_Express_captures_dark_ash_covering_Mars_s_Utopia_Planitia_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Noticeable change on Mars often takes millions of years \u2013 but the European Space Agency\u2019s Mars Express has captured a blanket of dark ash creeping across the planet in just decades.",
+        "published_at": "2026-04-15T09:00:00Z",
+        "updated_at": "2026-04-15T09:10:18.464845Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37525,
+        "title": "ESA begins next phase of 'fibre in the sky' optical communications project with Canada",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_begins_next_phase_of_fibre_in_the_sky_optical_communications_project_with_Canada",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/07/hydron_optical_communication_for_broadband_in_space/23404855-1-eng-GB/HydRON_optical_communication_for_broadband_in_space_card_full.png",
+        "news_site": "ESA",
+        "summary": "Actionable data from space could be delivered in seconds in the future, thanks to progress towards the European Space Agency\u2019s (ESA) faster and more secure laser communications network,\u00a0HydRON. At the\u00a041st\u00a0Space Symposium in\u00a0Colorado Springs,\u00a0Canadian\u00a0satellite\u00a0communications company Kepler was awarded a contract to lead the next phase in the project\u2019s evolution.\u00a0",
+        "published_at": "2026-04-15T08:10:00Z",
+        "updated_at": "2026-04-15T08:20:18.305682Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15714285714285717,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37524,
+        "title": "Contours of the James Bay Lowlands",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/contours-of-the-james-bay-lowlands/ISS074-E-417243.jpg",
+        "news_site": "NASA",
+        "summary": "After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.",
+        "published_at": "2026-04-15T04:01:00Z",
+        "updated_at": "2026-04-15T05:10:07.452598Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.5,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37523,
+        "title": "White House Releases Space Nuclear Initiative",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/SR1-Ignition-event-300x173.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The White House Office of Science and Technology Policy issued the National Initiative for American Space Nuclear Power today. Attempts to develop space nuclear power and propulsion date back to [\u2026]",
+        "published_at": "2026-04-15T03:45:31Z",
+        "updated_at": "2026-04-15T03:50:19.302661Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37522,
+        "title": "Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Starlink 17-27 mission from Space Launch Complex 4 East is scheduled for 9:29:49 p.m. PDT (12:29:49 a.m. EDT / 0429:49 UTC). ",
+        "published_at": "2026-04-15T01:40:12Z",
+        "updated_at": "2026-04-15T01:50:29.090615Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.08181818181818182,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37521,
+        "title": "Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/april/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04861_opgs_edr_ncam_NLB_829029179EDR_F1212490NCAM00291M_.jpg",
+        "news_site": "NASA",
+        "summary": "Written by Abigail Fraeman, Deputy Project Scientist at NASA\u2019s Jet Propulsion Laboratory Earth planning date: Friday, April 10, 2026 Curiosity spent the past week driving towards a small crater, about 10 meters (32 feet) in diameter. Today the team informally named this crater \u201cAntofagasta,\u201d after a region and major city in Chile next to the [\u2026]",
+        "published_at": "2026-04-15T00:07:09Z",
+        "updated_at": "2026-04-15T01:10:08.356493Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.13125,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37520,
+        "title": "Kepler to lead interoperability tests for ESA\u2019s HydRON optical relay network",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/Kepler-Network-Graphic.jpg?fit=1024%2C732&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe European Space Agency has picked Canadian small satellite operator Kepler Communications to lead a hosted payload mission to test terminal interoperability for HydRON, ESA\u2019s flagship optical relay network program.\nThe post Kepler to lead interoperability tests for ESA\u2019s HydRON optical relay network appeared first on SpaceNews.",
+        "published_at": "2026-04-15T00:00:00Z",
+        "updated_at": "2026-04-15T00:00:56.166617Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37519,
+        "title": "Blue Origin moves toward launch at Vandenberg",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/NG-2-Ascent-2.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nCOLORADO SPRINGS \u2013 Blue Origin moved a step closer to launching New Glenn rockets from Vandenberg Space Force Base with a U.S. Space Force decision to conduct final negotiations of a lease for Space Launch Complex (SLC)-14. \u201cBy taking the next steps to further develop heavy and super-heavy space launch capabilities at SLC-14, we\u2019re continuing [\u2026]\nThe post Blue Origin moves toward launch at Vandenberg appeared first on SpaceNews.",
+        "published_at": "2026-04-14T23:13:56Z",
+        "updated_at": "2026-04-14T23:20:24.146739Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.08305785123966941,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37518,
+        "title": "NRO highlights government and industry partnerships",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_adkins_nro.jpg?fit=879%2C586&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nCOLORADO SPRINGS \u2013 The National Reconnaissance Office, the agency responsible for U.S. spy satellites, seeks partners to accelerate its adoption of state-of-the-art intelligence, surveillance and reconnaissance capabilities. \u201cWe are ready [\u2026]\nThe post NRO highlights government and industry partnerships appeared first on SpaceNews.",
+        "published_at": "2026-04-14T22:10:51Z",
+        "updated_at": "2026-04-14T22:20:26.584597Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21666666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37517,
+        "title": "SES and Boeing move toward factory-installed multi-orbit inflight connectivity",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/737-factory-in-Renton-scaled.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSES announced an agreement with Boeing April 14 to start integrating multi-orbit hardware during aircraft production, marking a key step away from retrofit installations to incorporate LEO broadband.\nThe post SES and Boeing move toward factory-installed multi-orbit inflight connectivity appeared first on SpaceNews.",
+        "published_at": "2026-04-14T21:22:59Z",
+        "updated_at": "2026-04-14T21:30:18.639839Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    }
+]
