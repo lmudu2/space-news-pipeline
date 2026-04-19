@@ -1,0 +1,86 @@
+[
+    {
+        "id": 37597,
+        "title": "Live Coverage: Third flight of Blue Origin\u2019s New Glenn rocket to feature 1st reuse of booster",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260418-NG-3-Pad-shot.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Blue Origin plans to launch its third New Glenn rocket from Cape Canaveral Sunday during a two-hour window that opens at 6:45 a.m. EDT (1045 UTC). It will carry AST SpaceMobile\u2019s BlueBird 7 satellite to provide direct to cell phone services from space. ",
+        "published_at": "2026-04-19T01:34:44Z",
+        "updated_at": "2026-04-19T01:40:24.130798Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06363636363636363,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37596,
+        "title": "New Glenn set to launch on third mission, reuse booster for the first time",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/ng-3-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_7032.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Just over five months after the launch of its second mission, Blue Origin\u2019s partially reusable\u2026\nThe post New Glenn set to launch on third mission, reuse booster for the first time appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-18T23:04:21Z",
+        "updated_at": "2026-04-18T23:10:16.980343Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09227272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37595,
+        "title": "Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter",
+        "authors": [
+            {
+                "name": "Martijn Luinstra and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-18-22-21-59-920.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Commercial space station developer Vast has blended fashion with functionality while laying groundwork for the\u2026\nThe post Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-18T21:28:40Z",
+        "updated_at": "2026-04-18T21:30:13.989842Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09693877551020409,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37598,
+        "title": "Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Antitrust-Authority-Approves-Creation-of-Rheinmetall-OHB-Satellite-Joint-Venture-.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The Federal Cartel Office (Bundeskartellamt), Germany\u2019s independent competition authority, has approved a new joint venture between Rheinmetall and OHB. In a 16 April announcement, the Bundeskartellamt explained that the new subsidiary will be used to bid for a German armed forces public procurement contract. In September 2025, the German government announced that it had committed [\u2026]\nThe post Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture appeared first on European Spaceflight.",
+        "published_at": "2026-04-18T11:28:54Z",
+        "updated_at": "2026-04-19T08:20:11.115633Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06534090909090909,
+        "sentiment_label": "Neutral"
+    }
+]
