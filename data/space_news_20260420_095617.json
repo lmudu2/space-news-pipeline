@@ -1,0 +1,49 @@
+[
+    {
+        "id": 37600,
+        "title": "AST SpaceMobile\u2019s BlueBird 7 declared lost following New Glenn launch",
+        "authors": [
+            {
+                "name": "Ryan Caton and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-19-23-30-22-253-wmarked.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Following Blue Origin\u2019s milestone of successfully landing a previously flown first-stage booster for the first\u2026\r\nThe post AST SpaceMobile\u2019s BlueBird 7 declared lost following New Glenn launch appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-19T22:46:07Z",
+        "updated_at": "2026-04-20T06:29:09.297882Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12289562289562289,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37599,
+        "title": "What\u2019s Happening in Space Policy April 19-25, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Isaacman-Apr-11-26-welcome-home-300x169.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of April 19-25, 2026 and any insight we can offer about them. The House and Senate are in session [\u2026]",
+        "published_at": "2026-04-19T22:20:47Z",
+        "updated_at": "2026-04-19T22:30:15.487497Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
