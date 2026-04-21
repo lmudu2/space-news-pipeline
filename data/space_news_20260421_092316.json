@@ -1,0 +1,275 @@
+[
+    {
+        "id": 37615,
+        "title": "Euclid Space Warps: help spot galaxies bending spacetime",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Space_Warps_help_spot_galaxies_bending_spacetime",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/strong_gravitational_lenses_captured_by_euclid/26615081-1-eng-GB/Strong_gravitational_lenses_captured_by_Euclid_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-04-21T09:00:00Z",
+        "updated_at": "2026-04-21T09:00:25.760491Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37614,
+        "title": "A School of Mud Volcano Islands in Azerbaijan",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-school-of-mud-volcano-islands-in-azerbaijan/azmudvolcanozm_oli_20250830.jpg",
+        "news_site": "NASA",
+        "summary": "The tadpole-shaped islands along the Absheron Peninsula were born by explosive mud volcano eruptions and reshaped by erosion.",
+        "published_at": "2026-04-21T04:00:00Z",
+        "updated_at": "2026-04-21T04:10:10.701053Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37613,
+        "title": "NASA IG Raises More Questions About Readiness for Human Lunar Landings",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-ig-raises-more-questions-about-readiness-for-human-lunar-landings/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/nasa-ig-axiom-collins-300x224.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "A new report from NASA\u2019s Office of Inspector General raises more questions about whether landing humans on the Moon in 2028 is realistic. Last month the OIG pointed out that [\u2026]",
+        "published_at": "2026-04-21T00:54:11Z",
+        "updated_at": "2026-04-21T07:15:38.162864Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "372d94b1-88fe-4cc5-9296-d893c9fa9426",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19329004329004332,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37612,
+        "title": "Live coverage: SpaceX to launch final GPS III satellite for the U.S. Space Force",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260419_CC_GPS_III_8_vertical_wide.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "This is the final spacecraft of this generation of precision, navigation, and timing satellites before the U.S. Space Force shifts to launching GPS IIIF satellites. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a 15-minute launch window opens at 2:53 a.m. EDT (0653 UTC).",
+        "published_at": "2026-04-21T00:11:11Z",
+        "updated_at": "2026-04-21T07:15:32.113038Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37611,
+        "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg",
+        "news_site": "NASA",
+        "summary": "Following NASA\u2019s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency\u2019s Kennedy Space Center in Florida performed. The Artemis II test flight successfully [\u2026]",
+        "published_at": "2026-04-20T22:10:38Z",
+        "updated_at": "2026-04-21T07:15:23.078945Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.18271604938271604,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37610,
+        "title": "Launch Preview: GPS, Progress, and Starlink missions to launch during busy week",
+        "authors": [
+            {
+                "name": "Sean Yoder",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Seven missions, four countries, and five launch vehicles make the week of April 20 one\u2026\r\nThe post Launch Preview: GPS, Progress, and Starlink missions to launch during busy week appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-04-20T21:15:09Z",
+        "updated_at": "2026-04-21T07:52:26.195144Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "9281afa8-140d-425b-a560-2fa59feef814",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "33eb7522-d371-4195-addb-c22aeff30c41",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "20418dc6-1870-4018-adda-1e6156717f02",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "4e074623-426a-4ab2-8729-a85200684bef",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "214b4db1-7112-4428-a999-29d2765c8306",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37609,
+        "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg",
+        "news_site": "NASA",
+        "summary": "Following the recent successful test flight of NASA\u2019s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency\u2019s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency\u2019s Michoud Assembly Facility in New Orleans on [\u2026]",
+        "published_at": "2026-04-20T20:31:57Z",
+        "updated_at": "2026-04-21T07:15:14.927320Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8034d81b-af96-460c-a7b7-5c8e7f1a1d86",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2215909090909091,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37608,
+        "title": "NASA Invites Media to SpaceX\u2019s 34th Resupply Launch to Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/34th-resupply-mission-advisory-april-20.jpg",
+        "news_site": "NASA",
+        "summary": "Media accreditation is open for the next U.S. launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 34th SpaceX Commercial Resupply Services mission to the orbital laboratory for NASA and will lift off on the company\u2019s Falcon 9 rocket. NASA and SpaceX are targeting no earlier [\u2026]",
+        "published_at": "2026-04-20T18:02:28Z",
+        "updated_at": "2026-04-21T07:15:09.282223Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37607,
+        "title": "Photos and Feelings from Artemis II",
+        "authors": [
+            {
+                "name": "Beverly Casillas",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/Artemis_2_Sunrise_NoWM-1-scaled.jpg",
+        "news_site": "Space Scout",
+        "summary": "To commemorate Artemis II, Space Scout compiled photos and testimonials from our team members about this historic spaceflight.",
+        "published_at": "2026-04-20T16:42:23Z",
+        "updated_at": "2026-04-21T07:14:51.755901Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37606,
+        "title": "NASA Welcomes\u00a0Latvia\u00a0as Newest Artemis Accords Signatory",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604200001.jpg",
+        "news_site": "NASA",
+        "summary": "The Republic of\u00a0Latvia\u00a0signed the Artemis Accords\u00a0Monday\u00a0during a ceremony\u00a0hosted by NASA\u00a0at the agency\u2019s headquarters in Washington,\u00a0becoming the\u00a062nd\u00a0nation to commit to responsible space exploration for all humanity.\u00a0 \u201cWe are proud to welcome Latvia to the Artemis Accords,\u201d said NASA Administrator Jared Isaacman. \u201cEach new signatory strengthens a coalition committed to\u00a0the\u00a0transparent and\u00a0peaceful exploration of space.\u00a0The accords are the [\u2026]",
+        "published_at": "2026-04-20T16:01:07Z",
+        "updated_at": "2026-04-20T16:10:09.610698Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4393939393939394,
+        "sentiment_label": "Positive"
+    }
+]
