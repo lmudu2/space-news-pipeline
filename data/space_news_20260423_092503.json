@@ -1,0 +1,232 @@
+[
+    {
+        "id": 37649,
+        "title": "Plato aces space-like tests",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The European Space Agency Plato mission has successfully completed a series of tough tests under space\u2011like conditions. With this accomplishment, the spacecraft is on track to lift off in early 2027 and begin its search for terrestrial planets.",
+        "published_at": "2026-04-23T08:00:00Z",
+        "updated_at": "2026-04-23T08:00:19.492330Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09222222222222223,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37648,
+        "title": "Smoke Shrouds Northern Thailand",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-shrouds-northern-thailand/seasiafires_tmo_20260422.jpg",
+        "news_site": "NASA",
+        "summary": "Seasonal fires have darkened skies over Southeast Asia.",
+        "published_at": "2026-04-23T04:01:00Z",
+        "updated_at": "2026-04-23T04:10:10.875456Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37647,
+        "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20241109_Starlink_G9_10_Vertical_Sunset.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission is the 40th launch of the year from SpaceX, dedicated to flying its broadband internet satellites. Liftoff of the Starlink 17-14 mission is scheduled for 7:55 p.m. PDT (10:55 p.m. EDT / 0255 UTC).",
+        "published_at": "2026-04-23T00:07:10Z",
+        "updated_at": "2026-04-23T06:30:17.365866Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "20418dc6-1870-4018-adda-1e6156717f02",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.13636363636363635,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37646,
+        "title": "NASA SBIR/STTR Phase I and\u00a0II BAA,\u00a02026 Appendix A and B are\u00a0now live!\u00a0Offers due May 21, 2026, 5:00PM EDT",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss043e093710large.jpg",
+        "news_site": "NASA",
+        "summary": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub",
+        "published_at": "2026-04-22T22:19:18Z",
+        "updated_at": "2026-04-22T22:30:06.095177Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.048484848484848485,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37645,
+        "title": "NASA SBIR/STTR Phase I and\u00a0II BAA,\u00a02026 Appendix A and B are\u00a0now live!\u00a0Offers due May 21, 2026, 5:00PM EDT",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/iss043e093710large.jpg",
+        "news_site": "NASA",
+        "summary": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub",
+        "published_at": "2026-04-22T22:19:18Z",
+        "updated_at": "2026-04-22T22:20:06.665032Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.048484848484848485,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37644,
+        "title": "House Science Committee Opposes Cuts in NASA\u2019s FY2027 Budget Request",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/Babin-NASA-hrg-Apr-22-26-300x169.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "On a bipartisan basis, members of the House Science, Space, and Technology Committee left no doubt today that they oppose the dramatic cuts to NASA included in the Trump Administration\u2019s [\u2026]",
+        "published_at": "2026-04-22T21:37:18Z",
+        "updated_at": "2026-04-22T21:40:20.067784Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.21666666666666665,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37643,
+        "title": "NASA\u2019s 777 Aircraft Returns Home with Science Flights on the Horizon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/lrc-2026-ocio-p-00998.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Boeing 777 has returned to the agency\u2019s fleet after undergoing heavy structural modifications as it transforms from a giant passenger plane into the agency\u2019s next-generation airborne science laboratory. After a check flight and a three-hour transit from Waco, the aircraft returned to NASA\u2019s Langley Research Center in Hampton, Virginia, on April 22. Since January [\u2026]",
+        "published_at": "2026-04-22T20:29:26Z",
+        "updated_at": "2026-04-22T20:30:13.041947Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.10000000000000002,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37642,
+        "title": "You want your Moon landings in HDTV? So does NASA. Here's how it's happening.",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/20260311_QOGS-05229.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"You just push this button, and in three hours, you're counting photons.\"",
+        "published_at": "2026-04-22T19:42:13Z",
+        "updated_at": "2026-04-23T06:29:28.450458Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "372d94b1-88fe-4cc5-9296-d893c9fa9426",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37641,
+        "title": "NASA Targets Early September for Roman Space Telescope Launch",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/roman-option-3.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Nancy Grace Roman Space Telescope team now is targeting as soon as early September 2026 for launch, ahead of the agency\u2019s commitment to flight no later than May 2027. \u201cRoman\u2019s accelerated development is a true success story of what we can achieve when public investment, institutional expertise, and private enterprise come together to take [\u2026]",
+        "published_at": "2026-04-22T17:46:38Z",
+        "updated_at": "2026-04-23T06:28:26.904794Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "521f3a1c-f977-4306-9b7f-495858719adf",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12142857142857144,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37640,
+        "title": "NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/55142906490-f1d1527d9e-k.jpg",
+        "news_site": "NASA",
+        "summary": "NASA will host a news conference at 1:45 p.m. EDT Wednesday, April 29, from the agency\u2019s Johnson Space Center in Houston to preview astronaut Anil Menon\u2019s upcoming mission to the International Space Station. Watch the news conference live on NASA\u2019s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including [\u2026]",
+        "published_at": "2026-04-22T16:29:30Z",
+        "updated_at": "2026-04-23T06:36:24.862727Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a556b963-0f36-4660-95a8-fdffdba653e2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.012121212121212116,
+        "sentiment_label": "Neutral"
+    }
+]
