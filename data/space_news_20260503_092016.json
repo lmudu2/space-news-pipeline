@@ -1,0 +1,44 @@
+[
+    {
+        "id": 37760,
+        "title": "Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The CAS500-2 mission is scheduled for liftoff from pad 4E at Vandenberg Space Force Base at 11:59 p.m. PDT (2:59 a.m. EDT / 0659 UTC). The Korea Aerospace Industries\u2019 Compact Advanced Satellite 500 (CAS500) satellite will be the first to deploy about an hour after liftoff. ",
+        "published_at": "2026-05-02T19:59:11Z",
+        "updated_at": "2026-05-02T20:00:37.192264Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09727272727272726,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37759,
+        "title": "Ribbon Cutting at Alabama\u2019s Redstone Arsenal Welcomes U.S. Space Command",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Ribbon-Cutting-Apr-29-26-300x200.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Gen. Stephen Whiting, Commander of U.S. Space Command, participated in a ribbon-cutting ceremony on Wednesday to mark the official beginning of USSPACECOM\u2019s move to Redstone Arsenal in Huntsville, AL. The [\u2026]",
+        "published_at": "2026-05-02T18:44:39Z",
+        "updated_at": "2026-05-02T18:50:18.817753Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.6,
+        "sentiment_label": "Negative"
+    }
+]
