@@ -1,0 +1,75 @@
+[
+    {
+        "id": 37763,
+        "title": "Launch boosts European Earth monitoring and connectivity",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/launch_boosts_european_earth_monitoring_and_connectivity/27254257-3-eng-GB/Launch_boosts_European_Earth_monitoring_and_connectivity_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Thirteen European satellites on the same rideshare launcher have successfully reached orbit, bringing capabilities to Italian and Greek monitoring programmes as well as CubeSats that will test satellite connectivity.",
+        "published_at": "2026-05-04T07:30:00Z",
+        "updated_at": "2026-05-04T08:20:01.032937Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37762,
+        "title": "What\u2019s Happening in Space Policy May 3-9, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Alan-Shepard-NASA-Freedom-7-300x171.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of May 3-9, 2026 and any insight we can offer about them. The House and Senate are in recess [\u2026]",
+        "published_at": "2026-05-03T20:27:49Z",
+        "updated_at": "2026-05-03T20:30:20.262901Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37761,
+        "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-03-18-57-04-759.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "SpaceX successfully launched its third rideshare mission of 2026 aboard Falcon 9. The mission carried\u2026\r\nThe post SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-03T18:00:27Z",
+        "updated_at": "2026-05-04T06:39:12.025114Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    }
+]
