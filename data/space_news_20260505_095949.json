@@ -1,0 +1,240 @@
+[
+    {
+        "id": 37778,
+        "title": "Ahuachap\u00e1n and Its Restive Neighbors",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachap%C3%A1n-and-its-restive-neighbors/ahuachapan_oli_20241125.jpg",
+        "news_site": "NASA",
+        "summary": "From a geothermal hotspot to the one-time \u201cLighthouse of the Pacific,\u201d the heat is on beneath the volcanic landscape of western El Salvador.",
+        "published_at": "2026-05-05T04:01:00Z",
+        "updated_at": "2026-05-05T04:10:08.735257Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37777,
+        "title": "Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260504_Seagate-Space-Platform-Firefly-Alpha-Rocket-Render.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The announcement comes ahead of Firefly Aerospace\u2019s first quarter earnings call for investors. A timeline for the first ocean-based Alpha rocket launches wasn't announced. ",
+        "published_at": "2026-05-04T21:52:31Z",
+        "updated_at": "2026-05-04T22:00:49.304614Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37776,
+        "title": "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55249468219-fc774342a0-k.jpg",
+        "news_site": "NASA",
+        "summary": "Ireland signed the Artemis Accords Monday during a signing ceremony hosted by NASA, becoming the latest nation to commit to the responsible exploration of space for all humanity. Ireland, a longstanding member of ESA (European Space Agency) and a valued international partner for NASA, now joins all 23 ESA member states as a signatory of [\u2026]",
+        "published_at": "2026-05-04T21:09:23Z",
+        "updated_at": "2026-05-04T21:10:11.086717Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.22999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37775,
+        "title": "NASA Fosters Development of Lunar Resource-Seeking Technologies",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/",
+        "image_url": "https://images-assets.nasa.gov/image/art002e009287/art002e009287~large.jpg",
+        "news_site": "NASA",
+        "summary": "To support long-duration missions to the Moon and Mars, NASA and industry are developing technologies that can extract resources such as hydrogen and helium-3 from lunar soil, known as regolith. This capability, known as in-situ resource utilization (ISRU), allows explorers to use what is already available on other planetary bodies, from water ice to minerals. [\u2026]",
+        "published_at": "2026-05-04T20:32:47Z",
+        "updated_at": "2026-05-04T20:40:09.442233Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09166666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37774,
+        "title": "Launch Preview: three launches \u2014 a calm before the storm?",
+        "authors": [
+            {
+                "name": "John Sharp",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-050426/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_0610.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Two Falcon 9 launches and a Chang Zheng 7 make up the launch roster for\u2026\r\nThe post Launch Preview: three launches \u2014 a calm before the storm? appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-04T18:45:36Z",
+        "updated_at": "2026-05-05T06:40:38.255368Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2833333333333334,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37773,
+        "title": "NASA Welcomes Malta as Newest Artemis Accords Signatory",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/artemis-accords-malta-65-050426.jpg",
+        "news_site": "NASA",
+        "summary": "The Republic of Malta became the 65th signatory to the Artemis Accords on Monday during a ceremony in the town of Kalkara with NASA and U.S. Department of State officials present. \u201cToday, it\u2019s my pleasure to welcome the Republic of Malta to the Artemis Accords community,\u201d NASA Administrator Jared Isaacman said in recorded remarks. \u201cBy [\u2026]",
+        "published_at": "2026-05-04T17:46:22Z",
+        "updated_at": "2026-05-04T17:50:11.837129Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37771,
+        "title": "Breaking Barriers at 3rd Annual Findings from the Field Symposium",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Findings_field_symposium_lene.jpg",
+        "news_site": "NASA",
+        "summary": "This year\u2019s Findings from the Field Student Research Symposium welcomed 106 students, grades four through eight, 29 educators, and 15 Subject Matter Experts, and it featured 68 research posters, 14 lightning talks, and 5 discussion sessions.",
+        "published_at": "2026-05-04T16:58:41Z",
+        "updated_at": "2026-05-04T17:10:11.334176Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37770,
+        "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+        "news_site": "NASA",
+        "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA\u2019s Artemis program. The tests in in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will [\u2026]",
+        "published_at": "2026-05-04T16:31:01Z",
+        "updated_at": "2026-05-04T16:57:21.687338Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.001388888888888889,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37772,
+        "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+        "news_site": "NASA",
+        "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA\u2019s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate [\u2026]",
+        "published_at": "2026-05-04T16:31:01Z",
+        "updated_at": "2026-05-05T06:40:01.185911Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.001388888888888889,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37769,
+        "title": "Hubble Spots a Starry Spiral",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc3137-potm2604a.jpg",
+        "news_site": "NASA",
+        "summary": "In this new picture from NASA\u2019s\u00a0Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation\u00a0Antlia\u00a0(the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, as [\u2026]",
+        "published_at": "2026-05-04T15:17:19Z",
+        "updated_at": "2026-05-04T16:53:14.060376Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2772727272727272,
+        "sentiment_label": "Positive"
+    }
+]
