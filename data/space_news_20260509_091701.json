@@ -1,0 +1,232 @@
+[
+    {
+        "id": 37838,
+        "title": "Rescue mission for NASA\u2019s $500 million space telescope passes key testing milestone",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260508-Testing-Link-Vibration-tests-2.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Katalyst Space Technologies\u2019 Link spacecraft is set to head to orbit in June 2026 onboard Northrop Grumman\u2019s Pegasus XL air-launched rocket. NASA awarded Katalyst a $30 million contract for the mission in September 2025.",
+        "published_at": "2026-05-08T23:19:34Z",
+        "updated_at": "2026-05-09T06:09:53.537951Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37836,
+        "title": "NASA\u2019s SpaceX 34th Commercial Resupply Mission Overview",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nasa-spacex-crs-34-mission-overview.png",
+        "news_site": "NASA",
+        "summary": "NASA and SpaceX are targeting\u00a0a\u00a0mid-May\u00a0launch\u00a0to deliver scientific investigations, supplies, and equipment to the International Space Station.\u00a0 Loaded\u00a0with\u00a0about 6,500\u00a0pounds of supplies, the SpaceX Dragon spacecraft\u00a0will lift off aboard\u00a0the company\u2019s Falcon 9 rocket\u00a0from Launch Complex 40 at Cape Canaveral Space Force Station in Florida.\u00a0Following its arrival to the\u00a0orbital complex,\u00a0Dragon will dock autonomously to the forward port of [\u2026]",
+        "published_at": "2026-05-08T22:50:03Z",
+        "updated_at": "2026-05-09T06:09:28.551721Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.033333333333333326,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37837,
+        "title": "Booster 19 completes Static Fire as Ship 39 prepares for rollout",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-08-23-42-01-222.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Following Booster 19\u2019s successful full-duration, full-thrust 33-engine static fire on May 7, 2026, its partner\u2026\r\nThe post Booster 19 completes Static Fire as Ship 39 prepares for rollout appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-08T22:45:59Z",
+        "updated_at": "2026-05-09T06:09:04.223973Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1450,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.4166666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37835,
+        "title": "Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Brian-Hughes-Ingalls-June-25-25-300x226.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Brian Hughes, who headed the Florida arm of President Trump\u2019s 2024 campaign and served as NASA Chief of Staff for several months last year, is returning to the agency to [\u2026]",
+        "published_at": "2026-05-08T19:13:34Z",
+        "updated_at": "2026-05-08T19:20:20.483698Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37834,
+        "title": "NASA\u2019s Psyche Mission Captures Mars During Gravity Assist Approach",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26750/PIA26750.jpg",
+        "news_site": "NASA",
+        "summary": "Description This colorized image of Mars was captured by NASA\u2019s Psyche mission on May 3, 2026, about 3 million miles (4.8 million kilometers) from the planet. The spacecraft is approaching the planet for a gravity assist on May 15 that will give it a boost in speed and adjust its trajectory toward asteroid Psyche for [\u2026]",
+        "published_at": "2026-05-08T18:11:39Z",
+        "updated_at": "2026-05-08T19:10:09.341753Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37833,
+        "title": "I Am Artemis: Anton Kiriwas",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260508-ph-csh01-0032-e1778260308717.jpg",
+        "news_site": "NASA",
+        "summary": "Listen to this audio excerpt from Anton Kiriwas, senior technical integration manager for NASA\u2019s Exploration Ground Systems Program: When Anton Kiriwas first spotted an image of the Moon and Mars hanging over a job fair booth while in college, it captured his imagination, yet felt like a dream too distant to chase. He had no [\u2026]",
+        "published_at": "2026-05-08T17:36:13Z",
+        "updated_at": "2026-05-08T17:40:13.659179Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37832,
+        "title": "NASA, Industry Advance High Performance Spaceflight Computing",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/d2026-0227-rl0028902.jpg",
+        "news_site": "NASA",
+        "summary": "For decades, NASA has advanced on-board spacecraft computer processors that coordinate and execute the functions needed to support mission success. Space computing originated in the 1960s with the Apollo Guidance Computers, which were pivotal for guidance, navigation, and control computations during NASA\u2019s first Moon missions. For decades, radiation-hardened processors have been the backbone of the [\u2026]",
+        "published_at": "2026-05-08T17:05:21Z",
+        "updated_at": "2026-05-08T17:10:07.158473Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.322,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37831,
+        "title": "Glowing Views from the Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/glowing-views-from-the-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0521637orig.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronaut Chris Williams captured the Milky Way rising above Earth\u2019s atmospheric glow on April 13, 2026, while aboard a SpaceX Dragon docked to the International Space Station. This atmospheric glow is also called airglow. It occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light to shed their excess energy. [\u2026]",
+        "published_at": "2026-05-08T15:21:17Z",
+        "updated_at": "2026-05-08T15:30:10.457234Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.11071428571428572,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37830,
+        "title": "NASA Names Brian Hughes to Launch Operations Role",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202506250014.jpg",
+        "news_site": "NASA",
+        "summary": "NASA announced Friday that Brian Hughes will return to the agency as senior director of launch operations, based at the agency\u2019s Kennedy Space Center in Florida. In this role, Hughes will provide enterprise-level leadership, strategic direction, and operational oversight for NASA\u2019s launch infrastructure. Reporting to NASA Headquarters in Washington, Hughes will have direct responsibility for [\u2026]",
+        "published_at": "2026-05-08T14:00:15Z",
+        "updated_at": "2026-05-08T14:10:11.518602Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37828,
+        "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/grc-2026-c-00617.jpg",
+        "news_site": "NASA",
+        "summary": "With a small blue crane, four researchers hoist a cylindrical fuel cell, which looks like a stack of flattened silver and gold soda cans bundled together, into the air and lower it into a rectangular cart on wheels. A tangle of tubes and wires spiral away from the system, where nearly 270 sensors and 1,000 [\u2026]",
+        "published_at": "2026-05-08T14:00:00Z",
+        "updated_at": "2026-05-08T14:00:17.589886Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.049999999999999996,
+        "sentiment_label": "Neutral"
+    }
+]
