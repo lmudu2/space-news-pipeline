@@ -1,0 +1,242 @@
+[
+    {
+        "id": 37872,
+        "title": "Varda signs deal with major US pharma firm to develop drugs in space",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"I do think it's a really good historical moment for the space industry.\"",
+        "published_at": "2026-05-13T10:00:28Z",
+        "updated_at": "2026-05-13T10:10:09.160224Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.140625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37871,
+        "title": "Waterworn chaos on Mars",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "This month, ESA\u2019s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
+        "published_at": "2026-05-13T09:00:00Z",
+        "updated_at": "2026-05-13T09:22:52.219888Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.7,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37870,
+        "title": "America\u2019s Emerald Isle",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america%E2%80%99s-emerald-isle/beaverisland_oli2_20240802.jpg",
+        "news_site": "NASA",
+        "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
+        "published_at": "2026-05-13T04:00:00Z",
+        "updated_at": "2026-05-13T04:10:13.054599Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37869,
+        "title": "CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/CBO-Golden-Dome-cost-table-May-2026-300x172.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Congressional Budget Office issued an updated estimate today of the cost of President Trump\u2019s Golden Dome missile defense system. Lacking detailed data from the Administration, CBO based its analysis [\u2026]",
+        "published_at": "2026-05-13T01:40:15Z",
+        "updated_at": "2026-05-13T01:40:21.513003Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.3333333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37868,
+        "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260512_Starship-Super_Heavy_integration.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission will test a host of changes made to both the launch vehicle and the launch infrastructure as SpaceX prepares to support the Artemis 3 mission in 2027.",
+        "published_at": "2026-05-12T23:15:22Z",
+        "updated_at": "2026-05-13T06:27:51.895498Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37867,
+        "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_7476-scaled.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set\u2026\r\nThe post SpaceX CRS-34 resupply mission to ISS delayed 24 hours appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-12T20:11:46Z",
+        "updated_at": "2026-05-13T06:28:10.827967Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37866,
+        "title": "NASA Langley Engineer Attends FAA Training",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/06/cummings-will.jpg",
+        "news_site": "NASA",
+        "summary": "At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like \u201cclearance delivery,\u201d which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require [\u2026]",
+        "published_at": "2026-05-12T18:57:31Z",
+        "updated_at": "2026-05-12T19:00:17.083570Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09861111111111111,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37865,
+        "title": "Perseverance Stuns in New Selfie",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls \u201cLac de Charmes.\u201d Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of [\u2026]",
+        "published_at": "2026-05-12T17:22:51Z",
+        "updated_at": "2026-05-13T06:28:04.234094Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.03409090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37862,
+        "title": "NASA\u2019s Perseverance Rover Snaps Selfie in Mars\u2019 Western Frontier",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/e1-pia26753-mastcam-z-arbot-sol1822-l0-z110-enhanced-web.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls \u201cLac de Charmes.\u201d Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western [\u2026]",
+        "published_at": "2026-05-12T16:48:31Z",
+        "updated_at": "2026-05-13T06:27:30.151085Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37863,
+        "title": "NASA\u2019s Perseverance Captures Panorama at \u2018Arbot\u2019",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26753/PIA26753.png",
+        "news_site": "NASA",
+        "summary": "Description NASA\u2019s Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed \u201cArbot\u201d on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover\u2019s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the [\u2026]",
+        "published_at": "2026-05-12T16:46:56Z",
+        "updated_at": "2026-05-13T06:27:40.707498Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    }
+]
