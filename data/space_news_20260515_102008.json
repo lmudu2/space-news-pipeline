@@ -1,0 +1,191 @@
+[
+    {
+        "id": 37894,
+        "title": "Earth from Space: Quito\u2019s volcanic landscape",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Quito_s_volcanic_landscape",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_quito_s_volcanic_landscape/27276804-1-eng-GB/Earth_from_Space_Quito_s_volcanic_landscape_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-05-15T08:00:00Z",
+        "updated_at": "2026-05-15T08:30:21.682633Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37893,
+        "title": "A Lyrid meteor from orbit",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/A_Lyrid_meteor_from_orbit",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_lyrid_meteor_from_orbit/27277162-1-eng-GB/A_Lyrid_meteor_from_orbit_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The Expedition 74 crew on the International Space Station turned into meteor chasers as Earth passed through a cloud of dust and small debris left behind by comet Thatcher in 1861.\u00a0\u00a0",
+        "published_at": "2026-05-15T07:06:00Z",
+        "updated_at": "2026-05-15T07:20:10.286554Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.1625,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37892,
+        "title": "Picturing Earth in a New Light",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_global_20142022.jpg",
+        "news_site": "NASA",
+        "summary": "A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.",
+        "published_at": "2026-05-15T04:00:00Z",
+        "updated_at": "2026-05-15T04:10:11.767799Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06727272727272729,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37891,
+        "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
+        "authors": [
+            {
+                "name": "Sean Yoder",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/HASTE-electron.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed\u2026\nThe post Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-15T00:24:31Z",
+        "updated_at": "2026-05-15T00:30:16.708272Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.17424242424242423,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37890,
+        "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260212-Plume-Feature-Image.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The static fire test was conducted by Northrop Grumman, the manufacturer of the GEM 63XL solid rocket booster that can be used to help power United Launch Alliance\u2019s Vulcan rockets. An in-flight anomaly was observed on one of those back in mid-February. ",
+        "published_at": "2026-05-14T21:20:57Z",
+        "updated_at": "2026-05-14T21:30:30.714008Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37889,
+        "title": "NASA Draws on Industry for Mars Telecommunications Network",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/mars.jpg",
+        "news_site": "NASA",
+        "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. [\u2026]",
+        "published_at": "2026-05-14T20:53:24Z",
+        "updated_at": "2026-05-14T21:00:13.922601Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37888,
+        "title": "NASA Shares Early Planning for Artemis III",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-shares-early-planning-for-artemis-iii/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earthset-Apr-6-26-300x200.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA is beginning to share plans for the next Artemis mission, Artemis III, scheduled to launch next year. Artemis III was going to be the first human landing on the [\u2026]",
+        "published_at": "2026-05-14T20:46:23Z",
+        "updated_at": "2026-05-14T20:50:18.251436Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06999999999999999,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37887,
+        "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in\u2011orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a [\u2026]",
+        "published_at": "2026-05-14T16:32:09Z",
+        "updated_at": "2026-05-14T16:40:14.388526Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37886,
+        "title": "Fresh Food Delivery for Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/05/55227020012-87ff8b1296-o.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman\u2019s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and [\u2026]",
+        "published_at": "2026-05-14T14:55:08Z",
+        "updated_at": "2026-05-14T15:00:16.584377Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19714285714285715,
+        "sentiment_label": "Positive"
+    }
+]
