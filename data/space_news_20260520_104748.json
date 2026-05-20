@@ -1,0 +1,274 @@
+[
+    {
+        "id": 37963,
+        "title": "Isaacman expects Chinese crewed mission around the moon in 2027",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/isaacman-expects-chinese-crewed-mission-around-the-moon-in-2027/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/55281606816_df7a2c16e9_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe head of NASA says he expects China to perform a crewed flight around the moon in 2027, ratcheting up perceptions of a space race between China and the U.S.\nThe post Isaacman expects Chinese crewed mission around the moon in 2027 appeared first on SpaceNews.",
+        "published_at": "2026-05-20T09:26:12Z",
+        "updated_at": "2026-05-20T09:30:46.996814Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37962,
+        "title": "Fire Chars Santa Rosa Island",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg",
+        "news_site": "NASA",
+        "summary": "The blaze spread across the southern side of the second-largest island in California\u2019s Channel Islands National Park.",
+        "published_at": "2026-05-20T04:00:00Z",
+        "updated_at": "2026-05-20T06:34:27.703399Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37961,
+        "title": "Isaacman: Chinese Taikonauts Likely to Fly Around Moon in 2027",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/isaacman-chinese-taikonauts-likely-to-fly-around-moon-in-2027/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Earth-from-A2-Apr-2-2026-300x215.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA Administrator Jared Isaacman asserted today that next year Chinese taikonauts \u201clikely\u201d will fly around the Moon and the United States no longer will hold the distinction as the only [\u2026]",
+        "published_at": "2026-05-20T01:41:37Z",
+        "updated_at": "2026-05-20T01:50:20.459635Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37960,
+        "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket launch from Vandenberg SFB",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-launch-from-vandenberg-sfb/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260110_Starlink_G9_10_Vertical_Sunset-1.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "SpaceX\u2019s 45th Starlink mission of the year will see the company add another 24 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base at 7:46 p.m. PDT (10:46 p.m. EDT / 0246 UTC).",
+        "published_at": "2026-05-20T00:28:12Z",
+        "updated_at": "2026-05-20T06:32:47.503146Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.22121212121212122,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 37959,
+        "title": "Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051926/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/DSC08881-wmarked-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Six launches are scheduled worldwide during the next week, with the 12th flight of SpaceX\u2019s\u2026\r\nThe post Launch Preview: Falcon 9, Electron, and Vega C launch missions alongside Starship Flight 12 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-19T21:08:02Z",
+        "updated_at": "2026-05-20T06:36:25.340885Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37954,
+        "title": "NASA\u2019s Psyche Mission Images Mars\u2019 Huygens Crater",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26775/PIA26775.png",
+        "news_site": "NASA",
+        "summary": "Description Captured by the multispectral imager instrument on NASA\u2019s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper left; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near 15 degrees south latitude. The various colors in this dramatic scene are likely due to [\u2026]",
+        "published_at": "2026-05-19T20:47:13Z",
+        "updated_at": "2026-05-20T06:33:03.537178Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.044404761904761905,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37955,
+        "title": "NASA\u2019s Psyche Mission Spies Mars\u2019 Wind-Blown Craters During Close Approach",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26774/PIA26774.png",
+        "news_site": "NASA",
+        "summary": "Description This view of the Martian surface, captured by NASA\u2019s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, [\u2026]",
+        "published_at": "2026-05-19T20:43:20Z",
+        "updated_at": "2026-05-20T06:33:07.755929Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.0031249999999999993,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 37956,
+        "title": "Psyche\u2019s High-Resolution View of Mars\u2019 South Pole",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26773/PIA26773.png",
+        "news_site": "NASA",
+        "summary": "Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA\u2019s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The cap itself extends across more than 430 miles [\u2026]",
+        "published_at": "2026-05-19T20:38:49Z",
+        "updated_at": "2026-05-20T06:33:11.948678Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.20833333333333334,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37953,
+        "title": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/55211398279_9c7afd276f_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Pentagon is realigning the Space Development Agency\u2019s satellite programs under new acquisition structure\nThe post SDA director Sandhoo takes on broader Space Force missile warning portfolio appeared first on SpaceNews.",
+        "published_at": "2026-05-19T20:37:40Z",
+        "updated_at": "2026-05-19T20:40:16.602049Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19318181818181818,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 37957,
+        "title": "NASA\u2019s Psyche Mission Sees Mars\u2019 South Pole After Flyby",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26772/PIA26772.png",
+        "news_site": "NASA",
+        "summary": "Description This is Psyche\u2019s first view of a nearly \u201cfull Mars\u201d seen shortly after the spacecraft\u2019s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mirror, the spacecraft will soon resume use of [\u2026]",
+        "published_at": "2026-05-19T20:34:02Z",
+        "updated_at": "2026-05-20T06:33:18.948605Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12916666666666665,
+        "sentiment_label": "Positive"
+    }
+]
