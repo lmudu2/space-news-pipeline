@@ -1,0 +1,51 @@
+[
+    {
+        "id": 38045,
+        "title": "NASA to add missions to SpaceX commercial crew contract",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA plans to add more missions to SpaceX\u2019s commercial crew contract, protecting the agency from the possibility that Boeing\u2019s spacecraft is never certified for missions to the International Space Station.\nThe post NASA to add missions to SpaceX commercial crew contract appeared first on SpaceNews.",
+        "published_at": "2026-05-24T07:51:34Z",
+        "updated_at": "2026-05-24T08:00:21.762217Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38044,
+        "title": "Shenzhou 23 set to launch new crew to Tiangong space station",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_1727.png",
+        "news_site": "NASASpaceflight",
+        "summary": "The Chinese space station Tiangong, permanently occupied since June 5, 2022, is set to receive\u2026\nThe post Shenzhou 23 set to launch new crew to Tiangong space station appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-23T22:16:51Z",
+        "updated_at": "2026-05-23T22:20:16.465121Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13068181818181818,
+        "sentiment_label": "Positive"
+    }
+]
