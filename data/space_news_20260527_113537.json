@@ -1,0 +1,248 @@
+[
+    {
+        "id": 38080,
+        "title": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_iceye_factory_final_1.png?fit=879%2C586&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAMSTERDAM \u2013 European nations are adopting a mix of sovereign, bilateral, federated and dual-use commercial technologies to enhance military readiness. \u201cWhen we talk about sovereignty, independence, safety or security, we [\u2026]\nThe post Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities appeared first on SpaceNews.",
+        "published_at": "2026-05-27T07:28:52Z",
+        "updated_at": "2026-05-27T07:30:19.341086Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.024999999999999998,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38079,
+        "title": "Ever Restless Mount Dukono Erupts",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ever-restless-mount-dukono-erupts/dukonovolcano_oli2_20260513.jpg",
+        "news_site": "NASA",
+        "summary": "The volcano on Indonesia\u2019s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.",
+        "published_at": "2026-05-27T04:01:00Z",
+        "updated_at": "2026-05-27T04:10:08.491084Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38078,
+        "title": "NASA Awards Initial Moon Base Rover and Lander Contracts",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/nasa-awards-initial-moon-base-rover-and-lander-contracts/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/ignition-3-phases-glaze-300x168.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Pressing forward with plans to build a Moon Base as part of the Artemis program, today NASA announced awards of several service contracts to build and/or deliver landers and rovers [\u2026]",
+        "published_at": "2026-05-27T03:55:34Z",
+        "updated_at": "2026-05-27T09:48:02.594404Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1453,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.4,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38077,
+        "title": "NASA outlines nearly $1 billion investment into initial Moon Base missions",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/27/nasa-outlines-nearly-1-billion-investment-into-initial-moon-base-missions/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260526_Blue_Moon_CLV-1.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "NASA\u2019s vision for a sprawling Moon Base will cover \u201chundreds of square miles\u201d to cover the multitudes of various sites that the agency wants to explore.",
+        "published_at": "2026-05-27T01:18:19Z",
+        "updated_at": "2026-05-27T09:47:30.500949Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1453,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.21666666666666667,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38076,
+        "title": "Following Starship V3 debut, SpaceX prepares for follow up",
+        "authors": [
+            {
+                "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-27-02-01-37-688-wmarked.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Starship Version 3 flew for the first time this week in a mission of several\u2026\r\nThe post Following Starship V3 debut, SpaceX prepares for follow up appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-27T01:10:58Z",
+        "updated_at": "2026-05-27T09:47:13.752345Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed83366c-872c-4484-97c1-bc74832304fc",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38075,
+        "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/9004037.jpg?fit=913%2C488&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe contract is for the development of the U.S. Space Force\u2019s Space Data Network backbone\nThe post SpaceX wins $2.29 billion Space Force contract for military data network appeared first on SpaceNews.",
+        "published_at": "2026-05-26T22:40:27Z",
+        "updated_at": "2026-05-26T22:50:20.187414Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38074,
+        "title": "NASA selects four companies for initial moon base awards",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/bluemoon-astrolab.jpeg?fit=1024%2C573&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "NASA announced May 26 the first contracts associated with its plans to develop a lunar base, picking four companies to develop and deliver landers and drones to the moon.\r\nThe post NASA selects four companies for initial moon base awards appeared first on SpaceNews.",
+        "published_at": "2026-05-26T21:50:27Z",
+        "updated_at": "2026-05-27T09:46:38.289746Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1453,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.27142857142857146,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38073,
+        "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
+        "news_site": "NASA",
+        "summary": "NASA will provide an update on the agency\u2019s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency\u2019s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency\u2019s YouTube channel. Learn how to [\u2026]",
+        "published_at": "2026-05-26T21:33:04Z",
+        "updated_at": "2026-05-27T10:58:47.675274Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8034d81b-af96-460c-a7b7-5c8e7f1a1d86",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.018181818181818174,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38072,
+        "title": "Open Cosmos\u2019 CEO on what it takes to bring IoT to space",
+        "authors": [
+            {
+                "name": "Mike Gruss",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ConnectedCosmos-scaled.png?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nOpen Cosmos, based in the United Kingdom, is facing a 2028 deadline to field an ambitious broadband constellation for Europe. That system, ConnectedCosmos, aims to reduce reliance on undersea cables [\u2026]\nThe post Open Cosmos\u2019 CEO on what it takes to bring IoT to space appeared first on SpaceNews.",
+        "published_at": "2026-05-26T21:05:19Z",
+        "updated_at": "2026-05-26T21:10:25.830369Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38071,
+        "title": "NASA Astronauts to Answer Questions from Students in New York",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/",
+        "image_url": "https://images-assets.nasa.gov/image/iss074e0541212/iss074e0541212~large.jpg",
+        "news_site": "NASA",
+        "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency\u2019s Learn With NASA YouTube channel. This event [\u2026]",
+        "published_at": "2026-05-26T21:05:04Z",
+        "updated_at": "2026-05-26T21:10:09.017996Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10227272727272727,
+        "sentiment_label": "Positive"
+    }
+]
