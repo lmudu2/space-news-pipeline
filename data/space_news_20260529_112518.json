@@ -1,0 +1,270 @@
+[
+    {
+        "id": 38150,
+        "title": "China\u2019s latest batch of new and reusable rockets are close to launch",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Pallas1-dongfeng-commercial-launch-zone-May2026-Galactic-Energy.jpg?fit=1024%2C534&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "A number of new Chinese state-led and commercial rockets are set for debuts and fresh first stage recovery attempts in the coming weeks and months.\r\nThe post China\u2019s latest batch of new and reusable rockets are close to launch appeared first on SpaceNews.",
+        "published_at": "2026-05-29T09:38:40Z",
+        "updated_at": "2026-05-29T11:14:12.341824Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "163c666e-6c61-4e10-8110-6d3c33d965f6",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "84f8dd64-8146-45e1-b34c-7df662a59c65",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "1e79a5e9-c02c-470f-882f-884120100fef",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2209090909090909,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38148,
+        "title": "Journey to the centre of a galaxy cluster",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Journey_to_the_centre_of_a_galaxy_cluster",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/journey_to_the_centre_of_a_galaxy_cluster/27296765-1-eng-GB/Journey_to_the_centre_of_a_galaxy_cluster_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-05-29T08:00:00Z",
+        "updated_at": "2026-05-29T08:22:41.407113Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38149,
+        "title": "Earth from Space: Batagaika Crater",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/earth_from_space_batagaika_crater/27298889-1-eng-GB/Earth_from_Space_Batagaika_Crater_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-05-29T08:00:00Z",
+        "updated_at": "2026-05-29T09:10:17.271946Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38147,
+        "title": "ESA Greenlights Two Budget-Friendly Earth Observation Missions",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/esa-greenlights-two-budget-friendly-earth-observation-missions/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Isar-Aerospace-Signs-Agreement-to-Launch-from-Future-Canadian-Spaceport.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The European Space Agency has greenlit its HiBiDiS and SOVA-S Scout missions, with development led by SITAEL and OHB Czechspace, respectively. These missions are required to progress from initial approval to launch within three years, with costs capped at \u20ac35 million. On 20 May, the agency announced that it had selected its next two Scout [\u2026]\r\nThe post ESA Greenlights Two Budget-Friendly Earth Observation Missions appeared first on European Spaceflight.",
+        "published_at": "2026-05-29T07:31:34Z",
+        "updated_at": "2026-05-29T08:20:49.692548Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.041666666666666664,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38146,
+        "title": "New Glenn rocket explodes on Cape Canaveral pad",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "A Blue Origin New Glenn rocket exploded on its launch pad at Cape Canaveral, Florida, during a May 28 hotfire test, destroying the rocket and causing extensive pad damage.\r\nThe post New Glenn rocket explodes on Cape Canaveral pad appeared first on SpaceNews.",
+        "published_at": "2026-05-29T06:00:15Z",
+        "updated_at": "2026-05-29T08:20:22.761936Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06558441558441558,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38145,
+        "title": "Blue Origin\u2019s New Glenn rocket explodes during prelaunch testing at Cape Canaveral",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-during-prelaunch-testing-at-cape-canaveral/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260529_NG-4_static_fire_explosion.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The explosion happened at 9 p.m. EDT (0100 UTC) during a static fire test of the rocket at Launch Complex 36 at Cape Canaveral Space Force Station. Blue Origin was slated to launch a mission for Amazon Leo as soon as June 4.",
+        "published_at": "2026-05-29T05:03:45Z",
+        "updated_at": "2026-05-29T08:20:18.819987Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06727272727272728,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38144,
+        "title": "Painting the Growing Season in the Maize Triangle",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/painting-a-season-in-the-maize-triangle/southafricaag_nisar_20260310.jpg",
+        "news_site": "NASA",
+        "summary": "Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere\u2019s growing season.",
+        "published_at": "2026-05-29T04:00:00Z",
+        "updated_at": "2026-05-29T04:10:05.837537Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38142,
+        "title": "Blue Origin\u2019s New Glenn explodes during Static Fire test at LC-36",
+        "authors": [
+            {
+                "name": "Ryan Caton",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/05/blue-origin-new-glenn-explodes/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-29-04-41-12-467.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Blue Origin experienced a major anomaly during a planned hot-fire test of its New Glenn\u2026\r\nThe post Blue Origin\u2019s New Glenn explodes during Static Fire test at LC-36 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-05-29T03:59:03Z",
+        "updated_at": "2026-05-29T08:20:14.967098Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.22923553719008263,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38143,
+        "title": "Blue Origin\u2019s New Glenn Rocket Explodes During Pre-Launch Test",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-explodes-during-pre-launch-test/",
+        "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Blue Origin\u2019s New Glenn rocket exploded during a pre-launch test this evening. The company said all personnel are safe and accounted for following the \u201canomaly.\u201d The company was conducting a [\u2026]",
+        "published_at": "2026-05-29T03:55:36Z",
+        "updated_at": "2026-05-29T08:20:10.895497Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38141,
+        "title": "Blue Origin's New Glenn rocket just exploded during a static fire test",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-On-Pad-2.jpg",
+        "news_site": "Arstechnica",
+        "summary": "New Glenn was due to play a starring role in NASA's Artemis Program.",
+        "published_at": "2026-05-29T02:21:08Z",
+        "updated_at": "2026-05-29T08:20:07.627878Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12954545454545455,
+        "sentiment_label": "Positive"
+    }
+]
