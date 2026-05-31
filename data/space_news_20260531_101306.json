@@ -1,0 +1,77 @@
+[
+    {
+        "id": 38170,
+        "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starfall.jpeg?fit=1024%2C544&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nFederal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.\nThe post FAA documents outline SpaceX plans for Starfall reentry vehicles appeared first on SpaceNews.",
+        "published_at": "2026-05-31T09:26:19Z",
+        "updated_at": "2026-05-31T09:30:20.490638Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19318181818181818,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38169,
+        "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/HJhyho4XcAAKy5F.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "U.S. Space Force, National Reconnaissance Office \u2018remain committed partners with Blue Origin\u2019\r\nThe post Blue Origin gets national security launch task order hours before New Glenn explosion appeared first on SpaceNews.",
+        "published_at": "2026-05-30T21:06:37Z",
+        "updated_at": "2026-05-31T08:46:53.802935Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08712121212121211,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38168,
+        "title": "Live coverage: SpaceX to launch 50th Starlink mission of 2026",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/05/30/live-coverage-spacex-to-launch-50th-starlink-mission-of-2026/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Starlink 17-41 mission is SpaceX\u2019s 10th and final launch of May. Liftoff of the Falcon 9 rocket from pad 4E at Vandenberg Space Force Base is scheduled for 8:25 a.m. PDT (11:25 a.m. EDT / 1525 UTC).",
+        "published_at": "2026-05-30T13:46:18Z",
+        "updated_at": "2026-05-31T08:50:38.380640Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a7341350-789e-4f61-99a4-a61ebc40c05b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.22121212121212122,
+        "sentiment_label": "Negative"
+    }
+]
