@@ -1,0 +1,248 @@
+[
+    {
+        "id": 38261,
+        "title": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/CZ8-Qianfan-group12-HICAL-5june2026-OS1.jpg?fit=1024%2C645&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Construction of the Shanghai-led Qianfan constellation continued to accelerate this week with a pair of Long March launches, following on from two recent experimental flights.\r\nThe post Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches appeared first on SpaceNews.",
+        "published_at": "2026-06-05T10:46:32Z",
+        "updated_at": "2026-06-05T10:51:25.799206Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "5db6b0f1-446d-4209-824f-1187e1b6d212",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.028571428571428574,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38260,
+        "title": "Satellite maker Apex\u2019s valuation rises to $2.3 billion after latest $200 million raise",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nApex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled the four-year-old manufacturer\u2019s valuation to $2.3 billion.\nThe post Satellite maker Apex\u2019s valuation rises to $2.3 billion after latest $200 million raise appeared first on SpaceNews.",
+        "published_at": "2026-06-05T09:15:00Z",
+        "updated_at": "2026-06-05T09:20:19.326275Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.27499999999999997,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38258,
+        "title": "The Exploration Company completes drop test of Nyx capsule",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Exploration Company performed a drop test of the Nyx spacecraft it is developing to transport cargo to low Earth orbit ahead of a 2028 test flight.\nThe post The Exploration Company completes drop test of Nyx capsule appeared first on SpaceNews.",
+        "published_at": "2026-06-05T08:30:24Z",
+        "updated_at": "2026-06-05T08:40:24.592651Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38256,
+        "title": "Webb unveils young stars across every stage of formation",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Webb_unveils_young_stars_across_every_stage_of_formation",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/webb_unveils_young_stars_across_every_stage_of_formation/27308187-1-eng-GB/Webb_unveils_young_stars_across_every_stage_of_formation_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-05T08:00:00Z",
+        "updated_at": "2026-06-05T08:23:35.789561Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38257,
+        "title": "Earth from Space: Baku, Azerbaijan",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Baku_Azerbaijan",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_baku_azerbaijan/27309506-1-eng-GB/Earth_from_Space_Baku_Azerbaijan_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-05T08:00:00Z",
+        "updated_at": "2026-06-05T08:30:17.324060Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38255,
+        "title": "Axiom Space adds more than $175 million to funding round",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/axiom-scaled.jpg?fit=1024%2C513&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAxiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan\u2019s largest bank joining the company\u2019s investors.\nThe post Axiom Space adds more than $175 million to funding round appeared first on SpaceNews.",
+        "published_at": "2026-06-05T07:03:24Z",
+        "updated_at": "2026-06-05T07:10:25.918731Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.20625000000000002,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38254,
+        "title": "Fighting Fire With Fire",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-fire-with-fire/australiafires_amo_20260528.jpg",
+        "news_site": "NASA",
+        "summary": "In fire-prone ecosystems in Australia\u2019s Northern Territory, prescribed burns are lit to minimize the severity of fires later in the season.",
+        "published_at": "2026-06-05T04:01:00Z",
+        "updated_at": "2026-06-05T06:56:35.712386Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c70dd943-2b43-416d-9b5e-99543b05cd08",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38253,
+        "title": "HASC NDAA markup challenges Space Force on satellite programs",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.02.01-PM-scaled.png?fit=1024%2C542&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nHouse Armed Services Committee seeks to preserve a missile-warning satellite program the Pentagon wants to cancel. It also criticizes a recent tactical communications satellite procurement and GPS oversight\nThe post HASC NDAA markup challenges Space Force on satellite programs appeared first on SpaceNews.",
+        "published_at": "2026-06-04T22:32:04Z",
+        "updated_at": "2026-06-04T22:40:21.255139Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38252,
+        "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/boeing-hicam-feature.png",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s\u00a0Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for\u00a0a\u00a02026\u00a0spring\u00a0review at NASA\u2019s Langley Research Center in Hampton, Virginia.\u00a0\u00a0 The meeting took place May 5-7, bringing together\u00a0about 150 people from the\u00a0consortium, a\u00a022-member public-private partnership.\u00a0\u00a0 The review gave NASA and industry partners a chance to look at recent progress and [\u2026]",
+        "published_at": "2026-06-04T20:36:24Z",
+        "updated_at": "2026-06-04T20:40:06.389786Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.20999999999999996,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38251,
+        "title": "NASA head urges new launcher for Blue Origin\u2019s moon landers to meet Artemis mission deadlines",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/04/nasa-head-urges-new-launcher-for-blue-origins-moon-landers-to-meet-artemis-mission-deadlines/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/10/20251008_BlueMoon_mk1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The change was confirmed by the agency a week after a New Glenn testing explosion destroyed the rocket and damaged Launch Complex 36. ",
+        "published_at": "2026-06-04T18:08:20Z",
+        "updated_at": "2026-06-04T18:10:42.505860Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07454545454545455,
+        "sentiment_label": "Neutral"
+    }
+]
