@@ -1,0 +1,98 @@
+[
+    {
+        "id": 38265,
+        "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/amazonleo-ariane6.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\r\nThe post Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters appeared first on SpaceNews.",
+        "published_at": "2026-06-05T14:02:31Z",
+        "updated_at": "2026-06-05T14:51:24.143628Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.21666666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38264,
+        "title": "Week in images: 01-05 Jun 2026",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_Jun_2026",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/maupiti_french_polynesia/27308541-2-eng-GB/Maupiti_French_Polynesia_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Week in images: 01-05 Jun 2026",
+        "published_at": "2026-06-05T13:10:00Z",
+        "updated_at": "2026-06-05T13:50:19.736697Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38263,
+        "title": "Let\u2019s build the moon base, but not lose sight of Mars",
+        "authors": [
+            {
+                "name": "Chris Carberry and Jennifer Rochlis",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThese are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an [\u2026]\nThe post Let\u2019s build the moon base, but not lose sight of Mars appeared first on SpaceNews.",
+        "published_at": "2026-06-05T13:00:00Z",
+        "updated_at": "2026-06-05T13:10:34.727050Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.37916666666666665,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38262,
+        "title": "Putting the pieces together for Galileo second generation",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Putting_the_pieces_together_for_Galileo_second_generation",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/putting_the_pieces_together_for_galileo_second_generation/27310372-1-eng-GB/Putting_the_pieces_together_for_Galileo_second_generation_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-05T11:55:00Z",
+        "updated_at": "2026-06-05T12:10:16.764411Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
