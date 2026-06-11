@@ -1,0 +1,219 @@
+[
+    {
+        "id": 38403,
+        "title": "Luca Parmitano: Artemis III pilot",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Luca_Parmitano_Artemis_III_pilot",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/luca_parmitano_artemis_iii_pilot/27323691-1-eng-GB/Luca_Parmitano_Artemis_III_pilot_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-11T12:00:00Z",
+        "updated_at": "2026-06-11T11:50:19.887576Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38405,
+        "title": "ESA awards contract for next-generation radar imaging satellites",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Sentinel-1_Next_Generation.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThales Alenia Space and Airbus Defence and Space won contracts to build the next generation of radar imaging satellites for Europe\u2019s Copernicus Earth observation program.\nThe post ESA awards contract for next-generation radar imaging satellites appeared first on SpaceNews.",
+        "published_at": "2026-06-11T11:49:18Z",
+        "updated_at": "2026-06-11T11:50:30.171039Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38404,
+        "title": "Same rocket, new boost",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Same_rocket_new_boost",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/same_rocket_new_boost/27317273-1-eng-GB/Same_rocket_new_boost_card_full.png",
+        "news_site": "ESA",
+        "summary": "The eighth flight of Europe\u2019s rocket Ariane 6 will have a bigger boost: the P120C solid-propellant rocket motor, used as Ariane 6 booster so far, has been upgraded. The new P160C flying on Ariane 6 flight VA269 offers 10% more performance to orbit.",
+        "published_at": "2026-06-11T11:40:00Z",
+        "updated_at": "2026-06-11T11:50:20.157640Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13896103896103895,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38402,
+        "title": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nChina has conducted a pair of launches to advance its communications capabilities, using the country\u2019s largest rocket and a commercial launcher.\nThe post Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats appeared first on SpaceNews.",
+        "published_at": "2026-06-11T11:36:39Z",
+        "updated_at": "2026-06-11T11:40:18.371308Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0375,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38401,
+        "title": "Missile defense in the age of saturation warfare",
+        "authors": [
+            {
+                "name": "Syeda Tahreem Bukhari",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/Golden-Dome-scaled.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWith the evolution of new military technologies, the trajectory of war has undergone a massive change. Historically, wars were fought through direct confrontation on the battlefield, while contemporary warfare is [\u2026]\nThe post Missile defense in the age of saturation warfare appeared first on SpaceNews.",
+        "published_at": "2026-06-11T11:00:00Z",
+        "updated_at": "2026-06-11T11:10:29.815422Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.079004329004329,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38400,
+        "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Falcon 9 is launching a day before the company begins publicly trading on the Nasdaq. Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for 8:05 a.m. PDT (11:05 a.m. EDT / 1505 UTC). ",
+        "published_at": "2026-06-11T10:29:38Z",
+        "updated_at": "2026-06-11T10:30:28.581410Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.22121212121212122,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38399,
+        "title": "ILA Berlin 2026: ESA Director General press conference",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ILA_Berlin_2026_ESA_Director_General_press_conference",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/ila_berlin_2026_esa_director_general_press_conference/27322859-5-eng-GB/ILA_Berlin_2026_ESA_Director_General_press_conference_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "ESA Director General Josef Aschbacher briefed media representatives and discussed Europe's priorities in space, exploration, resilience and the future of the European space sector.\u00a0",
+        "published_at": "2026-06-11T08:00:00Z",
+        "updated_at": "2026-06-11T09:00:23.307322Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02500000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38397,
+        "title": "Tracking urban expansion in hazard-prone areas",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Tracking_urban_expansion_in_hazard-prone_areas",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/urban_expansion_and_flood_risk_in_hanoi_2016_2026/27316291-1-eng-GB/Urban_expansion_and_flood_risk_in_Hanoi_2016_2026_card_full.gif",
+        "news_site": "ESA",
+        "summary": "The World Settlement Footprint (WSF) Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters in Washington DC.",
+        "published_at": "2026-06-11T07:15:00Z",
+        "updated_at": "2026-06-11T08:10:21.312103Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38396,
+        "title": "Air Pollution\u2019s Daily Pulse Over the Northeast",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pollution's-daily-pulse-over-the-northeast/nyam_tempo_no2_20260518.jpg",
+        "news_site": "NASA",
+        "summary": "The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York\u2013Washington corridor in May 2026.",
+        "published_at": "2026-06-11T04:01:00Z",
+        "updated_at": "2026-06-11T04:10:11.158989Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38395,
+        "title": "NASA chief defends selection of all-male Artemis 3 crew",
+        "authors": [
+            {
+                "name": "William Harwood",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/10/nasa-chief-defends-selection-of-all-male-artemis-iii-crew/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260610_Artemis-3_crew.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "During an event Tuesday at the Johnson Space Center, NASA revealed the astronauts who had been selected for next year's Artemis 3 mission, a flight to test rendezvous and docking procedures in low-Earth orbit with moon landers being built by SpaceX and Blue Origin. ",
+        "published_at": "2026-06-10T23:21:51Z",
+        "updated_at": "2026-06-10T23:30:40.486587Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.03333333333333333,
+        "sentiment_label": "Neutral"
+    }
+]
