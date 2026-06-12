@@ -1,0 +1,222 @@
+[
+    {
+        "id": 38437,
+        "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/stoke-space-2.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"If I needed to fly on another vehicle, what would that look like?\"",
+        "published_at": "2026-06-12T11:00:13Z",
+        "updated_at": "2026-06-12T11:10:16.211396Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.8,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38436,
+        "title": "Mission Control | Keeping Columbus Running 24/7 | ESA Explores #19",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Mission_Control_Keeping_Columbus_Running_24_7_ESA_Explores_19",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/mission_control_keeping_columbus_running_24_7_esa_explores_19/27325381-1-eng-GB/Mission_Control_Keeping_Columbus_Running_24_7_ESA_Explores_19_card_full.png",
+        "news_site": "ESA",
+        "summary": "Step inside the Columbus Control Centre near Munich, Germany, and discover what it takes to keep ESA's Columbus laboratory running\u201424 hours a day, 365 days a year.",
+        "published_at": "2026-06-12T10:00:00Z",
+        "updated_at": "2026-06-12T10:20:21.015188Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38435,
+        "title": "In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAerospace executives see AI not as a replacement for workers but as a necessary tool for helping an overstretched industrial base\nThe post In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage appeared first on SpaceNews.",
+        "published_at": "2026-06-12T10:00:00Z",
+        "updated_at": "2026-06-12T10:00:44.210448Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.18333333333333335,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38434,
+        "title": "Earth from Space: Buenos Aires",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Buenos_Aires",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_buenos_aires/27315792-1-eng-GB/Earth_from_Space_Buenos_Aires_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "This radar image from the Copernicus Sentinel-1 mission captures Buenos Aires, the capital of Argentina, the surrounding countryside and the Rio de la Plata estuary.",
+        "published_at": "2026-06-12T08:00:00Z",
+        "updated_at": "2026-06-12T08:10:18.383992Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38431,
+        "title": "Conversations in the sky: Galileo\u2019s intersatellite links tested",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Conversations_in_the_sky_Galileo_s_intersatellite_links_tested",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/antenna_pointing_mechanism_for_galileo_second_generation_intersatellite_links_thales_alenia_space/27318988-1-eng-GB/Antenna_pointing_mechanism_for_Galileo_second_generation_intersatellite_links_Thales_Alenia_Space_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The second generation of Galileo, Europe\u2019s satellite navigation constellation, is being built. These satellites will feature reconfigurable payloads, provide more robust and reliable positioning, navigation and timing, enable new services and add new capabilities to the constellation.",
+        "published_at": "2026-06-12T06:45:00Z",
+        "updated_at": "2026-06-12T06:50:17.642636Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19318181818181818,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38430,
+        "title": "World Cup Fever in Guadalajara",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413.jpg",
+        "news_site": "NASA",
+        "summary": "The city\u2019s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+        "published_at": "2026-06-12T04:01:00Z",
+        "updated_at": "2026-06-12T04:10:05.090470Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38429,
+        "title": "Live coverage: SpaceX to launch final Starlink mission as it begins publicly trade its stock on the Nasdaq for the first time",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/12/live-coverage-spacex-to-launch-final-starlink-mission-as-it-begins-publicly-trade-its-stock-on-the-nasdaq-for-the-first-time/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The company will debut on the Nasdaq under the ticker symbol \u201cSPCX\u201d and begin trading with a massive valuation of $1.77 trillion. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 8:37 a.m. EDT (1237 UTC).",
+        "published_at": "2026-06-12T02:06:09Z",
+        "updated_at": "2026-06-12T07:24:32.078964Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.07727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38428,
+        "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/rsz_global_shipping_abstract_image.jpg?fit=879%2C684&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSAN FRANCISCO \u2013 The European Space Agency awarded AAC Clyde Space a 10.9 million euro ($12.6 million) contract to complete development and demonstrate VHF Data Exchange System (VDES) satellites for [\u2026]\nThe post AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation appeared first on SpaceNews.",
+        "published_at": "2026-06-12T00:06:06Z",
+        "updated_at": "2026-06-12T00:10:36.267763Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16428571428571428,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38427,
+        "title": "NASA Award Boosts Space Technology Research Capabilities",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/12/calibration-gas-system-cgs.png",
+        "news_site": "NASA",
+        "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M\u2011STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency\u2019s priorities for exploring the [\u2026]",
+        "published_at": "2026-06-11T21:14:44Z",
+        "updated_at": "2026-06-11T21:20:06.217998Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38426,
+        "title": "NASA\u2019s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg",
+        "news_site": "NASA",
+        "summary": "Using data from NASA\u2019s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements \u2013 like iron, oxygen, and silicon \u2013 that [\u2026]",
+        "published_at": "2026-06-11T20:41:44Z",
+        "updated_at": "2026-06-12T07:21:44.151508Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06727272727272729,
+        "sentiment_label": "Neutral"
+    }
+]
