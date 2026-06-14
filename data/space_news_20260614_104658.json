@@ -1,0 +1,72 @@
+[
+    {
+        "id": 38452,
+        "title": "Missile production push runs into solid rocket motor bottleneck",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-13-2026-at-11_55_33-AM.png?fit=1024%2C685&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA new CSIS report says planned 2027 interceptor buys will test a supply chain still recovering from years of consolidation\nThe post Missile production push runs into solid rocket motor bottleneck appeared first on SpaceNews.",
+        "published_at": "2026-06-14T04:00:00Z",
+        "updated_at": "2026-06-14T04:00:24.741584Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09659090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38451,
+        "title": "Booster 20 Completes Cryo, As Ship 40 Nears Static Fire",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryo-ship-40-static-fire/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/COLLEEN-CRL01078-wmarked-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "With the completion of Flight 12 about three weeks ago, all focus is now on\u2026\nThe post Booster 20 Completes Cryo, As Ship 40 Nears Static Fire appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-06-14T00:37:59Z",
+        "updated_at": "2026-06-14T00:40:11.127624Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4166666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38450,
+        "title": "Revised Artemis lunar lander plans take shape",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/bluemoon-art3.jpeg?fit=1024%2C575&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape appeared first on SpaceNews.",
+        "published_at": "2026-06-13T17:19:56Z",
+        "updated_at": "2026-06-13T17:20:19.749400Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
