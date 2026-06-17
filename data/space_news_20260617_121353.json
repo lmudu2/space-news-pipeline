@@ -1,0 +1,236 @@
+[
+    {
+        "id": 38507,
+        "title": "Dawn Aerospace raises $25 million",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/dawn-aerospace-raises-25-million/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/auroramk2.jpeg?fit=1024%2C614&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nDawn Aerospace has raised $25 million to scale up its work in both in-space transportation and suborbital spaceplanes.\nThe post Dawn Aerospace raises $25 million appeared first on SpaceNews.",
+        "published_at": "2026-06-17T11:29:32Z",
+        "updated_at": "2026-06-17T11:30:46.579110Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38508,
+        "title": "Look Up and Skynopy partner on automated satellite collision avoidance service",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Look-Up.jpg?fit=1024%2C618&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpace surveillance venture Look Up plans to use Skynopy\u2019s ground station network to help automate its proposed low Earth orbit collision avoidance service, the French startups announced June 17.\nThe post Look Up and Skynopy partner on automated satellite collision avoidance service appeared first on SpaceNews.",
+        "published_at": "2026-06-17T11:23:13Z",
+        "updated_at": "2026-06-17T11:30:46.607313Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38506,
+        "title": "Live coverage: Arianespace to launch its heaviest payload to date with Amazon Leo flight",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260617_Ariane-64_pad.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Leo Europe 03 mission will see Arianespace send a batch of 36 Amazon Leo satellites into low Earth orbit. Liftoff from Europe\u2019s Spaceport in French Guiana is scheduled during a window that opens up at 8:53 a.m. Kourou time (7:53 a.m. EDT / 1153 UTC). ",
+        "published_at": "2026-06-17T11:12:23Z",
+        "updated_at": "2026-06-17T11:20:20.054546Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38505,
+        "title": "France Awards Eutelsat \u20ac138 Million Contract to Provide Secure Communications",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/france-awards-eutelsat-e138-million-contract-to-provide-secure-communications/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/France-Awards-Eutelsat-138-Million-Euro-Contract-to-Provide-Secure-Comms.webp",
+        "news_site": "European Spaceflight",
+        "summary": "European satellite operator Eutelsat has secured a \u20ac138 million contract from France\u2019s Ministry of the Armed Forces under a \u20ac1 billion framework agreement signed in June 2025. The 10-year framework agreement with France\u2019s defence procurement agency, the DGA, covers priority access to capacity on Eutelsat\u2019s OneWeb constellation, a constellation of more than 600 satellites in [\u2026]\nThe post France Awards Eutelsat \u20ac138 Million Contract to Provide Secure Communications appeared first on European Spaceflight.",
+        "published_at": "2026-06-17T11:04:33Z",
+        "updated_at": "2026-06-17T11:10:17.507861Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25833333333333336,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38503,
+        "title": "ESA Impact: a look at ESA\u2019s spring milestones",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_April-June",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/esa_impact_q2_highlight/27331237-1-eng-GB/ESA_Impact_Q2_highlight_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "ESA Impact: a look at ESA\u2019s spring milestones",
+        "published_at": "2026-06-17T09:24:00Z",
+        "updated_at": "2026-06-17T09:40:12.148909Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38502,
+        "title": "Dozens of dust devils hidden in plain sight",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s Mars Express has captured part of Mars\u2019s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
+        "published_at": "2026-06-17T09:00:00Z",
+        "updated_at": "2026-06-17T09:48:59.045305Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0638095238095238,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38504,
+        "title": "One robotic arm to rule them all",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/One_robotic_arm_to_rule_them_all",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/one_robotic_arm_to_rule_them_all/27329262-1-eng-GB/One_robotic_arm_to_rule_them_all_card_full.png",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-17T07:12:00Z",
+        "updated_at": "2026-06-17T10:20:11.620690Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38501,
+        "title": "Low Water at San Carlos Reservoir",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/low-water-at-san-carlos-reservoir/az_sancarlosres_oli_20230607.jpg",
+        "news_site": "NASA",
+        "summary": "Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+        "published_at": "2026-06-17T04:01:00Z",
+        "updated_at": "2026-06-17T06:48:01.192083Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38500,
+        "title": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+        "authors": [
+            {
+                "name": "SpaceNews Editor",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/2026-06-25-creative-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nJoin us as we explore the technologies behind Golden Dome, what\u2019s necessary to make them operate at a high level and what possibilities could be in the works for the satellites involved.\nThe post June 25:  Golden Dome: How Could Sensors Protect the United States? appeared first on SpaceNews.",
+        "published_at": "2026-06-17T01:10:41Z",
+        "updated_at": "2026-06-17T01:10:51.054089Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38498,
+        "title": "Live coverage: SpaceX to launch 3 Block 2 BlueBird satellites for AST SpaceMobile",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/16/live-coverage-spacex-to-launch-3-block-2-bluebird-satellites-for-ast-spacemobile/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260615_Bluebird8910_encapsulation-1.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission is third time SpaceX will launch satellites for AST SpaceMobile and its first of the Block 2 iteration of the BlueBird satellites. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 2:39 a.m. EDT (0639 UTC).",
+        "published_at": "2026-06-16T21:45:21Z",
+        "updated_at": "2026-06-17T06:49:23.950499Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    }
+]
