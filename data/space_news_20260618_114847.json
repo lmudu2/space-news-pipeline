@@ -1,0 +1,243 @@
+[
+    {
+        "id": 38529,
+        "title": "Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/sirius-space-selected-to-fill-launch-facility-vacancy-left-by-maiaspace/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/Sirius-Space-Selected-to-Fill-Launch-Facility-Vacancy-Left-by-MaiaSpace.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The French space agency CNES has selected Sirius Space Services to fill a vacancy at the Guiana Space Centre\u2019s new multi-user commercial launch facility. The space became available after MaiaSpace shifted its planned launch operations to the spaceport\u2019s former Soyuz launch facility. In 2021, CNES opened a call for interest in a new commercial launch [\u2026]\nThe post Sirius Space Selected to Fill Launch Facility Vacancy Left by MaiaSpace appeared first on European Spaceflight.",
+        "published_at": "2026-06-18T11:19:55Z",
+        "updated_at": "2026-06-18T11:20:10.467275Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08388429752066116,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38527,
+        "title": "Blue Origin begins rebuilding New Glenn pad",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/isaacman-lc36.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nBlue Origin has started rebuilding a launch pad severely damaged in a New Glenn explosion less than three weeks ago as it works to resume launches by year\u2019s end\nThe post Blue Origin begins rebuilding New Glenn pad appeared first on SpaceNews.",
+        "published_at": "2026-06-18T11:01:48Z",
+        "updated_at": "2026-06-18T11:10:17.823234Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.061553030303030304,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38528,
+        "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-5.52.29-PM.png?fit=1024%2C596&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe company plans to deliver a fuel-transfer vehicle to the U.S. Space Force by 2028\nThe post Quantum Space wins Pentagon contract to develop orbital refueling spacecraft appeared first on SpaceNews.",
+        "published_at": "2026-06-18T11:00:00Z",
+        "updated_at": "2026-06-18T11:10:17.836377Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38525,
+        "title": "El Ni\u00f1o Is Underway",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608.jpg",
+        "news_site": "NASA",
+        "summary": "Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.",
+        "published_at": "2026-06-18T04:00:00Z",
+        "updated_at": "2026-06-18T04:10:05.825708Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38524,
+        "title": "NASA Announces Public-Private Partnership to Advance Mars Science",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc00375-002.jpeg",
+        "news_site": "NASA",
+        "summary": "NASA Wednesday announced a new public\u2011private partnership to advance Mars science by combining the agency\u2019s scientific leadership with commercial innovation. Under this model, NASA will provide the Aeolus atmospheric\u2011science instrument payload suite, while Relativity Space supplies the spacecraft, rocket, and cruise operations necessary to deliver the instruments to Mars. This partnership reflects NASA\u2019s growing commitment [\u2026]",
+        "published_at": "2026-06-17T22:29:09Z",
+        "updated_at": "2026-06-17T22:30:05.188226Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38523,
+        "title": "Terran R second stage heads to Stennis as Relativity advances toward 2026 debut",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/06/relativity-update-0626/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/IMG_4456.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Terran R, the heavy-lift vehicle currently being developed by Relativity Space, is reaching significant milestones\u2026\r\nThe post Terran R second stage heads to Stennis as Relativity advances toward 2026 debut appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-06-17T22:12:10Z",
+        "updated_at": "2026-06-18T06:38:53.418821Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12083333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38522,
+        "title": "Relativity Space to privately develop Mars orbiter mission",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/relativity-marsorbiter.jpeg?fit=1024%2C571&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nRelativity Space plans to launch a Mars orbiter in 2028 as part of a new initiative to privately develop planetary missions.\nThe post Relativity Space to privately develop Mars orbiter mission appeared first on SpaceNews.",
+        "published_at": "2026-06-17T20:45:04Z",
+        "updated_at": "2026-06-17T20:50:18.100193Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38521,
+        "title": "First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/first-upgraded-ariane-6-rocket-launches-36-satellites-for-amazon/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/06/First-Upgraded-Ariane-6-Rocket-Launches-36-Satellites-for-Amazon.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Arianespace has successfully completed its third Ariane 6 flight of 2026, delivering another 36 Amazon satellites to orbit aboard a new variant of the rocket that features the upgraded P160C solid-fuel boosters. The Ariane 64 rocket, which features four solid-fuel boosters, lifted off at 12:21 UTC from ELA-4 at the Guiana Space Centre. The launch [\u2026]\r\nThe post First Upgraded Ariane 6 Rocket Launches 36 Satellites for Amazon appeared first on European Spaceflight.",
+        "published_at": "2026-06-17T20:02:46Z",
+        "updated_at": "2026-06-18T06:32:25.464156Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.23376623376623376,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38520,
+        "title": "Search for Hidden Cosmic Companions in Sun\u2019s Backyard",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTQRQV4XDP5XZRVJT8KB2MFA.jpg",
+        "news_site": "NASA",
+        "summary": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf\u2019s age. Ages of astronomical objects are often hard to measure, but essential for understanding [\u2026]",
+        "published_at": "2026-06-17T19:40:03Z",
+        "updated_at": "2026-06-18T06:32:33.542730Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.008333333333333337,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38519,
+        "title": "Upgraded Ariane 6 launches Amazon Leo satellites",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/va269.jpeg?fit=1024%2C679&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "An Ariane 6 with upgraded solid rocket boosters successfully launched three dozen Amazon Leo satellites June 17 as ESA weighs options for increasing the vehicle\u2019s launch rate.\r\nThe post Upgraded Ariane 6 launches Amazon Leo satellites appeared first on SpaceNews.",
+        "published_at": "2026-06-17T19:13:40Z",
+        "updated_at": "2026-06-18T06:32:38.583445Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3333333333333333,
+        "sentiment_label": "Positive"
+    }
+]
