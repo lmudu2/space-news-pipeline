@@ -1,0 +1,273 @@
+[
+    {
+        "id": 38631,
+        "title": "NGSO trade association launches without industry giant SpaceX",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Starlink-Satellite-Trails-over-Brazil-credit-NASA_Egon-Filter.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAmazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant SpaceX appeared first on SpaceNews.",
+        "published_at": "2026-06-24T10:00:00Z",
+        "updated_at": "2026-06-24T10:00:23.736367Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10357142857142856,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38629,
+        "title": "ESA\u2019s Euclid captures the Milky Way\u2019s crowded heart",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/06/esa_s_euclid_captures_the_milky_way_s_crowded_heart/27343452-1-eng-GB/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart_card_full.png",
+        "news_site": "ESA",
+        "summary": "This is the largest high-resolution photo ever made of our Milky Way galaxy\u2019s centre in visible light. It was taken on 23 March 2025 by the European Space Agency\u2019s Euclid space telescope. Packed with more than 60 million stars, this image opens the door for scientists to confirm the existence of any exoplanet found in this region and measure its mass using tiny changes in starlight over time.\u00a0",
+        "published_at": "2026-06-24T10:00:00Z",
+        "updated_at": "2026-06-24T10:00:16.924080Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.225,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38630,
+        "title": "ESA\u2019s Euclid captures the Milky Way\u2019s crowded heart",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/euclid_s_view_of_our_galaxy_s_bulge_16_9_cutout/27320856-1-eng-GB/Euclid_s_view_of_our_galaxy_s_bulge_16_9_cutout_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-24T10:00:00Z",
+        "updated_at": "2026-06-24T10:00:16.948347Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38628,
+        "title": "End of the blue glow: BepiColombo turns off solar electric propulsion for Mercury arrival",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Operations/End_of_the_blue_glow_BepiColombo_turns_off_solar_electric_propulsion_for_Mercury_arrival",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/end_of_bepicolombo_s_solar_electric_propulsion/27343532-1-eng-GB/End_of_BepiColombo_s_solar_electric_propulsion_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "At 15:24 CEST on 15 June 2026, a faint blue glow in space was switched off for the last time.\u00a0After powering\u00a0BepiColombo's\u00a0eight-year journey across the\u00a0inner\u00a0Solar System, the spacecraft's solar electric propulsion\u00a0(SEP)\u00a0system completed its final\u00a0thrust arc,\u00a0marking\u00a0the end of\u00a0BepiColombo\u2019s\u00a0long cruise phase and the beginning of its arrival at Mercury.",
+        "published_at": "2026-06-24T07:56:00Z",
+        "updated_at": "2026-06-24T08:44:06.623644Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e81bd43b-6359-4436-911f-01888c3369ef",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 394,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.07857142857142858,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38627,
+        "title": "The art of hadrons",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/The_art_of_hadrons",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/the_art_of_hadrons/27332265-1-eng-GB/The_art_of_hadrons_card_full.png",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-24T07:55:00Z",
+        "updated_at": "2026-06-24T08:00:44.352731Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38626,
+        "title": "Curiosity\u00a0Blog,\u00a0Sols\u00a04927\u20134933:\u00a0Let\u2019s\u00a0Drive\u00a0to\u00a0That\u00a0Smooth\u00a0Area",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/june/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04928_opgs_edr_ncam_NLB_834986212EDR_F1222232NCAM00278M_.jpg",
+        "news_site": "NASA",
+        "summary": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Thursday, June 18, 2026 In the area Curiosity is currently exploring, the science team has mapped several areas with different-looking surface texture on the orbital images. If you wanted to have a look yourself at what there is to [\u2026]",
+        "published_at": "2026-06-24T04:34:37Z",
+        "updated_at": "2026-06-24T08:04:20.477927Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38625,
+        "title": "Playing the Moon Game",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/playing-the-moon-game-/tenthousandsmokes_oli2_20250929.jpg",
+        "news_site": "NASA",
+        "summary": "Apollo astronauts previewed their roles as lunar field geologists in Alaska\u2019s Valley of Ten Thousand Smokes.",
+        "published_at": "2026-06-24T04:01:00Z",
+        "updated_at": "2026-06-24T04:10:17.480882Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.2,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38624,
+        "title": "OHB raises funding for expansion, acquisitions",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/ohbhq.jpeg?fit=1024%2C544&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nGerman space company OHB will raise about half a billion euros through a stock sale to allow the company to expand facilities and pursue potential acquisitions.\nThe post OHB raises funding for expansion, acquisitions appeared first on SpaceNews.",
+        "published_at": "2026-06-24T03:09:48Z",
+        "updated_at": "2026-06-24T03:10:31.363045Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.020833333333333336,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38623,
+        "title": "Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/06/launch-preview-062326/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-2.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "This week\u2019s launch manifest includes six orbital launches worldwide, including the first Pegasus XL launch\u2026\r\nThe post Launch Preview: Pegasus XL to launch amongst Falcon 9 and Chinese missions appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-06-23T22:46:49Z",
+        "updated_at": "2026-06-24T08:11:30.508184Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f596ad48-881e-47d6-806d-113c6dd97427",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a4fb0d1a-2655-4552-b950-f2f6340ef85a",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "74bf8472-9ba1-42d6-9245-b014f8e91de9",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "0740c699-9877-4331-8aef-4e29ea6281c0",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38622,
+        "title": "NASA\u2019s inspector general warns launch sites nearing capacity",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/fh-viasat3f3-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA report by NASA\u2019s inspector general is the latest to highlight the problems that the increasing number of launches is posing to spaceports.\nThe post NASA\u2019s inspector general warns launch sites nearing capacity appeared first on SpaceNews.",
+        "published_at": "2026-06-23T22:15:48Z",
+        "updated_at": "2026-06-23T22:20:36.455291Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.18000000000000002,
+        "sentiment_label": "Positive"
+    }
+]
