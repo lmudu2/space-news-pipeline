@@ -1,0 +1,242 @@
+[
+    {
+        "id": 38655,
+        "title": "China schedules Long March 10B rocket launch and recovery attempt",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mengzhou-in-flight-abort-CZ10-recovery-test-liftoff-11feb2026-casc.jpg?fit=1024%2C643&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nHELSINKI \u2014 China is set for a debut flight of its Long March 10B rocket in July and attempt to recover the first stage at sea. Recently issued airspace and [\u2026]\nThe post China schedules Long March 10B rocket launch and recovery attempt appeared first on SpaceNews.",
+        "published_at": "2026-06-25T09:59:35Z",
+        "updated_at": "2026-06-25T10:00:22.191969Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05833333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38654,
+        "title": "European Flight Ticket Initiative opens to more launch service providers",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/European_Flight_Ticket_Initiative_opens_to_more_launch_service_providers",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/08/flight_ticket_initiative/26849504-2-eng-GB/Flight_Ticket_Initiative_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-25T08:16:00Z",
+        "updated_at": "2026-06-25T10:00:14.557180Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38653,
+        "title": "Smile reaches science orbit",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Smile_reaches_science_orbit",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/smile_reaches_science_orbit/27346890-1-eng-GB/Smile_reaches_science_orbit_card_full.gif",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-25T08:00:00Z",
+        "updated_at": "2026-06-25T08:56:35.382516Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38652,
+        "title": "A first: EarthCARE cloud data sharpen weather forecasts",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/A_first_EarthCARE_cloud_data_sharpen_weather_forecasts",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earthcare_white_dragon_improves_weather_forecasts/27339799-1-eng-GB/EarthCARE_White_Dragon_improves_weather_forecasts_card_full.gif",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s EarthCARE satellite was developed to make a unique set of simultaneous measurements that shed new light on the role that clouds and aerosols play in regulating Earth\u2019s climate.",
+        "published_at": "2026-06-25T07:00:00Z",
+        "updated_at": "2026-06-25T08:56:44.036559Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c98dabc0-2391-48bd-aad7-02bfb1795ec3",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2102272727272727,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38651,
+        "title": "A Turquoise Tint for the Black Sea",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/blackseabloom_pace_20260622.jpg",
+        "news_site": "NASA",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "published_at": "2026-06-25T04:00:00Z",
+        "updated_at": "2026-06-25T08:56:57.509804Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.1111111111111111,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38650,
+        "title": "NASA\u2019s TESS Mission Reveals the \u201cPuffiest\u201d Planets Ever Found",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/06/super-puff-03-v03.jpg",
+        "news_site": "NASA",
+        "summary": "NASA has revealed two new \u201csuper-puff\u201d planets, giant worlds so light that their density is comparable to cotton candy. Scientists calculate that these Jupiter-sized planets are the \u201cpuffiest\u201d worlds ever found.",
+        "published_at": "2026-06-25T01:04:16Z",
+        "updated_at": "2026-06-25T08:57:04.587099Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ca4e796d-f3e4-4b80-b2f7-f7fd6a7b325f",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.1787878787878788,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38649,
+        "title": "Live Coverage: West Coast Falcon 9 launch to continue expansion of SpaceX\u2019s Starlink network",
+        "authors": [
+            {
+                "name": "Steven Young",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260624-Two-Falcon-9s-at-pad-4E-Image.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Starlink 17-45 mission from Space Launch Complex 4E at Vandenberg Space Force Base in California is scheduled for 8:19 p.m. PDT (11:19 p.m. EDT / 0319 UTC).",
+        "published_at": "2026-06-24T23:10:20Z",
+        "updated_at": "2026-06-25T08:57:11.605654Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a4fb0d1a-2655-4552-b950-f2f6340ef85a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.3212121212121212,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38648,
+        "title": "Analysis finds the exploration programs NASA recently canceled were running way late",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/NASA_MSFC_031224_USA-DTA-install-onto-test-stand-4large.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
+        "published_at": "2026-06-24T21:41:03Z",
+        "updated_at": "2026-06-24T21:50:04.778532Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38646,
+        "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA\u2019s Moon to Mars Path",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/dsc-7169-nef.jpg",
+        "news_site": "NASA",
+        "summary": "Seven\u00a0weeks\u00a0after\u00a0the Orion spacecraft\u00a0returned\u00a0four\u00a0astronauts from\u00a0humanity\u2019s\u00a0first crewed journey around the Moon since Apollo,\u00a0Artemis II\u00a0Orion Vehicle Manager Branelle Rodriguez reflected on the mission\u2019s achievements and how\u00a0it is shaping NASA\u2019s return to the lunar surface and future missions to Mars.\u00a0 Introduced by\u00a0NASA\u2019s Johnson Space Center\u00a0Acting Director of Business Development and Technology Integration\u00a0Monte Goforth, Rodriguez spoke at the Ion in [\u2026]",
+        "published_at": "2026-06-24T21:29:16Z",
+        "updated_at": "2026-06-25T08:57:23.311520Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0375,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38647,
+        "title": "Space Force seeks fresh bidders for satellite-control antennas",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/XzDvbuJg.jpeg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWASHINGTON \u2014 The U.S. Space Force is launching a new competition for mobile satellite-control antennas, formally restarting a program it canceled after abandoning a $1.7 billion contract with AeroVironment and [\u2026]\nThe post Space Force seeks fresh bidders for satellite-control antennas appeared first on SpaceNews.",
+        "published_at": "2026-06-24T21:26:29Z",
+        "updated_at": "2026-06-24T21:30:19.800681Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.24659090909090908,
+        "sentiment_label": "Positive"
+    }
+]
