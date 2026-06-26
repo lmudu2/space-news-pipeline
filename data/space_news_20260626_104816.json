@@ -1,0 +1,249 @@
+[
+    {
+        "id": 38675,
+        "title": "Cave training lab",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Cave_training_lab",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/cave_training_lab/27347804-1-eng-GB/Cave_training_lab_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-26T08:21:00Z",
+        "updated_at": "2026-06-26T08:50:06.436916Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38674,
+        "title": "Earth from Space: Desert cropland",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/06/Earth_from_Space_Desert_cropland",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/earth_from_space_desert_cropland/27346937-1-eng-GB/Earth_from_Space_Desert_cropland_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-06-26T08:00:00Z",
+        "updated_at": "2026-06-26T08:30:31.894272Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38673,
+        "title": "The Battle for Sullivan\u2019s Island",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-battle-for-sullivan's-island/sc_sullivansisland_oli_20260603.jpg",
+        "news_site": "NASA",
+        "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
+        "published_at": "2026-06-26T04:00:00Z",
+        "updated_at": "2026-06-26T05:59:35.560800Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38672,
+        "title": "Rocket Lab wins NASA award for three Electron launches",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55131288256_209cf1df3a_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA has selected Rocket Lab to launch a pair of science missions on three Electron rockets in 2027.\nThe post Rocket Lab wins NASA award for three Electron launches appeared first on SpaceNews.",
+        "published_at": "2026-06-25T22:22:21Z",
+        "updated_at": "2026-06-25T22:30:14.251741Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38671,
+        "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/rsz_2gems2.png?fit=879%2C442&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "SAN FRANCISCO \u2013 Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observations with its GEMS2-Amethyst satellite. Launched March 30 aboard the SpaceX Transporter 16 rideshare [\u2026]\r\nThe post Weather Stream releases first light imagery from GEMS2 microwave radiometer appeared first on SpaceNews.",
+        "published_at": "2026-06-25T22:06:18Z",
+        "updated_at": "2026-06-26T06:21:52.508135Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38670,
+        "title": "Space Force\u2019s new MUOS satellites to use Boeing\u2019s 702MP spacecraft platform",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Picture1000hiresolution-scaled.jpg?fit=1024%2C575&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Boeing's 702MP platform has been used for commercial and wideband military missions\r\nThe post Space Force\u2019s new MUOS satellites to use Boeing\u2019s 702MP spacecraft platform appeared first on SpaceNews.",
+        "published_at": "2026-06-25T21:53:39Z",
+        "updated_at": "2026-06-26T06:31:06.189230Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08454545454545455,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38669,
+        "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e395621.jpg",
+        "news_site": "NASA",
+        "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their missions\u00a0possible.\u00a0 The Expedition 73 Welcome Home Ceremony brought together members of NASA\u2019s SpaceX Crew-10, Soyuz MS-27, and NASA\u2019s SpaceX Crew-11 missions. [\u2026]",
+        "published_at": "2026-06-25T21:30:32Z",
+        "updated_at": "2026-06-26T06:31:34.626601Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fb39ac94-5e74-4ee9-afc5-df19c4132b28",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "88b4b179-c4ed-4bd1-868d-ced568a2342a",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a3c9c47e-976e-40a5-8889-30c407131e3a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.17500000000000002,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38668,
+        "title": "NASA, US Small Business Administration to Announce Partnership",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency initiative that directly responds to President Donald J. Trump\u2019s National Space Policy and supports the growth of the American space [\u2026]",
+        "published_at": "2026-06-25T21:10:38Z",
+        "updated_at": "2026-06-25T21:20:10.705447Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.052727272727272734,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38667,
+        "title": "NASA Welcomes\u00a0Botswana\u00a0as 68th Artemis Accords Signatory",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/accords06252026.jpg",
+        "news_site": "NASA",
+        "summary": "The Republic of Botswana signed the Artemis Accords\u00a0Thursday\u00a0during a ceremony\u00a0hosted by NASA\u00a0at the agency\u2019s headquarters in Washington,\u00a0becoming the\u00a0sixth African nation to join a growing community of nations committed to the peaceful, transparent, and responsible exploration of space. \u201cIt is my privilege to welcome Botswana as the newest signatory of the Artemis Accords,\u201d said NASA Deputy [\u2026]",
+        "published_at": "2026-06-25T21:09:42Z",
+        "updated_at": "2026-06-25T21:10:05.512797Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.33999999999999997,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38666,
+        "title": "Botswana signs the Artemis Accords",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/botswana-signs-the-artemis-accords/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/botswana-aa-signing.jpg?fit=1024%2C769&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe African nation of Botswana is the latest country to sign the Artemis Accords outlining best practices for space exploration.\nThe post Botswana signs the Artemis Accords appeared first on SpaceNews.",
+        "published_at": "2026-06-25T20:40:12Z",
+        "updated_at": "2026-06-25T20:40:15.624499Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4375,
+        "sentiment_label": "Positive"
+    }
+]
