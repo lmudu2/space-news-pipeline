@@ -1,0 +1,226 @@
+[
+    {
+        "id": 38696,
+        "title": "Rocket Lab launches 10th Synspective satellite",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nRocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission.\nThe post Rocket Lab launches 10th Synspective satellite appeared first on SpaceNews.",
+        "published_at": "2026-06-26T22:17:38Z",
+        "updated_at": "2026-06-26T22:20:15.193711Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38695,
+        "title": "Next-gen astronaut Moon rovers aim for deployment ahead of Artemis 4 crew arrival",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/26/next-gen-astronaut-moon-rovers-aim-for-deployment-ahead-of-artemis-4-crew-arrival/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260626_CLV-1_Pegasus_combo.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "On May 26, NASA selected two lunar terrain vehicle providers to create iterative versions of their prior LTV designs that can deploy to the Moon in more timely and cost-effective manner. ",
+        "published_at": "2026-06-26T21:01:28Z",
+        "updated_at": "2026-06-26T21:10:13.853663Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38694,
+        "title": "Spain-backed fund joins FOSSA\u2019s sovereign satellite communications push",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/FOSSA-TEAM.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpanish startup FOSSA Systems has raised about $10.5 million to expand its connectivity constellation in a funding round that included a technology investment vehicle backed by Spain\u2019s government.\nThe post Spain-backed fund joins FOSSA\u2019s sovereign satellite communications push appeared first on SpaceNews.",
+        "published_at": "2026-06-26T20:59:57Z",
+        "updated_at": "2026-06-26T21:00:32.217807Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.016666666666666663,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38693,
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/hulc26-concept1-updated.png",
+        "news_site": "NASA",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the culmination of months of research by university teams working to advance technologies supporting the agency\u2019s Artemis program that will return American astronauts to the [\u2026]",
+        "published_at": "2026-06-26T19:44:48Z",
+        "updated_at": "2026-06-26T19:50:05.199068Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38692,
+        "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/Ship-40-Single-Engine-Static-Fire-at-Masseys-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine\u2026\nThe post Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-06-26T19:33:26Z",
+        "updated_at": "2026-06-26T19:40:06.720350Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.20732838589981448,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38691,
+        "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2025/03/recuperator.png",
+        "news_site": "NASA",
+        "summary": "For NASA\u2019s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as [\u2026]",
+        "published_at": "2026-06-26T18:44:07Z",
+        "updated_at": "2026-06-26T18:50:09.401203Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09927849927849929,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38690,
+        "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/M31_Layered_UV_and_Optical.jpg",
+        "news_site": "NASA",
+        "summary": "A mission to raise the orbit of NASA\u2019s Swift observatory is poised for launch June 30.",
+        "published_at": "2026-06-26T17:16:22Z",
+        "updated_at": "2026-06-26T18:10:09.717951Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38689,
+        "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Berger-Ars-Live-2026-1.png",
+        "news_site": "Arstechnica",
+        "summary": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn",
+        "published_at": "2026-06-26T16:24:59Z",
+        "updated_at": "2026-06-26T16:30:09.710316Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.22727272727272727,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38687,
+        "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency\u2019s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked from NASA\u2019s 2025 Announcement of Collaboration Opportunity (ACO), will mature technologies creating solutions for space transportation, planetary surface operations, and lunar [\u2026]",
+        "published_at": "2026-06-26T15:37:58Z",
+        "updated_at": "2026-06-26T15:40:05.186471Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38686,
+        "title": "Euclid Sees Heart of Milky Way",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/euclid-s-view-of-our-galaxy-s-bulge.jpg",
+        "news_site": "NASA",
+        "summary": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA\u2019s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives [\u2026]",
+        "published_at": "2026-06-26T15:21:18Z",
+        "updated_at": "2026-06-26T15:30:10.815234Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    }
+]
