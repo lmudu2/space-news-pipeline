@@ -1,0 +1,150 @@
+[
+    {
+        "id": 38703,
+        "title": "SatVu restarts commercial operations with HotSat-2",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Secunda-Petrochemical-Plant-South-Africa-1-scaled.png?fit=1024%2C524&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "British thermal imaging startup SatVu announced the start of commercial services June 29 for HotSat-2, marking a return to revenue-generating operations after its debut satellite failed in low Earth orbit in 2023.\r\nThe post SatVu restarts commercial operations with HotSat-2 appeared first on SpaceNews.",
+        "published_at": "2026-06-29T11:11:42Z",
+        "updated_at": "2026-06-29T11:27:25.060573Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.03571428571428571,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38701,
+        "title": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
+        "authors": [
+            {
+                "name": "Craft Prospect",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/SAME-SIZE-scaled.png?fit=1024%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\n(Glasgow, UK) Glasgow-based space engineering company Craft Prospect has been selected for inclusion in the inaugural edition of The Sunday Times Scotland Fast 50, a new annual list recognising some [\u2026]\nThe post Craft Prospect selected for The Sunday Times Scotland Fast 50 appeared first on SpaceNews.",
+        "published_at": "2026-06-29T09:00:00Z",
+        "updated_at": "2026-06-29T09:01:15.444106Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19727272727272727,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38702,
+        "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+        "authors": [
+            {
+                "name": "Andrew Jones",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Kinetica1-Y8-chutian-2-0102-JSLC-9nov2025-OS.jpg?fit=1024%2C588&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nHELSINKI \u2014 China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investment. China established a [\u2026]\nThe post China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations appeared first on SpaceNews.",
+        "published_at": "2026-06-29T08:53:12Z",
+        "updated_at": "2026-06-29T09:01:15.598929Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38700,
+        "title": "Euclid studies Milky Way center, supports future Roman observations",
+        "authors": [
+            {
+                "name": "Martijn Luinstra",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/06/euclid-galactic-bulge-survey/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/06/euclid_galactic_bulge_roman.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "The European Space Agency (ESA) recently released a new picture of the center of the\u2026\r\nThe post Euclid studies Milky Way center, supports future Roman observations appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-06-28T21:42:13Z",
+        "updated_at": "2026-06-29T08:10:36.422359Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "49d20d1b-18dd-4da6-a061-eacd0156fcc4",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.009595959595959594,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38699,
+        "title": "What\u2019s Happening in Space Policy June 28-July 4, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-28-july-4-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/America250-logo-300x210.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of June 28-July 4, 2026 and any insight we can offer about them. The House is in session for [\u2026]",
+        "published_at": "2026-06-28T21:17:52Z",
+        "updated_at": "2026-06-28T21:20:14.717997Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38698,
+        "title": "Live coverage: SpaceX to launch 7.5-ton SiriusXM satellite as part of constellation refresh",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-to-launch-7-5-ton-siriusxm-satellite-as-part-of-constellation-refresh/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/06/20260628_SXM-11_satellite-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The SXM-11 satellite was built by Intuitive Machines and is more than 230-feet-tall. Liftoff on SpaceX Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 10:25 p.m. EDT (0225 UTC).",
+        "published_at": "2026-06-28T18:37:19Z",
+        "updated_at": "2026-06-29T08:10:45.184115Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3181818181818182,
+        "sentiment_label": "Positive"
+    }
+]
