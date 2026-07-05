@@ -1,0 +1,107 @@
+[
+    {
+        "id": 38810,
+        "title": "Vast\u2019s Haven-1 continues to advance through milestones ahead of planned 2027 launch",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/vast-update-070426/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/IMG_4761.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Vast Space\u2019s Haven-1 station is on track to launch in Q1 2027, having achieved several\u2026\nThe post Vast\u2019s Haven-1 continues to advance through milestones ahead of planned 2027 launch appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-04T22:10:06Z",
+        "updated_at": "2026-07-04T22:10:17.314920Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38809,
+        "title": "Live coverage: Semiconductor manufacturing test bed to fly alongside Starlink satellites on Falcon 9 launch",
+        "authors": [
+            {
+                "name": "Steven Young",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/04/live-coverage-semiconductor-manufacturing-test-bed-to-fly-alongside-starlink-satellites-on-falcon-9-launch/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260704-F9-File-Photo-Feature-Image.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Starlink 10-50 mission from Space Launch Complex 40 is currently scheduled for 6:46 a.m. EDT (1046 UTC). The rocket's first-stage booster will carry two semiconductor manufacturing pods for Besxar Space Industries. ",
+        "published_at": "2026-07-04T21:56:12Z",
+        "updated_at": "2026-07-04T22:00:23.212599Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15909090909090912,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38808,
+        "title": "Need a Lift? NASA Launches Swift Rescue Mission",
+        "authors": [
+            {
+                "name": "Scarlet Dominik",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/07/need-a-lift-nasa-launches-swift-rescue-mission/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/07/LINKGoddard-nasa-sophia-roberts-scaled.png",
+        "news_site": "Space Scout",
+        "summary": "The LINK spacecraft aims to rendezvous, capture, and reboost NASA\u2019s 21 year old Neil Gehrels Swift Observatory.",
+        "published_at": "2026-07-04T15:46:58Z",
+        "updated_at": "2026-07-04T15:50:18.885901Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38807,
+        "title": "NASA\u2019s Hubble Spies Stellar Sparkler for July 4th",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif",
+        "news_site": "NASA",
+        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA\u2019s Hubble Space Telescope.",
+        "published_at": "2026-07-04T11:15:37Z",
+        "updated_at": "2026-07-04T12:10:10.725842Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03939393939393939,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38806,
+        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWatchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches\nThe post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews.",
+        "published_at": "2026-07-04T10:17:06Z",
+        "updated_at": "2026-07-04T10:20:28.346006Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.01666666666666668,
+        "sentiment_label": "Neutral"
+    }
+]
