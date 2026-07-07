@@ -1,0 +1,278 @@
+[
+    {
+        "id": 38835,
+        "title": "Unpacking Europe\u2019s new weather imagers",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The second Meteosat Third Generation Imager satellite (MTG-I2) has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the end of the summer. So how will this 3800 kg satellite help improve weather forecasts for Europe and North Africa?",
+        "published_at": "2026-07-07T08:00:00Z",
+        "updated_at": "2026-07-07T10:06:24.260354Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.03409090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38834,
+        "title": "Isar Aerospace signs agreement for Canadian launch site",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/spectrum-1stlaunch-kenniston.jpeg?fit=1024%2C684&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIsar Aerospace has signed a contract to develop a Canadian launch site for its Spectrum rocket, an agreement linked to a deal to sell submarines to the Canadian military.\nThe post Isar Aerospace signs agreement for Canadian launch site appeared first on SpaceNews.",
+        "published_at": "2026-07-07T08:00:00Z",
+        "updated_at": "2026-07-07T08:00:50.027503Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38833,
+        "title": "The World Cup From 250 Miles Up",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_wide.jpg",
+        "news_site": "NASA",
+        "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+        "published_at": "2026-07-07T04:00:00Z",
+        "updated_at": "2026-07-07T04:10:10.384135Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38832,
+        "title": "Launch Preview: Long March 10B and Vikram-I debut",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/launch-long-march-10b-vikram-i-debut/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Six orbital launches are scheduled internationally this week. Three Falcon 9 flights are expected from\u2026\r\nThe post Launch Preview: Long March 10B and Vikram-I debut appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-06T21:45:21Z",
+        "updated_at": "2026-07-07T07:59:23.505030Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "10fa7952-f00b-4292-80a2-4207e208844e",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "1e79a5e9-c02c-470f-882f-884120100fef",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "62d4cd48-ed28-418b-b58c-526781a50a39",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.009999999999999998,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38831,
+        "title": "Live coverage: Fire detectors, military tech demos, 3D printers among SpaceX rideshare payloads launching on midnight Falcon 9 flight",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/06/live-coverage-fire-detectors-military-tech-demos-3d-printers-among-spacex-rideshare-payloads-launching-on-midnight-falcon-9-flight/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "SpaceX will launch a series of 81 payloads to a Sun-synchronous Earth orbit over a roughly 2.5-hour-long deployment period. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a 95-minute window that opens at 12:10 a.m. PDT (0310 EDT / 0710 UTC).",
+        "published_at": "2026-07-06T21:36:51Z",
+        "updated_at": "2026-07-07T07:58:36.820538Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.21590909090909094,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 38830,
+        "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/mk2alpha.jpeg?fit=1024%2C720&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago.\r\nThe post Blue Origin continues work on lunar landers during recovery from New Glenn explosion appeared first on SpaceNews.",
+        "published_at": "2026-07-06T20:09:47Z",
+        "updated_at": "2026-07-07T07:57:57.518643Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38829,
+        "title": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/AIR-0001-Data-Services-v2.00_01_36_17.Still001.webp?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIridium Communications has completed its takeover of Aireon, bringing the aircraft-tracking venture fully in-house ahead of the satellite operator\u2019s planned $8 billion sale to Rocket Lab.\nThe post Iridium folds Aireon aviation safety service into Rocket Lab-bound business appeared first on SpaceNews.",
+        "published_at": "2026-07-06T19:02:32Z",
+        "updated_at": "2026-07-06T19:10:24.496579Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38828,
+        "title": "NASA Takes Flight For America\u2019s 250th",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
+        "news_site": "NASA",
+        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America has pushed the boundaries of what\u2019s possible. From the earliest days of exploration, to the first steps on the Moon [\u2026]",
+        "published_at": "2026-07-06T18:38:20Z",
+        "updated_at": "2026-07-06T18:40:11.463436Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2916666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38823,
+        "title": "Webb reveals millions of stars in nearby galaxy",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb\u2019s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A\u2019s centre in visible light, showing a densely packed tapestry of individual stars and an active, everchanging galaxy. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.",
+        "published_at": "2026-07-06T16:00:00Z",
+        "updated_at": "2026-07-07T07:57:46.396172Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19550189393939393,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38827,
+        "title": "NASA adds three European firms to the commercial data program",
+        "authors": [
+            {
+                "name": "Emma Gatti",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/csda-program-hero-2500x1000-200dpi.webp?fit=1024%2C410&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMILAN \u2014 NASA\u2019s Commercial Satellite Data Acquisition program (CSDA) announced June 23 contract awards with eight new commercial satellite data providers, three of which are European: Kuva Space (Finland), OroraTech [\u2026]\nThe post NASA adds three European firms to the commercial data program appeared first on SpaceNews.",
+        "published_at": "2026-07-06T15:57:10Z",
+        "updated_at": "2026-07-06T16:00:39.713832Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04292929292929293,
+        "sentiment_label": "Neutral"
+    }
+]
