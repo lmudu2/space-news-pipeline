@@ -1,0 +1,233 @@
+[
+    {
+        "id": 38874,
+        "title": "Navigation Training Course 2026",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Navigation_Training_Course_2026",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/navigation_training_course_2026/27372117-1-eng-GB/Navigation_Training_Course_2026_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-07-09T09:31:00Z",
+        "updated_at": "2026-07-09T10:40:12.591761Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38872,
+        "title": "Super Typhoon Bavi",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705.jpg",
+        "news_site": "NASA",
+        "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
+        "published_at": "2026-07-09T04:01:00Z",
+        "updated_at": "2026-07-09T04:10:12.073115Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38871,
+        "title": "New Singapore space agency seeks to build up the country\u2019s space industry",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/nsas-jaxa-scaled.jpeg?fit=1024%2C709&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSingapore\u2019s new space agency signed a cooperation agreement with its Japanese counterpart as part of its efforts to build up the country\u2019s space industry.\nThe post New Singapore space agency seeks to build up the country\u2019s space industry appeared first on SpaceNews.",
+        "published_at": "2026-07-09T03:31:50Z",
+        "updated_at": "2026-07-09T03:40:26.758540Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1318181818181818,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38870,
+        "title": "Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 36th flight",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/12/20250827_Starlink_10_11_30.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The flight-leading booster, B1067, will launch the Starlink 10-42 mission from Cape Canaveral Space Force Station. Liftoff from pad 40 is scheduled for 5:25 a.m. EDT (0925 UTC) on Thursday morning. ",
+        "published_at": "2026-07-09T02:14:49Z",
+        "updated_at": "2026-07-09T02:20:26.130836Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13636363636363635,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38869,
+        "title": "Rocket Lab sees Electron gains, Neutron delays in first half of 2026",
+        "authors": [
+            {
+                "name": "Sean Yoder",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/HI6y7rubkAAjM8n.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Rocket Lab\u2019s Electron rocket has had a record stretch through the first half of 2026,\u2026\nThe post Rocket Lab sees Electron gains, Neutron delays in first half of 2026 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-08T21:49:58Z",
+        "updated_at": "2026-07-08T21:50:11.442362Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07142857142857144,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38868,
+        "title": "ispace to send larger payloads to the moon on SpaceX\u2019s Starship",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/ispace-mobilecargo.jpeg?fit=1024%2C724&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nJapanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on SpaceX\u2019s Starship appeared first on SpaceNews.",
+        "published_at": "2026-07-08T21:28:16Z",
+        "updated_at": "2026-07-08T21:30:26.169721Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.041666666666666664,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38867,
+        "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png",
+        "news_site": "NASA",
+        "summary": "Story by Keri Moskowitz, Gulf of Maine Research Institute For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their [\u2026]",
+        "published_at": "2026-07-08T21:04:14Z",
+        "updated_at": "2026-07-08T21:10:09.767857Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.7333333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38866,
+        "title": "Japan\u2019s ispace Expanding into Lunar Infrastructure",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/japans-ispace-expanding-into-lunar-infrastructure/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Hakamada-Kamiya-2-300x166.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Japan\u2019s ispace robotic lunar landing company is expanding into the lunar infrastructure business through an agreement with SpaceX. Instead of just landing on the Moon, they are offering end-to-end services [\u2026]",
+        "published_at": "2026-07-08T20:31:48Z",
+        "updated_at": "2026-07-08T20:40:15.831757Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38865,
+        "title": "Is this the year for a NASA authorization bill?",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/housesci-20260204.jpeg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAppropriators, like fans of hard-luck sports teams, say every year that this year will be different. That this will be the year that \u201cregular order\u201d returns to the appropriations process, [\u2026]\nThe post Is this the year for a NASA authorization bill? appeared first on SpaceNews.",
+        "published_at": "2026-07-08T18:06:39Z",
+        "updated_at": "2026-07-08T18:10:28.754271Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38873,
+        "title": "NASA Awards Contracts for Mars Advanced Surface Mobility Technology",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/",
+        "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+        "news_site": "NASA",
+        "summary": "July 8, 2026 C.13 NASA Awards Contracts for Mars Advanced Surface Mobility Technology NASA has selected seven companies for contract awards under the Mars Exploration Program\u2019s Science Transport and Robotic Innovation for Deployment and Exploration, or STRIDE, initiative to advance next-generation commercial robotic surface mobility for future Mars exploration. The STRIDE awards will support the [\u2026]",
+        "published_at": "2026-07-08T16:22:50Z",
+        "updated_at": "2026-07-09T04:10:12.101611Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10000000000000002,
+        "sentiment_label": "Positive"
+    }
+]
