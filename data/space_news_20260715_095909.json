@@ -1,0 +1,219 @@
+[
+    {
+        "id": 38993,
+        "title": "Isaacman attends Soyuz launch of ISS crew",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55393516161_6a4afdedec_k.jpg?fit=1024%2C617&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nA new crew arrived at the International Space Station on July 14 on a launch witnessed in person by NASA Administrator Jared Isaacman.\nThe post Isaacman attends Soyuz launch of ISS crew appeared first on SpaceNews.",
+        "published_at": "2026-07-15T09:21:37Z",
+        "updated_at": "2026-07-15T09:30:33.074483Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12878787878787878,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38992,
+        "title": "Metallic waves on ancient Mars",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s Mars Express\u00a0has spotted a swathe of metallic-looking waves filling Mars\u2019s large Kaiser Crater \u2013 an ancient and otherworldly dune field sculpted by wind.",
+        "published_at": "2026-07-15T09:00:00Z",
+        "updated_at": "2026-07-15T09:30:20.297446Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10714285714285714,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38991,
+        "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04948_opgs_edr_ncam_NLB_836754384EDR_S1230540NCAM00298M_.jpg",
+        "news_site": "NASA",
+        "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We\u2019ve been moving fairly rapidly through different mapped \u201cunits,\u201d or distinct geological areas of interest, visiting a different one at each of [\u2026]",
+        "published_at": "2026-07-15T05:25:30Z",
+        "updated_at": "2026-07-15T06:10:09.364306Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38990,
+        "title": "Heat Dome Broils the Western U.S.",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712.jpg",
+        "news_site": "NASA",
+        "summary": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+        "published_at": "2026-07-15T04:01:00Z",
+        "updated_at": "2026-07-15T04:10:05.240886Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38989,
+        "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+        "news_site": "NASA",
+        "summary": "The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia\u2019s Minister of Foreign Affairs Marko \u0110uri\u0107 and U.S. State Department\u00a0Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley\u00a0Brooks\u00a0for the ceremony. This [\u2026]",
+        "published_at": "2026-07-14T21:03:29Z",
+        "updated_at": "2026-07-14T21:10:14.823437Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38988,
+        "title": "Spain\u2019s Pangea Propulsion Opens New Manufacturing Facility",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/spains-pangea-propulsion-opens-new-manufacturing-facility/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/Spains-Pangea-Propulsion-Opens-New-Manufacturing-Facility.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Pangea Propulsion has inaugurated a new 1,000-square-metre manufacturing facility in L\u2019Hospitalet de Llobregat, near Barcelona, investing an initial \u20ac1 million in its establishment. According to the company\u2019s CEO, Adri\u00e0 Argem\u00ed Sams\u00f3, the opening of the new facility marks the company\u2019s shift to serial production. \u201cFor years we have worked to demonstrate more efficient, sustainable and [\u2026]\nThe post Spain\u2019s Pangea Propulsion Opens New Manufacturing Facility appeared first on European Spaceflight.",
+        "published_at": "2026-07-14T19:40:50Z",
+        "updated_at": "2026-07-14T19:50:13.195290Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15505050505050505,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38986,
+        "title": "Space acquisition and NRO picks face SASC",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-4.04.50-PM-e1784055257357.png?fit=1024%2C505&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nErich Hernandez-Baquero, nominated to become the Air Force\u2019s top civilian space acquisition official, and Roger Mason, the administration\u2019s choice to lead the National Reconnaissance Office, appeared before the Senate Armed Services Committee\nThe post Space acquisition and NRO picks face SASC appeared first on SpaceNews.",
+        "published_at": "2026-07-14T19:06:33Z",
+        "updated_at": "2026-07-14T19:10:28.368837Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38987,
+        "title": "New Russian-American Crew Arrives at ISS",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/new-russian-american-crew-arrives-at-iss/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Soyuz-MS29-happy-July-13-Ingalls-300x172.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Russia launched a new crew to the International Space Station today, Soyuz MS-29.\u00a0 Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, and NASA astronaut Anil Menon, docked at the ISS about [\u2026]",
+        "published_at": "2026-07-14T18:44:03Z",
+        "updated_at": "2026-07-14T19:40:17.536990Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0909090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 38985,
+        "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55393472670-5194b57b7f-k.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory\u2019s crew to 10 for about the next two weeks. The trio launched aboard the Soyuz MS-29 spacecraft at 10:47 a.m. EDT (7:47 p.m. local time) from the Baikonur Cosmodrome in [\u2026]",
+        "published_at": "2026-07-14T18:26:02Z",
+        "updated_at": "2026-07-14T18:30:07.193583Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 38984,
+        "title": "Hubble Sees Crimson Cloud and Stars",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55382014220-1dd17df9c0-o.jpg",
+        "news_site": "NASA",
+        "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA\u2019s\u00a0Hubble Space Telescope. LH 95 is a region in the\u00a0Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in [\u2026]",
+        "published_at": "2026-07-14T18:06:33Z",
+        "updated_at": "2026-07-14T18:10:11.071083Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16673881673881674,
+        "sentiment_label": "Positive"
+    }
+]
