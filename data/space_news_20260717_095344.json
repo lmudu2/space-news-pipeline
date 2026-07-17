@@ -1,0 +1,219 @@
+[
+    {
+        "id": 39040,
+        "title": "Earth from Space: Guinea-Bissau",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Guinea-Bissau",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/earth_from_space_guinea-bissau/27381078-2-eng-GB/Earth_from_Space_Guinea-Bissau_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-07-17T08:00:00Z",
+        "updated_at": "2026-07-17T08:30:14.879462Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39039,
+        "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128.jpg",
+        "news_site": "NASA",
+        "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijag\u00f3s archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+        "published_at": "2026-07-17T04:01:00Z",
+        "updated_at": "2026-07-17T04:10:09.261945Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21428571428571427,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39038,
+        "title": "No-Go For Starship Today, Next Try Maybe Next Week",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/no-go-for-starship-today-next-try-maybe-next-week/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-no-go-July-16-2026-300x170.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "SpaceX\u2019s first attempt to launch Starship on its 13th test flight today didn\u2019t go as planned. At the moment of startup, some of the 33 engines on Starship\u2019s first stage [\u2026]",
+        "published_at": "2026-07-17T01:46:19Z",
+        "updated_at": "2026-07-17T01:50:15.333988Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39037,
+        "title": "SpaceX aborts Starship Flight 13 launch attempt",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg?fit=1024%2C571&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle\u2019s engines failed to ignite.\nThe post SpaceX aborts Starship Flight 13 launch attempt appeared first on SpaceNews.",
+        "published_at": "2026-07-17T00:40:05Z",
+        "updated_at": "2026-07-17T00:40:24.329211Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39036,
+        "title": "NASA Welcomes Serbia as Newest Artemis Accords Signatory",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-serbia-as-newest-artemis-accords-signatory/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/serbia.jpg",
+        "news_site": "NASA",
+        "summary": "The Republic of Serbia signed the Artemis Accords Thursday during a ceremony hosted by NASA at the agency\u2019s Headquarters in Washington, becoming the 69th nation to join a large community of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. \u201cSerbia\u2019s connection to NASA reaches back to the Apollo program, when the [\u2026]",
+        "published_at": "2026-07-16T22:37:19Z",
+        "updated_at": "2026-07-16T22:40:09.726963Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.22285714285714286,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39035,
+        "title": "Russia Agrees to ISS Operations, Seat-Swaps, Through 2030",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/russia-agrees-to-iss-operations-seat-swaps-through-2030/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Isaacman-Bakanov-July-13-26-Ingalls-300x178.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "During meetings this week with NASA Administrator Jared Isaacman, Roscosmos Director General Dmitry Bakanov agreed that Russia will support operations of the International Space Station through 2030. Until now, Russia [\u2026]",
+        "published_at": "2026-07-16T21:42:38Z",
+        "updated_at": "2026-07-16T21:50:18.139041Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02500000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39034,
+        "title": "SpaceX launches 21 satellites for military data network",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-10.32.57-PM.png?fit=1024%2C762&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nWith the launch of 21 York Space Systems satellites, the Space Development Agency has now placed half of its planned Tranche 1 Transport Layer constellation in orbit\nThe post SpaceX launches 21 satellites for military data network\u00a0 appeared first on SpaceNews.",
+        "published_at": "2026-07-16T21:00:10Z",
+        "updated_at": "2026-07-16T21:00:37.473273Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.029166666666666674,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39033,
+        "title": "Nature study identifies a new way to spot nuclear weapons in orbit",
+        "authors": [
+            {
+                "name": "Karthik Vinod",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/cosmos-2553.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNEW YORK \u2014 A study published last week in Nature Astronomy has proposed a new satellite design and technique to detect thermonuclear warheads in space. Funded in part by the [\u2026]\nThe post Nature study identifies a new way to spot nuclear weapons in orbit appeared first on SpaceNews.",
+        "published_at": "2026-07-16T20:36:12Z",
+        "updated_at": "2026-07-16T20:40:27.170689Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13257575757575757,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39032,
+        "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
+        "news_site": "NASA",
+        "summary": "New research led by scientists at NASA\u2019s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful observatories that image faint celestial objects. This object has a dual personality: Past images hadn\u2019t revealed obvious cometlike activity, suggesting it might be [\u2026]",
+        "published_at": "2026-07-16T18:40:26Z",
+        "updated_at": "2026-07-16T18:50:05.817488Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.010795454545454553,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39030,
+        "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/starcatcher-grid.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nDIU solicitation aims to move long-studied technology toward military use by fiscal 2030\nThe post Defense Innovation Unit seeks commercial path to deliver electrical power from orbit appeared first on SpaceNews.",
+        "published_at": "2026-07-16T15:29:45Z",
+        "updated_at": "2026-07-16T15:30:30.359861Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0375,
+        "sentiment_label": "Neutral"
+    }
+]
