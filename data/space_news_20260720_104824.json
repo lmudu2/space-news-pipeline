@@ -1,0 +1,44 @@
+[
+    {
+        "id": 39066,
+        "title": "Artemis II crew at ESTEC",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Artemis_II_crew_at_ESTEC",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/07/artemis_ii_crew_at_estec/27383126-1-eng-GB/Artemis_II_crew_at_ESTEC_card_full.png",
+        "news_site": "ESA",
+        "summary": "The four Artemis II astronauts\u00a0visited ESTEC,\u00a0ESA\u2019s technical centre in the Netherlands, on 13 July as the first stop in a series of post-flight visits to the European teams that made their mission possible.",
+        "published_at": "2026-07-20T08:30:00Z",
+        "updated_at": "2026-07-20T10:10:16.331416Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39065,
+        "title": "What\u2019s Happening in Space Policy July 19-26, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-19-26-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Aldrin-Moon-286x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week plus a day of July 19-26, 2026 and any insight we can offer about them. The House and Senate [\u2026]",
+        "published_at": "2026-07-19T21:17:07Z",
+        "updated_at": "2026-07-19T21:20:12.344528Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
