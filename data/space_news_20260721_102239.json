@@ -1,0 +1,269 @@
+[
+    {
+        "id": 39086,
+        "title": "KBR organizes defense technology business to pursue Golden Dome work",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-at-10.05.01-AM.png?fit=1024%2C687&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nCompany points to digital engineering, space tracking and missile-defense experience \nThe post KBR organizes defense technology business to pursue Golden Dome work appeared first on SpaceNews.",
+        "published_at": "2026-07-21T10:00:00Z",
+        "updated_at": "2026-07-21T10:10:17.060976Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39085,
+        "title": "IHI explores Kuva hyperspectral satellites for Japan\u2019s multi-sensor constellation",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/rsz_anomoaly_detection_-_defence_video.png?fit=879%2C494&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nJapan\u2019s IHI is considering adding next-generation hyperspectral satellites from Finnish startup Kuva Space to its planned 100-strong, multi-sensor sovereign Earth observation constellation.\nThe post IHI explores Kuva hyperspectral satellites for Japan\u2019s multi-sensor constellation appeared first on SpaceNews.",
+        "published_at": "2026-07-21T07:00:00Z",
+        "updated_at": "2026-07-21T07:10:18.242531Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39083,
+        "title": "Italian startup ORiS raises funding for laser power-beaming technology",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/oris-laser.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nItalian startup ORiS has raised 5 million euros ($5.7 million) to help it develop wireless power-beaming technology for satellites using lasers.\nThe post Italian startup ORiS raises funding for laser power-beaming technology appeared first on SpaceNews.",
+        "published_at": "2026-07-21T04:01:41Z",
+        "updated_at": "2026-07-21T04:10:26.847537Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39082,
+        "title": "Why Maine\u2019s Sandy Shorelines Turn Jagged",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/why-maine's-sandy-shorelines-turn-jagged/mainecoast_oli2_20250831.jpg",
+        "news_site": "NASA",
+        "summary": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+        "published_at": "2026-07-21T04:00:00Z",
+        "updated_at": "2026-07-21T04:10:05.468505Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39081,
+        "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
+        "authors": [
+            {
+                "name": "Justin Davenport",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-3.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "After last week\u2019s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as\u2026\r\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-20T20:53:25Z",
+        "updated_at": "2026-07-21T08:22:01.743193Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "0f6780cf-edae-4d7c-99d6-ce7de784d140",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "5421e43a-1623-40ac-9dac-201075064e24",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "e1079d3a-c0a6-4b42-bc1d-92e48a5a78fc",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.07727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39079,
+        "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
+        "image_url": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency\u2019s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA\u2019s SpaceX Crew\u201113 mission at 12 p.m. EDT. Next, crew members will discuss their [\u2026]",
+        "published_at": "2026-07-20T20:00:52Z",
+        "updated_at": "2026-07-21T08:22:52.927620Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.03333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39078,
+        "title": "Making Progress: Relativity\u2019s Terran R, Rocket Lab\u2019s Neutron, and PLD Space\u2019s Miura 5",
+        "authors": [
+            {
+                "name": "Martijn Luinstra and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-20-19-45-20-195.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "While the focus of late has been on Starship\u2019s test program, three companies developing new\u2026\r\nThe post Making Progress: Relativity\u2019s Terran R, Rocket Lab\u2019s Neutron, and PLD Space\u2019s Miura 5 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-20T19:18:54Z",
+        "updated_at": "2026-07-21T08:24:28.513467Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a8c191e1-b231-4b2e-aefd-5e8ad55c7a82",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a96ece1c-c745-43cc-a08a-b623e7b93957",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.024999999999999994,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39076,
+        "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/aeronautics/electrified-aircraft-propulsion/nasa-ge-hybrid-electric-flight/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
+        "news_site": "NASA",
+        "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public [\u2026]",
+        "published_at": "2026-07-20T18:54:44Z",
+        "updated_at": "2026-07-20T19:00:08.490784Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05909090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39080,
+        "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/fia-saab.jpg",
+        "news_site": "NASA",
+        "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public [\u2026]",
+        "published_at": "2026-07-20T18:54:44Z",
+        "updated_at": "2026-07-20T20:20:06.956836Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05909090909090909,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39077,
+        "title": "New\u00a0NASA\u00a0Earth Missions Gear Up\u00a0to Start Science Flights",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/LRC-2026-OCIO_P-01034.jpg",
+        "news_site": "NASA",
+        "summary": "The first of six new airborne campaigns will hit the skies this summer.",
+        "published_at": "2026-07-20T18:25:11Z",
+        "updated_at": "2026-07-20T19:10:09.844247Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.17424242424242423,
+        "sentiment_label": "Positive"
+    }
+]
