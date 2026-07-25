@@ -1,0 +1,250 @@
+[
+    {
+        "id": 39173,
+        "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
+        "authors": [
+            {
+                "name": "William Harwood",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_launch1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "Powered by 33 methane-fueled Raptor engines, the 397-foot-tall two-stage rocket blasted off from SpaceX's \"Starbase,\" Texas, launch site at 5:51 p.m. EDT, putting on a spectacular show for area residents and tourists as it climbed away atop some 16 million pounds of thrust. ",
+        "published_at": "2026-07-25T01:08:45Z",
+        "updated_at": "2026-07-25T01:10:25.499751Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2708333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39172,
+        "title": "SpaceX conducts 13th Starship test flight",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
+        "published_at": "2026-07-25T00:29:32Z",
+        "updated_at": "2026-07-25T00:30:49.985431Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05555555555555556,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39171,
+        "title": "Fires near Madrid Force Evacuation of NASA\u2019s DSN Facility",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/fires-near-madrid-force-evacuation-of-nasas-dsn-facility/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Madrid-300x60.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Wildfires near Madrid, Spain forced the evacuation of NASA\u2019s Deep Space Network facility there today. The agency reports that everyone is safe. The Madrid station is one of three around [\u2026]",
+        "published_at": "2026-07-24T20:52:02Z",
+        "updated_at": "2026-07-24T21:00:24.392975Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07999999999999999,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39170,
+        "title": "ULA deals with financial challenges caused by Vulcan grounding",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "United Launch Alliance\u2019s corporate parents have guaranteed a loan to the company as it addresses \u201cfinancial challenges\u201d caused by the grounding of its Vulcan Centaur rocket.\r\nThe post ULA deals with financial challenges caused by Vulcan grounding appeared first on SpaceNews.",
+        "published_at": "2026-07-24T20:18:19Z",
+        "updated_at": "2026-07-24T20:30:12.426229Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "550f778d-6c2d-41fc-b182-6f0cd8feda93",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39169,
+        "title": "Critical NASA Deep Space ground station in Spain evacuated due to wildfires",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260724_Madrid_DSN.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The Madrid Deep Space Communications Complex is one of three critical sites around the world that communicate with spacecraft beyond the reach of near-Earth communications capabilities. ",
+        "published_at": "2026-07-24T20:11:08Z",
+        "updated_at": "2026-07-24T20:20:19.051994Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.07083333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39168,
+        "title": "Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand",
+        "authors": [
+            {
+                "name": "Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/blue-ng-gs2-hot-fires-stennis-b-2/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/07/NSF-2026-07-24-17-51-12-365.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "NASA and Blue Origin have finalized plans to hot-fire test the second stage of the\u2026\r\nThe post Blue Origin to conduct New Glenn second stage hot fires on Stennis B-2 stand appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-24T18:01:12Z",
+        "updated_at": "2026-07-24T20:32:50.451428Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09297520661157024,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39167,
+        "title": "NASA\u2019s ESCAPADE Snaps Family Portrait of Earth, Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE%20Photo%20of%20Earth_Moon%201.png",
+        "news_site": "NASA",
+        "summary": "On July 3, one of NASA\u2019s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively [\u2026]",
+        "published_at": "2026-07-24T17:47:06Z",
+        "updated_at": "2026-07-24T20:24:02.173736Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "9c950919-5d11-4a79-a4f1-be7387678c0a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39166,
+        "title": "New Crew Members Welcomed to International Space Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/iss074e0814792orig.jpg",
+        "news_site": "NASA",
+        "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome [\u2026]",
+        "published_at": "2026-07-24T16:43:02Z",
+        "updated_at": "2026-07-24T20:24:52.103725Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "a556b963-0f36-4660-95a8-fdffdba653e2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1494,
+                "provider": "Launch Library 2"
+            },
+            {
+                "event_id": 1495,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.02727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39165,
+        "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/capstone2.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is working with industry to advance the next phase of cislunar infrastructure for the agency\u2019s Artemis program and Moon Base, including orbital assets and demonstrations. Under a contract awarded to Advanced Space, the agency\u2019s CAPSTONE 02 mission will demonstrate rendezvous and proximity operations, autonomous navigation, and cislunar communication capabilities while continuing to characterize the [\u2026]",
+        "published_at": "2026-07-24T16:35:46Z",
+        "updated_at": "2026-07-24T20:32:29.156974Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02727272727272727,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39164,
+        "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/bo.jpg",
+        "news_site": "NASA",
+        "summary": "NASA and Blue Origin announced Friday they recently agreed to conduct second stage hot fire testing for the company\u2019s New Glenn rocket on the B-2 test stand at the agency\u2019s Stennis Space Center near Bay St. Louis, Mississippi. The annex to a reimbursable Space Act Agreement signed earlier this month highlights NASA\u2019s commitment to working [\u2026]",
+        "published_at": "2026-07-24T15:30:21Z",
+        "updated_at": "2026-07-24T15:40:09.370806Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05227272727272727,
+        "sentiment_label": "Neutral"
+    }
+]
