@@ -1,0 +1,72 @@
+[
+    {
+        "id": 39176,
+        "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/dsn-madrid-fire.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nKey ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\nThe post NASA and ESA facilities avoid major damage from wildfires in Spain appeared first on SpaceNews.",
+        "published_at": "2026-07-26T02:15:37Z",
+        "updated_at": "2026-07-26T02:20:25.464435Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.014880952380952384,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39175,
+        "title": "Successful Flight for Starship IFT-13",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Starship-IFT13-liftoff-July-24-26-300x170.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The 13th Integrated Flight Test of SpaceX\u2019s Starship system, IFT-13, was mostly a success. One week after the launch was scrubbed at the last moment because of engine failures, and [\u2026]",
+        "published_at": "2026-07-25T17:36:37Z",
+        "updated_at": "2026-07-25T17:40:16.338924Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39174,
+        "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
+        "authors": [
+            {
+                "name": "Steven Young",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff from Vandenberg Space Force Base in California is scheduled for 8:51 a.m. PDT (11:51 a.m. EDT / 1551 UTC). The Falcon 9 will place 24 Starlink satellites into orbit. ",
+        "published_at": "2026-07-25T13:58:51Z",
+        "updated_at": "2026-07-25T14:00:30.394407Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.33181818181818185,
+        "sentiment_label": "Negative"
+    }
+]
