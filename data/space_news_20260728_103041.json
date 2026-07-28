@@ -1,0 +1,275 @@
+[
+    {
+        "id": 39202,
+        "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/vertical_liftoff_as_ariane_6_takes_flight_for_the_first_time/27393783-2-eng-GB/Vertical_liftoff_as_Ariane_6_takes_flight_for_the_first_time_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-07-28T07:00:00Z",
+        "updated_at": "2026-07-28T08:33:36.993207Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "3e461ec0-8b64-4804-b9aa-e1e1f066065a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39201,
+        "title": "Smoke Blankets Oregon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726.jpg",
+        "news_site": "NASA",
+        "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+        "published_at": "2026-07-28T04:01:00Z",
+        "updated_at": "2026-07-28T04:10:09.618157Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39200,
+        "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/01/Falcon-9-launch-and-landing-Credit-Julia-Bergeron-for-NSF-scaled.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Five orbital launches are scheduled worldwide for this week. In China, a Chang Zheng 6A\u2026\r\nThe post Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-07-27T20:31:02Z",
+        "updated_at": "2026-07-28T08:34:45.639133Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "394d2745-610b-409e-b4ea-2071a35f8668",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "0448d030-5175-4c1f-bd0b-4f3f87072921",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39199,
+        "title": "Upper C-band auction offers another lift for GEO industry",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nTAMPA, Fla. \u2014 Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions [\u2026]\nThe post Upper C-band auction offers another lift for GEO industry appeared first on SpaceNews.",
+        "published_at": "2026-07-27T20:11:07Z",
+        "updated_at": "2026-07-27T20:20:27.763997Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1425925925925926,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39198,
+        "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/MG_063025_ESS-Promo-Image_16_9_070125_300dpi.jpg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nAward covers mission planning software for ESS next-generation strategic communications satellites\nThe post Sphinx Defense wins $287 million contract for strategic satellite communications software appeared first on SpaceNews.",
+        "published_at": "2026-07-27T19:02:15Z",
+        "updated_at": "2026-07-27T19:10:29.447278Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39197,
+        "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/chris-williams-post-mission-conference-july-27.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency\u2019s Johnson Space Center in Houston. NASA will stream this event live through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live United States-based media interested [\u2026]",
+        "published_at": "2026-07-27T18:49:20Z",
+        "updated_at": "2026-07-28T08:38:02.102414Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.057272727272727274,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39196,
+        "title": "Despite recent successes, rapid reuse of Starship remains a tough nut to crack",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks.png",
+        "news_site": "Arstechnica",
+        "summary": "NASA has not made substantial investments in thermal protection research for decades.",
+        "published_at": "2026-07-27T18:34:40Z",
+        "updated_at": "2026-07-28T08:43:26.316969Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.19444444444444445,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 39195,
+        "title": "NASA Science Soars During August Total Solar Eclipse",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg",
+        "news_site": "NASA",
+        "summary": "Each time the Moon covers the Sun during a total solar eclipse \u2014 darkening daytime skies and briefly revealing the Sun\u2019s ethereal outer atmosphere, the corona \u2014 it presents new opportunities to better understand our star and its influence on Earth. On Wednesday, Aug. 12, as the next total solar eclipse sweeps over Greenland, Iceland, [\u2026]",
+        "published_at": "2026-07-27T18:01:14Z",
+        "updated_at": "2026-07-28T08:47:00.886152Z",
+        "featured": false,
+        "launches": [],
+        "events": [
+            {
+                "event_id": 1454,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.09090909090909091,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39193,
+        "title": "NASA Astronaut Chris Williams Returns to Earth",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/55419246867-809993deb3-o.jpg",
+        "news_site": "NASA",
+        "summary": "NASA astronaut Chris Williams is all smiles in this July 26, 2026, photo taken shortly after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in Kazakhstan. This was Williams\u2019 first mission. Williams spent eight months aboard the International Space Station, where he supported a wide range of\u00a0scientific investigations\u00a0and technology demonstrations. He [\u2026]",
+        "published_at": "2026-07-27T16:48:46Z",
+        "updated_at": "2026-07-28T08:38:36.014626Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "40beac6e-ce8e-4481-8cf9-56d1d9c48804",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1501,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.009999999999999998,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39194,
+        "title": "NASA\u2019s Swift Sees \u2018Wandering\u2019 Mega Black Hole Shredding Star",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Neil Gehrels Swift Observatory captured an \u201corphan\u201d black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena are rare to begin with, and none had ever before been seen so far outside of a galaxy\u2019s core. \u201cWe were looking for these star-shredding events as a way [\u2026]",
+        "published_at": "2026-07-27T16:06:37Z",
+        "updated_at": "2026-07-28T08:38:52.690263Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db02116f-17ba-429a-b6c1-8e7f13b5e787",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.013333333333333336,
+        "sentiment_label": "Neutral"
+    }
+]
