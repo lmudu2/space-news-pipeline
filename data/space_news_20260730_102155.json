@@ -1,0 +1,229 @@
+[
+    {
+        "id": 39243,
+        "title": "ArianeGroup Completes Themis Wet Dress Rehearsal",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/arianegroup-completes-themis-wet-dress-rehearsal/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/07/ArianeGroup-Complete-Themis-Wet-Dress-Rehearsal.webp",
+        "news_site": "European Spaceflight",
+        "summary": "ArianeGroup has completed a wet dress rehearsal of the Themis reusable booster demonstrator at the Esrange Space Centre in Sweden, providing the first substantive update on the vehicle\u2019s test campaign in more than ten months. The rehearsal was conducted on 23 July by teams from ArianeGroup and SSC Space, the commercial entity that manages the [\u2026]\nThe post ArianeGroup Completes Themis Wet Dress Rehearsal appeared first on European Spaceflight.",
+        "published_at": "2026-07-30T09:54:53Z",
+        "updated_at": "2026-07-30T10:00:20.746761Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.07777777777777778,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39242,
+        "title": "From drone flight to sounding rocket",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_drone_flight_to_sounding_rocket",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/student_team_and_advisors_during_retroreflector_test_campaign_at_estec/27397446-2-eng-GB/Student_team_and_advisors_during_retroreflector_test_campaign_at_ESTEC_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "A drone carrying an unusual payload recently took to the skies above ESTEC, the European Space Agency\u2019s technical centre in the Netherlands, marking the first test flight of a student-developed radar retroreflector technology.",
+        "published_at": "2026-07-30T09:00:00Z",
+        "updated_at": "2026-07-30T09:00:29.255030Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39240,
+        "title": "NASA Johnson\u00a0Interns Shaping the Future of Exploration",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/07/dsc03157.jpg",
+        "news_site": "NASA",
+        "summary": "NASA interns at Johnson Space Center\u00a0are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight.\u00a0Learn how these students are gaining hands-on experience, contributing to real missions, and\u00a0preparing\u00a0to\u00a0join\u00a0the nation\u2019s\u00a0highly skilled and\u00a0competitive\u00a0aerospace workforce.\u00a0\u00a0 Meet the students behind the work and discover what inspired them to pursue careers at [\u2026]",
+        "published_at": "2026-07-30T08:08:55Z",
+        "updated_at": "2026-07-30T08:10:12.700695Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.033333333333333326,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39241,
+        "title": "SMOS salinity could offer early indicator of El Ni\u00f1o",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "As the Pacific Ocean moves into an El Ni\u00f1o phase, scientists are monitoring changes in sea-surface temperature, but also sea-surface salinity \u2013 which is another key indicator of this phenomenon.",
+        "published_at": "2026-07-30T07:20:00Z",
+        "updated_at": "2026-07-30T09:36:50.199964Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "44b77752-f7db-4401-b314-c89df2994ac8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39238,
+        "title": "APOD: July 30 \u2013 Red Sun trough Wildfire Smoke",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/july/red_sun.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: July 30 \u2013 Red Sun\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun [\u2026]",
+        "published_at": "2026-07-30T04:05:00Z",
+        "updated_at": "2026-07-30T05:50:09.388302Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.11428571428571428,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39239,
+        "title": "New Zealand\u2019s Southern Wilderness",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-zealand's-southern-wilderness/nzstewartisland_oli2_20260514.jpg",
+        "news_site": "NASA",
+        "summary": "Stewart Island/Rakiura, New Zealand\u2019s third-largest island, is known for its vibrant birdlife, unique forests, wilderness beaches, and views of the night sky.",
+        "published_at": "2026-07-30T04:01:00Z",
+        "updated_at": "2026-07-30T05:50:09.422977Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16287878787878787,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39237,
+        "title": "Sophia Space and Caltech claim patent for space data centers",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_1tile.jpg?fit=879%2C494&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSAN FRANCISCO \u2013 Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July [\u2026]\nThe post Sophia Space and Caltech claim patent for space data centers appeared first on SpaceNews.",
+        "published_at": "2026-07-30T04:00:00Z",
+        "updated_at": "2026-07-30T04:00:44.312465Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.23214285714285715,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39235,
+        "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/07/20260729_CC_NROL_95_DSC.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The NROL-95 mission will be the third payload for the National Reconnaissance Office launched under the National Security Space Launch Phase 2 procurement. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 3:09 a.m. EDT (0709 UTC).",
+        "published_at": "2026-07-29T23:15:30Z",
+        "updated_at": "2026-07-30T06:33:32.312714Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39236,
+        "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-sunset.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe Department of Transportation is proposing to exempt commercial space launch licensing from many environmental regulations, a move praised by industry but criticized by environmental groups.\nThe post Proposed rule would exempt commercial launch licensing from environmental regulations appeared first on SpaceNews.",
+        "published_at": "2026-07-29T23:12:56Z",
+        "updated_at": "2026-07-29T23:20:30.191505Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.15,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39234,
+        "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+        "image_url": "https://spacenews.com/wp-content/uploads/2026/07/L3Harris-THAAD-Propulsion-Production-1220-1024x574.avif",
+        "news_site": "SpaceNews",
+        "summary": "\nCEO says market doesn't reflect value of Pentagon-backed business \nThe post L3Harris delays missile business IPO to 2027 despite surging defense demand appeared first on SpaceNews.",
+        "published_at": "2026-07-29T22:57:06Z",
+        "updated_at": "2026-07-29T23:00:38.558524Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
