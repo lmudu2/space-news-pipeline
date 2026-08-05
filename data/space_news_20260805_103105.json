@@ -1,0 +1,240 @@
+[
+    {
+        "id": 39338,
+        "title": "Total solar eclipse: how to watch live from home",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/solar_eclipse_artist_impression/27150246-1-eng-GB/Solar_eclipse_artist_impression_card_full.png",
+        "news_site": "ESA",
+        "summary": "A total solar eclipse is coming to Europe. The European Space Agency (ESA) will broadcast live from 19:30 CEST on 12 August, allowing you to experience this rare event from anywhere in the world.",
+        "published_at": "2026-08-05T08:00:00Z",
+        "updated_at": "2026-08-05T08:00:23.007967Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09545454545454546,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39339,
+        "title": "Think tank warns Europe\u2019s orbital compute gap is widening",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nEurope risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China\u2019s government-led push accelerate the development of space-based data centers, according to the European Space Policy Institute.\nThe post Think tank warns Europe\u2019s orbital compute gap is widening appeared first on SpaceNews.",
+        "published_at": "2026-08-05T08:00:00Z",
+        "updated_at": "2026-08-05T08:00:38.629050Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14375,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39337,
+        "title": "Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The BlueBird 11-13 mission is the third time SpaceX will fly satellites to orbit supporting AST SpaceMobile\u2019s direct-to-device constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a window that opens at 3:42 a.m. EDT (0742 UTC). ",
+        "published_at": "2026-08-05T06:55:35Z",
+        "updated_at": "2026-08-05T07:00:48.613321Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2965909090909091,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39336,
+        "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+        "authors": [
+            {
+                "name": "Jason Rainbow",
+                "socials": {
+                    "x": "",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+                    "mastodon": "",
+                    "bluesky": ""
+                }
+            }
+        ],
+        "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNeuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews.",
+        "published_at": "2026-08-05T06:00:00Z",
+        "updated_at": "2026-08-05T06:10:36.395197Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.18333333333333335,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39335,
+        "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nVoyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA\u2019s plans to support the station\u2019s development.\nThe post Voyager seeks relaxed requirements in NASA commercial space station RFP appeared first on SpaceNews.",
+        "published_at": "2026-08-05T03:01:23Z",
+        "updated_at": "2026-08-05T03:10:33.477155Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39334,
+        "title": "Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship/",
+        "image_url": "https://pbs.twimg.com/profile_images/548027983/Website_logo_400x400.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "During its first earnings call since going public, SpaceX officials said today the next Starship test flight, IFT-14, will put operational Starlink Version 3 satellites into orbit. If they get [\u2026]",
+        "published_at": "2026-08-05T01:02:09Z",
+        "updated_at": "2026-08-05T01:10:23.955534Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39333,
+        "title": "SpaceX to begin Starship orbital flights",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/starship-flt13-liftoff2.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSpaceX plans to start deploying upgraded Starlink satellites into orbit on the next flight of its Starship vehicle, scheduled for as soon as the end of the month.\nThe post SpaceX to begin Starship orbital flights appeared first on SpaceNews.",
+        "published_at": "2026-08-04T22:51:13Z",
+        "updated_at": "2026-08-04T23:00:37.918478Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39332,
+        "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/55351366801_693c568062_k.jpg?fit=1024%2C767&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe companies, along with a third unidentified vendor, won $615 million in contracts for the AMTI satellite program\nThe post Rocket Lab, STR win Space Force contracts for airborne-target tracking technologies appeared first on SpaceNews.",
+        "published_at": "2026-08-04T22:47:07Z",
+        "updated_at": "2026-08-04T22:50:31.871661Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.4625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39331,
+        "title": "Telesat lands $1.63 billion Canadian defense contract",
+        "authors": [
+            {
+                "name": "Sandra Erwin",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-4.55.00-PM.png?fit=1024%2C560&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nArctic communications award will fund an expansion of Telesat\u2019s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared first on SpaceNews.",
+        "published_at": "2026-08-04T22:00:15Z",
+        "updated_at": "2026-08-04T22:01:25.607889Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39329,
+        "title": "Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS",
+        "authors": [
+            {
+                "name": "Sawyer Rosenstein",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/08/crew-13-delaney-interview/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/jsc2026e404725large.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "After a previously targeted launch date in November, NASA has moved up the next International\u2026\nThe post Crew-13 pilot reflects on career, training, and upcoming science ahead of flight to ISS appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-08-04T20:05:26Z",
+        "updated_at": "2026-08-04T20:10:17.114504Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.02777777777777778,
+        "sentiment_label": "Neutral"
+    }
+]
