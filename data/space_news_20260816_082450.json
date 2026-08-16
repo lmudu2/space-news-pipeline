@@ -1,0 +1,135 @@
+[
+    {
+        "id": 39520,
+        "title": "APOD: 2026 August 16 \u2013 Milky Way over Yellowstone",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 August 16 \u2013 Milky\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way [\u2026]",
+        "published_at": "2026-08-16T04:05:00Z",
+        "updated_at": "2026-08-16T04:30:12.619163Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39519,
+        "title": "Live coverage: SpaceX to launch satellite replenishment mission for Globalstar from Cape Canaveral",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/08/20260815_CC_Globalstar_2_R_1_vertical.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The batch of eight Globalstar satellites will help refresh the company\u2019s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC). ",
+        "published_at": "2026-08-15T23:51:27Z",
+        "updated_at": "2026-08-16T00:00:49.362543Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06818181818181818,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39518,
+        "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+        "authors": [
+            {
+                "name": "Jeff Foust",
+                "socials": {
+                    "x": "https://x.com/jeff_foust",
+                    "youtube": "",
+                    "instagram": "",
+                    "linkedin": "https://www.linkedin.com/in/jefffoust",
+                    "mastodon": "https://mastodon.social/@jfoust",
+                    "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+                }
+            }
+        ],
+        "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nNASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.",
+        "published_at": "2026-08-15T23:49:58Z",
+        "updated_at": "2026-08-15T23:50:25.930370Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39517,
+        "title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+        "authors": [
+            {
+                "name": "Alejandro Alcantarilla Romera, and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-15-23-52-07-432.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "As Blue Origin continues restoring its primary launch pad at LC-36A, the company has released\u2026\nThe post Blue Origin overviews plan for dual pad ops at Cape Canaveral appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-08-15T22:57:11Z",
+        "updated_at": "2026-08-15T23:00:18.288292Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.13,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39516,
+        "title": "Ukrainian Missiles Strike Russian Soyuz Rocket Factory",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/ukrainian-missiles-strike-russian-soyuz-rocket-factory/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Soyuz-MS-29-launch-Ingalls-300x273.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Ukrainian President Volodymyr Zelensky confirmed today that Ukrainian Flamingo missiles hit Russia\u2019s Progress production facility in Samara. He cited the Progress Center\u2019s role in producing electronics, but Soyuz rockets also [\u2026]",
+        "published_at": "2026-08-15T21:12:33Z",
+        "updated_at": "2026-08-15T21:20:19.119129Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10000000000000002,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39515,
+        "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1774582700.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"Flamingo missiles were used. A good achievement.\"",
+        "published_at": "2026-08-15T15:46:05Z",
+        "updated_at": "2026-08-15T15:50:11.072329Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.25416666666666665,
+        "sentiment_label": "Positive"
+    }
+]
