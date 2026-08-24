@@ -1,0 +1,107 @@
+[
+    {
+        "id": 39644,
+        "title": "What Lake Bonneville Left Behind",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/what-lake-bonneville-left-behind/craterisland_oli_20260604.jpg",
+        "news_site": "NASA",
+        "summary": "The drying of the massive lake exposed playas that became the setting for feats of engineering and technological ingenuity, as well as epic tales of exploration and desperation.",
+        "published_at": "2026-08-24T04:01:00Z",
+        "updated_at": "2026-08-24T04:40:13.899014Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.07500000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39643,
+        "title": "NASA\u2019s Roman telescope nears launch, reaches final integration and rehearsal milestones",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/KSC-20260709-PH-JMT01_0001large.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "With a scheduled launch date of Aug. 30, NASA\u2019s Nancy Grace Roman Space Telescope is\u2026\nThe post NASA\u2019s Roman telescope nears launch, reaches final integration and rehearsal milestones appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-08-23T21:45:07Z",
+        "updated_at": "2026-08-23T21:50:17.713002Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39642,
+        "title": "What\u2019s Happening in Space Policy August 23-30, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-23-30-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/08/Roman-full-stack-KSC-Aug-7-2026-221x300.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week plus a day of August 23-30, 2026 and any insight we can offer about them. The House and Senate [\u2026]",
+        "published_at": "2026-08-23T21:24:16Z",
+        "updated_at": "2026-08-23T21:30:22.230814Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39641,
+        "title": "LandSpace\u2019s Zhuque-3 topples following milestone landing",
+        "authors": [
+            {
+                "name": "Martin Smith and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-23-19-39-25-057.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage\u2026\nThe post LandSpace\u2019s Zhuque-3 topples following milestone landing appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-08-23T18:57:05Z",
+        "updated_at": "2026-08-23T19:00:22.842550Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08035714285714286,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39640,
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"The Chang\u2019e 7 mission does not meet the conditions for launch.\"",
+        "published_at": "2026-08-23T14:30:16Z",
+        "updated_at": "2026-08-23T14:40:07.381703Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09375,
+        "sentiment_label": "Neutral"
+    }
+]
