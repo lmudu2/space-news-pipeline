@@ -1,0 +1,86 @@
+[
+    {
+        "id": 39726,
+        "title": "ESA awards first European Launcher Challenge contracts",
+        "authors": [
+            {
+                "name": "Martijn Luinstra and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/08/esa-european-launcher-challenge-contracts/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/08/NSF-2026-08-29-11-53-55-612.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing\u2026\nThe post ESA awards first European Launcher Challenge contracts appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-08-29T11:09:51Z",
+        "updated_at": "2026-08-29T11:10:15.946125Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39725,
+        "title": "NASA\u2019s Artemis II Crew Receives Congressional Space Medal of Honor",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "news_site": "NASA",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized [\u2026]",
+        "published_at": "2026-08-28T22:21:31Z",
+        "updated_at": "2026-08-28T22:30:17.910606Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14285714285714285,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39724,
+        "title": "NASA Awards First\u00a0Prize\u00a0in Phase 2 of Agency\u2019s LunaRecycle\u00a0Challenge",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/08/cerberuz-lunarecycle-winners.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u00a0named\u00a0a team from the\u00a0Massachusetts Institute of Technology\u00a0(MIT)\u00a0as the\u00a0first prize\u00a0winner\u00a0for\u00a0Phase 2\u00a0of the\u00a0agency\u2019s\u00a0LunaRecycle\u00a0Challenge, which\u00a0focused on\u00a0developing\u00a0solutions for\u00a0reducing waste\u00a0during missions to the Moon or deep space by\u00a0recycling common materials,\u00a0like fabrics, plastics, foam, and metals.\u00a0 The\u00a0Composites for Extraterrestrial Recycling\u00a0By\u00a0Engineering the Reuse and Upcycling of\u00a0Zotek\u00a0(CERBERUZ) team,\u00a0comprised\u00a0of\u00a0undergraduate,\u00a0graduate,\u00a0and\u00a0doctoral\u00a0students at\u00a0MIT,\u00a0received a total of $775,000 in\u00a0awards.\u00a0\u00a0 The technology grinds mixed trash into a fine powder, [\u2026]",
+        "published_at": "2026-08-28T20:30:52Z",
+        "updated_at": "2026-08-28T20:40:10.302611Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.052083333333333336,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39723,
+        "title": "Trump Honors Artemis II Crew, Signs Executive Order to Establish a U.S. Space Academy",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/trump-honors-artemis-ii-crew-signs-executive-order-to-establish-a-u-s-space-academy/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Isaacman-official-Ingalls-240x300.webp",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "President Trump signed an Executive Order today during a ceremony honoring the Artemis II crew that will create a NASA-led U.S. Space Academy to \u201cencourage and guide\u201d students to pursue [\u2026]",
+        "published_at": "2026-08-28T20:29:42Z",
+        "updated_at": "2026-08-28T20:30:21.452711Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
