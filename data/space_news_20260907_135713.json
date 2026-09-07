@@ -1,0 +1,189 @@
+[
+    {
+        "id": 39851,
+        "title": "BepiColombo begins Mercury arrival with MTM separation success",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "On 3 September 2026 at 15:49 CEST, the European Space Agency's\u00a0BepiColombo\u00a0Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for\u00a0\u2013\u00a0BepiColombo\u2019s\u00a0Mercury Transfer Module (MTM) successfully separated from the\u00a0spacecraft stack.\u00a0This landmark achievement for the ESA and\u00a0Japan\u00a0Aerospace Exploration\u00a0Agency\u00a0(JAXA)\u00a0mission marks the\u00a0first step of\u00a0BepiColombo's\u00a0long-awaited arrival at Mercury.\u00a0",
+        "published_at": "2026-09-07T08:25:00Z",
+        "updated_at": "2026-09-07T10:50:19.733354Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.26,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39850,
+        "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/isar_aerospace_achieves_first_launch_to_orbit_from_continental_europe/27452918-1-eng-GB/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "German company Isar Aerospace successfully reached orbit with their Spectrum launcher, lifting off from And\u00f8ya Spaceport in Norway at 21:12 BST/22:12 CEST on 5 September 2026.",
+        "published_at": "2026-09-07T07:26:00Z",
+        "updated_at": "2026-09-07T09:25:13.840052Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3333333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39852,
+        "title": "Europe's space future in focus at the International Space Summit",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-975/27426490-2-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-97_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The International Space Summit, taking place in Paris, France, on 9 and 10 September, will bring together world leaders, ministers, industry representatives and astronauts at a pivotal moment for the future of space. ESA Director General Josef Aschbacher will invite European leaders to reflect on the role Europe wishes to play in the next era of space exploration and on the level of ambition needed to help shape it.",
+        "published_at": "2026-09-07T06:10:00Z",
+        "updated_at": "2026-09-07T12:00:16.042870Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06875,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39848,
+        "title": "APOD: 2026 September 7 \u2013 The Pelican Nebula in Gas, Dust, and Stars",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 7 \u2013 The\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican [\u2026]",
+        "published_at": "2026-09-07T04:05:00Z",
+        "updated_at": "2026-09-07T04:50:13.859291Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39849,
+        "title": "A Bright Spot at Mount Michael",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bright-spot-at-mount-michael/mountmichael_oli_20260824.jpg",
+        "news_site": "NASA",
+        "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
+        "published_at": "2026-09-07T04:01:00Z",
+        "updated_at": "2026-09-07T04:50:13.885714Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.30000000000000004,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39847,
+        "title": "What\u2019s Happening in Space Policy September 6-12, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-6-12-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/06/NASA-Moon-Base-infographic-300x168.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week of September 6-12, 2026 and any insight we can offer about them. The House and Senate are in recess [\u2026]",
+        "published_at": "2026-09-06T20:54:50Z",
+        "updated_at": "2026-09-06T21:00:35.661496Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39846,
+        "title": "Starbase Infrastructure Advances Toward Flight 14",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/Launch-Site-September-3rd-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "SpaceX is still building out assembly, test, and launch infrastructure at Starbase while Flight 14\u2026\r\nThe post Starbase Infrastructure Advances Toward Flight 14 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-06T18:49:44Z",
+        "updated_at": "2026-09-07T09:25:09.394264Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39845,
+        "title": "Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights",
+        "authors": [
+            {
+                "name": "Alejandro Alcantarilla Romera and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/cape-neighbors-stoke-relativity-advance-lc-14-lc-16/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-06-06-08-48-181.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Along Missile Row at Cape Canaveral Space Force Station, Stoke Space and Relativity Space are\u2026\r\nThe post Cape neighbors Stoke and Relativity advance LC-14 and LC-16 toward first flights appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-06T15:52:38Z",
+        "updated_at": "2026-09-07T09:31:13.252314Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "25d652f7-7e20-42d5-967e-b8e01305746c",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "260a062e-ddff-410f-a17a-cc3241a5df47",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    }
+]
