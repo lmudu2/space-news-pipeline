@@ -1,0 +1,236 @@
+[
+    {
+        "id": 39889,
+        "title": "CubeSat for safer seas and cleaner orbits ready to launch",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/cubesat_for_safer_seas_and_cleaner_orbits_ready_to_launch/27459109-3-eng-GB/CubeSat_for_safer_seas_and_cleaner_orbits_ready_to_launch_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-09-10T11:40:00Z",
+        "updated_at": "2026-09-10T11:50:29.543266Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39888,
+        "title": "The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/the-exploration-company-books-ariane-6-flight-for-nyx-demo-mission/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/The-Exploration-Company-Books-Ariane-6-Flight-for-Nyx-Demo-Mission.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The Exploration Company has signed a contract with Arianespace to launch an initial demonstration mission of its Nyx cargo spacecraft to the International Space Station aboard an Ariane 6 rocket. While neither company has publicly announced the contract, the French Presidency published an official list of agreements alongside the International Space Summit being held in [\u2026]\nThe post The Exploration Company Books Ariane 6 Flight for Nyx Demo Mission appeared first on European Spaceflight.",
+        "published_at": "2026-09-10T10:55:55Z",
+        "updated_at": "2026-09-10T11:00:53.703383Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03571428571428571,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39884,
+        "title": "APOD: 2026 September 10 \u2013 LDN 1295: The Giraffe Nebula",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/LDN1295_giraffe.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 10 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. LDN 1295: The [\u2026]",
+        "published_at": "2026-09-10T04:05:00Z",
+        "updated_at": "2026-09-10T11:20:10.483788Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39885,
+        "title": "Dust Storm Sweeps Over Mali",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/dust-storm-sweeps-over-mali/malidust_tmo_20260905.jpg",
+        "news_site": "NASA",
+        "summary": "At a time of year when dust storm activity winds down, a plume of dust blanketed parts of the West African nation and its neighbors.",
+        "published_at": "2026-09-10T04:00:00Z",
+        "updated_at": "2026-09-10T11:19:13.352903Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.07777777777777779,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39883,
+        "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/01/20260116_NROL-105_F9_pad.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission, dubbed USSF-153 mission, will launch an undisclosed number of satellites for the U.S. Space Force. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a three-hour window that opens at 8:37 a.m. PDT (1137 a.m. EDT / 1537 UTC).",
+        "published_at": "2026-09-09T22:32:04Z",
+        "updated_at": "2026-09-10T11:19:19.410353Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.33181818181818185,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 39881,
+        "title": "As Europe flounders in space, a rising French star may show the way",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+        "published_at": "2026-09-09T20:27:40Z",
+        "updated_at": "2026-09-10T11:18:55.413721Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39882,
+        "title": "Flight 15 pairing undergo testing at Massey\u2019s",
+        "authors": [
+            {
+                "name": "Eleanor Day and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-09-21-05-05-614.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey\u2019s for\u2026\nThe post Flight 15 pairing undergo testing at Massey\u2019s appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-09T20:22:02Z",
+        "updated_at": "2026-09-09T20:30:30.800007Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12777777777777777,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39880,
+        "title": "NASA Adds Relativity Space\u2019s Terran R to Launch Services Contract",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "news_site": "NASA",
+        "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract\u2019s on-ramp provision. The Terran R launch service will be available to NASA\u2019s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts [\u2026]",
+        "published_at": "2026-09-09T20:11:58Z",
+        "updated_at": "2026-09-10T11:15:10.754013Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39879,
+        "title": "NASA\u2019s Chandra Unveils Mysterious X-Ray Objects",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m101.jpg",
+        "news_site": "NASA",
+        "summary": "Using NASA\u2019s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This [\u2026]",
+        "published_at": "2026-09-09T18:11:24Z",
+        "updated_at": "2026-09-10T11:14:52.918729Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "0a5d89b0-aa14-4140-b72d-fbcc8340b222",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.07824675324675325,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39878,
+        "title": "How 2 US, European Satellites Are Studying Hurricanes During El Ni\u00f1o",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
+        "image_url": "https://images-assets.nasa.gov/image/iss073e1044319/iss073e1044319~large.jpg",
+        "news_site": "NASA",
+        "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El [\u2026]",
+        "published_at": "2026-09-09T16:00:00Z",
+        "updated_at": "2026-09-10T11:14:46.583397Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "56623c2d-7174-489c-b0ed-bf6f039b2412",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "a5e8c7ff-f30d-488d-8ef3-b445cbd75fd3",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
