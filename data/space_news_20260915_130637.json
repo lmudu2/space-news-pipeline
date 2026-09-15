@@ -1,0 +1,242 @@
+[
+    {
+        "id": 39948,
+        "title": "This is by far the most peaceful Atlantic hurricane season we've ever seen",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e.jpeg",
+        "news_site": "Arstechnica",
+        "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+        "published_at": "2026-09-15T12:36:11Z",
+        "updated_at": "2026-09-15T12:40:12.146327Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39947,
+        "title": "Avio Launches Second Successful Vega C Flight of 2026",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-Launches-Second-Successful-Vega-C-Flight-of-2026-.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission\u2019s third Sentinel-3 Earth observation satellite and ESA\u2019s FLEX mission. The Vega-C rocket lifted off from the Guiana Space Centre at 01:21 UTC on 15 September. Following two burns of the rocket\u2019s AVUM+ upper stage, Sentinel-3C was deployed [\u2026]\r\nThe post Avio Launches Second Successful Vega C Flight of 2026 appeared first on European Spaceflight.",
+        "published_at": "2026-09-15T08:30:01Z",
+        "updated_at": "2026-09-15T09:27:56.823056Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19230769230769232,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39945,
+        "title": "FLEX and Sentinel-3C launch highlights",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/flex_and_sentinel-3c_launch_highlights/27518045-5-eng-GB/FLEX_and_Sentinel-3C_launch_highlights_card_full.png",
+        "news_site": "ESA",
+        "summary": "ESA\u2019s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe\u2019s Spaceport in French Guiana, marking a new milestone in Europe\u2019s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
+        "published_at": "2026-09-15T07:00:00Z",
+        "updated_at": "2026-09-15T09:28:02.198526Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39943,
+        "title": "Iceye\u2019s global presence expands to address sovereign demand",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSince raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic [\u2026]\nThe post Iceye\u2019s global presence expands to address sovereign demand appeared first on SpaceNews.",
+        "published_at": "2026-09-15T06:00:00Z",
+        "updated_at": "2026-09-15T06:00:53.924860Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.14722222222222223,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39946,
+        "title": "Relive the launch of FLEX and Sentinel-3C",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/Relive_the_launch_of_FLEX_and_Sentinel-3C",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/relive_the_launch_of_flex_and_sentinel-3c/27517955-7-eng-GB/Relive_the_launch_of_FLEX_and_Sentinel-3C_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Watch the full replay of the launch of ESA\u2019s state-of-the-art FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite. Both were launched together aboard a Vega-C rocket from Europe\u2019s Spaceport in French Guiana, marking a new milestone in Europe\u2019s Earth Observation Programmes. Flight VV30 lifted off on 15 September at 03:21 (14 September at 22:21 local time).",
+        "published_at": "2026-09-15T05:00:00Z",
+        "updated_at": "2026-09-15T09:28:09.351255Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.12159090909090908,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39942,
+        "title": "APOD: 2026 September 15 \u2013 A Daytime Eclipse: Moon Occults Venus",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/MoonVenus_Mariat_1410.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 15 \u2013 A\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime [\u2026]",
+        "published_at": "2026-09-15T04:05:00Z",
+        "updated_at": "2026-09-15T04:40:12.328509Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39941,
+        "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe\u2019s Spaceport in French Guiana happened at 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
+        "published_at": "2026-09-15T03:51:39Z",
+        "updated_at": "2026-09-15T09:28:15.843781Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39940,
+        "title": "FLEX and Sentinel-3C launched",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/vega-c_takes_flex_and_sentinel-3c_into_orbit/27517898-2-eng-GB/Vega-C_takes_FLEX_and_Sentinel-3C_into_orbit_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe\u2019s Spaceport in French Guiana, marking a new milestone in Europe\u2019s Earth Observation Programmes.",
+        "published_at": "2026-09-15T03:25:00Z",
+        "updated_at": "2026-09-15T09:28:26.526338Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39939,
+        "title": "State Department Launches Space Catalyst Partnership",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/state-department-launches-space-catalyst-partnership/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/09/Djibouti-Sept-14-26-300x265.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "During Secretary of State Marco Rubio\u2019s trip to Peru last week, the State Department announced a new Space Catalyst Partnership with Artemis Accords countries to expand commercial and civil space [\u2026]",
+        "published_at": "2026-09-15T02:00:03Z",
+        "updated_at": "2026-09-15T02:00:44.358583Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.04545454545454545,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39938,
+        "title": "Live coverage: Avio to launch spacecraft to monitor plant health and ocean conditions",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260914_Vega-C_fairing_opens_to_reveal_Sentinel-3C_and_FLEX.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe\u2019s Spaceport in French Guiana is scheduled for 10:21 p.m. local time (9:21 p.m. EDT / 0121 UTC / 3:21 a.m. CEST).",
+        "published_at": "2026-09-14T22:05:37Z",
+        "updated_at": "2026-09-15T09:28:40.888026Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.03409090909090909,
+        "sentiment_label": "Neutral"
+    }
+]
