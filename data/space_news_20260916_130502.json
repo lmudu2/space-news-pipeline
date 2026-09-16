@@ -1,0 +1,237 @@
+[
+    {
+        "id": 39964,
+        "title": "Avio CEO Reports Influx of Customers Turned Away by SpaceX",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Avio-CEO-Reports-Influx-of-Customers-Turned-Away-by-SpaceX.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Italian launch services provider Avio has seen an influx of customers who were unable to secure launch opportunities with SpaceX, according to CEO Giulio Ranzo. \u201cI can tell you SpaceX has already gone captive because we have a whole bunch of customers coming to us and saying, oh my God, can you fly us?\u201d Ranzo [\u2026]\nThe post Avio CEO Reports Influx of Customers Turned Away by SpaceX appeared first on European Spaceflight.",
+        "published_at": "2026-09-16T12:41:21Z",
+        "updated_at": "2026-09-16T12:50:18.915186Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16875,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39963,
+        "title": "Purple swirls on the Red Planet",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/raspberry_ripples_near_mars_s_south_pole/27522585-1-eng-GB/Raspberry_ripples_near_Mars_s_south_pole_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "This image shows a prominent ice cliff near Mars\u2019s south pole. With striking swirls of purple, pink and red, it\u2019s a far cry from the colour palette we usually associate with the Red Planet.",
+        "published_at": "2026-09-16T09:00:00Z",
+        "updated_at": "2026-09-16T09:50:25.753720Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.09444444444444446,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39962,
+        "title": "APOD: 2026 September 16 \u2013 Webb\u2019s View of M64",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 16 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble [\u2026]",
+        "published_at": "2026-09-16T04:05:00Z",
+        "updated_at": "2026-09-16T06:50:18.509391Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39961,
+        "title": "Progress MS-35 poised to launch cargo to ISS from Kazakhstan",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/progress-ms-35-launch/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+        "news_site": "NASASpaceflight",
+        "summary": "Following the departure of the Progress MS-33 cargo spacecraft from the International Space Station on\u2026\r\nThe post Progress MS-35 poised to launch cargo to ISS from Kazakhstan appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-16T02:05:15Z",
+        "updated_at": "2026-09-16T06:50:24.446729Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39960,
+        "title": "Starship to Attempt First Orbital Flight Next Week",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/08/Starship-with-dimensions-IFT10-276x300.png",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "SpaceX will attempt to put Starship into orbit for the first time next week pending regulatory approval. If all goes according to plan, Integrated Flight Test-14 or IFT-14 will orbit [\u2026]",
+        "published_at": "2026-09-16T01:09:54Z",
+        "updated_at": "2026-09-16T06:50:35.046386Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39959,
+        "title": "NASA Ames Stars of the Month: September 2026",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg",
+        "news_site": "NASA",
+        "summary": "NASA Ames Science Stars of the Month: September 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to [\u2026]",
+        "published_at": "2026-09-15T23:46:11Z",
+        "updated_at": "2026-09-15T23:50:16.714824Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19642857142857142,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 39958,
+        "title": "Live coverage: SpaceX to launch national security payload for the U.S. Space Force on Falcon 9 rocket from Vandenberg",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/09/15/live-coverage-spacex-to-launch-national-security-payload-for-the-u-s-space-force-on-falcon-9-rocket-from-vandenberg/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/09/20260915-USSF-259-on-Pad.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The rocket will carry an unspecified number of satellites to orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:18 p.m. PDT (10:18 p.m. EDT / 0218 UTC).",
+        "published_at": "2026-09-15T21:29:03Z",
+        "updated_at": "2026-09-16T06:51:37.552914Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "17c71937-dd80-406f-bb47-0c9ee9a24276",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.33181818181818185,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 39957,
+        "title": "Open Cosmos Raises \u20ac300 Million as Investors Back Europe\u2019s Space Push",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Open-Cosmos-Raises-300-Million-Euros-as-Investors-Back-Europes-Space-Push-.webp",
+        "news_site": "European Spaceflight",
+        "summary": "UK-based satellite maker Open Cosmos announced on 14 September that it had closed a \u20ac300 million funding round. The company said it would use the new funding to expand its manufacturing capacity and accelerate the deployment of its Earth observation and communications constellations. The \u20ac300 million raise represents the company\u2019s first major publicly announced funding [\u2026]\nThe post Open Cosmos Raises \u20ac300 Million as Investors Back Europe\u2019s Space Push appeared first on European Spaceflight.",
+        "published_at": "2026-09-15T20:20:00Z",
+        "updated_at": "2026-09-15T20:20:20.009125Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.030681818181818178,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39956,
+        "title": "NASA Invites Media to International Observe the Moon Night",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+        "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+        "news_site": "NASA",
+        "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA\u2019s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection [\u2026]",
+        "published_at": "2026-09-15T18:55:33Z",
+        "updated_at": "2026-09-15T19:00:14.767578Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.1,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 39955,
+        "title": "SpaceX sets launch date for first Starship orbital flight",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ.jpg",
+        "news_site": "Arstechnica",
+        "summary": "Reaching orbit would mark a significant milestone.",
+        "published_at": "2026-09-15T18:48:08Z",
+        "updated_at": "2026-09-16T06:50:41.042641Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3125,
+        "sentiment_label": "Positive"
+    }
+]
