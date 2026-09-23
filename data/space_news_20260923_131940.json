@@ -1,0 +1,247 @@
+[
+    {
+        "id": 40053,
+        "title": "First switch on for ESA-JAXA Ramses asteroid mission",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/first_switch-on_of_the_ramses_spacecraft/27537289-1-eng-GB/First_switch-on_of_the_Ramses_spacecraft_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s and Japan Aerospace Exploration Agency\u2019s Ramses planetary defence spacecraft has been turned on for the first time by its prime contractor \u2013 marking a major milestone in its time-critical development schedule.",
+        "published_at": "2026-09-23T11:17:00Z",
+        "updated_at": "2026-09-23T12:26:08.985446Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "71b006aa-0d41-49fb-b0bf-dc30b10ef528",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.140625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40052,
+        "title": "There are now 17,000 satellites in orbit\u2014and growing. Should we be concerned?",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
+        "published_at": "2026-09-23T11:00:17Z",
+        "updated_at": "2026-09-23T11:10:15.712068Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21428571428571427,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40051,
+        "title": "A hitchhiker\u2019s guide to Hera\u2019s target asteroids",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/an_imaginary_astronaut_s_view_of_the_didymos_and_dimorphos_asteroids/27530597-2-eng-GB/An_imaginary_astronaut_s_view_of_the_Didymos_and_Dimorphos_asteroids_card_full.png",
+        "news_site": "ESA",
+        "summary": "Currently speeding through deep space at 12 km/s relative to Earth, ESA\u2019s Hera spacecraft is due to reach its target Dimorphos asteroid this November. But if an astronaut were magically teleported onto the small-car-sized Hera upon arrival, what would they be seeing, and what would it feel like to walk on the asteroid\u2019s surface?",
+        "published_at": "2026-09-23T08:10:00Z",
+        "updated_at": "2026-09-23T12:26:45.051981Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40050,
+        "title": "Rocket Factory Augsburg \u2018Boost!\u2019 extension in run-up to first launch",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Rocket_Factory_Augsburg_Boost!_extension_in_run-up_to_first_launch",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/11/rfa_one_rocket/25184937-1-eng-GB/RFA_One_rocket_card_full.png",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-09-23T08:00:00Z",
+        "updated_at": "2026-09-23T12:27:31.779204Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40049,
+        "title": "Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/italy-to-spend-over-5-billion-to-send-two-astronauts-to-the-moon/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/Italy-to-Spend-Over-5-Billion-Dollars-to-Send-Two-Astronauts-to-the-Moon.webp",
+        "news_site": "European Spaceflight",
+        "summary": "According to NASA Administrator Jared Isaacman, Italy has committed more than $5 billion to the development of a lunar habitat for the agency\u2019s Moon Base programme. In return, the country has secured spots for two Italian astronauts on future missions to the surface of the Moon. Speaking during the Air & Space Forces Association\u2019s Air, [\u2026]\nThe post Italy to Spend Over $5 Billion to Send Two Astronauts to the Moon appeared first on European Spaceflight.",
+        "published_at": "2026-09-23T07:27:14Z",
+        "updated_at": "2026-09-23T07:30:31.678703Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.00833333333333334,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40047,
+        "title": "APOD: 2026 September 23 \u2013 A New Lunar Crater: McGetchin",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 23 \u2013 A\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. AfterBefore A [\u2026]",
+        "published_at": "2026-09-23T04:05:00Z",
+        "updated_at": "2026-09-23T06:06:03.362164Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d8d10fbf-b900-40c7-95ef-fb2f07489f6f",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19409090909090906,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40048,
+        "title": "Boom Year for Desert Blooms",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
+        "news_site": "NASA",
+        "summary": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
+        "published_at": "2026-09-23T04:01:00Z",
+        "updated_at": "2026-09-23T06:05:56.261501Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40046,
+        "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
+        "authors": [
+            {
+                "name": "Bastiaan Vellekoop and Chris Bergin",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/09/NSF-2026-09-23-03-24-32-721-wmarked.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the\u2026\r\nThe post Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40 appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-23T02:42:12Z",
+        "updated_at": "2026-09-23T06:06:22.753318Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40045,
+        "title": "Curiosity Blog, Sols 5010-5015: Checking out the Bands",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05014_opgs_edr_ncam_NRB_842619188EDR_S1250000NCAM00259M_.jpg",
+        "news_site": "NASA",
+        "summary": "Catherine O\u2019Connell-Cooper, APXS Strategic Planner and Payload Uplink/Downlink Lead, University New Brunswick, NB, Canada Earth planning date: Friday, Sept. 11, 2026 This week we had two planning days (Tuesday and Friday), as Monday was Labor Day in North America, where many of the Curiosity team are based. Labor Day (the first Monday in September) marks [\u2026]",
+        "published_at": "2026-09-23T00:40:16Z",
+        "updated_at": "2026-09-23T06:05:23.680898Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.29545454545454547,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40042,
+        "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS) events, venous thromboembolism (VTE) in-flight occurrences, and patent foramen ovale (PFO) implication as they relate to NASA\u2019s Artemis (lunar and beyond) missions. The recommendations from this working group are built upon and integrate the outcomes of previous working groups hosted by OCHMO.",
+        "published_at": "2026-09-22T19:19:45Z",
+        "updated_at": "2026-09-22T19:20:15.082477Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06666666666666668,
+        "sentiment_label": "Neutral"
+    }
+]
