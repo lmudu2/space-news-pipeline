@@ -1,0 +1,239 @@
+[
+    {
+        "id": 40167,
+        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+        "authors": [
+            {
+                "name": "Quantum Space",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/quantum-space-logo-square.png?fit=1024%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nROCKVILLE, Md. and MERRITT ISLAND, Fla. \u2014 September 30, 2026 \u2014 Quantum Space, LLC (the \u201cCompany\u201d or \u201cQuantum Space\u201d), a company developing the next generation of advanced maneuverable spacecraft for [\u2026]\nThe post Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission appeared first on SpaceNews.",
+        "published_at": "2026-09-30T13:00:00Z",
+        "updated_at": "2026-09-30T13:10:35.214137Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.21666666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40166,
+        "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/09/ESA-Selects-Airbus-and-OHB-to-Lead-European-Space-Station-Studies.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial and institutional partners will be involved in [\u2026]\nThe post ESA Selects Airbus and OHB to Lead European Space Station Studies appeared first on European Spaceflight.",
+        "published_at": "2026-09-30T10:10:12Z",
+        "updated_at": "2026-09-30T10:10:24.237978Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03125,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40165,
+        "title": "Science begins for Smile",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png",
+        "news_site": "ESA",
+        "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
+        "published_at": "2026-09-30T07:05:00Z",
+        "updated_at": "2026-09-30T08:01:47.301446Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.225,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40163,
+        "title": "APOD: 2026 September 30 \u2013 Arp 78: Peculiar Galaxy in Aries",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 30 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar [\u2026]",
+        "published_at": "2026-09-30T04:05:00Z",
+        "updated_at": "2026-09-30T04:40:13.169577Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40164,
+        "title": "Powerful Storms Continue to Prowl the Pacific",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg",
+        "news_site": "NASA",
+        "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+        "published_at": "2026-09-30T04:01:00Z",
+        "updated_at": "2026-09-30T08:02:18.825639Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d8dd15a0-166e-4a97-b8a0-b8289bf5f500",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.10833333333333334,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40162,
+        "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/08/Gy7aFPMXMAAkg8X.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Four orbital launches are expected this week, all by SpaceX\u2019s Falcon 9 and Falcon Heavy\u2026\r\nThe post Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-09-29T21:48:36Z",
+        "updated_at": "2026-09-30T08:20:10.184325Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "67213393-7983-4c06-8b44-b8c785a5ed79",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.0625,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40161,
+        "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and [\u2026]",
+        "published_at": "2026-09-29T21:27:56Z",
+        "updated_at": "2026-09-29T21:30:22.778959Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.014285714285714282,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40159,
+        "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+        "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+        "news_site": "NASA",
+        "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support [\u2026]",
+        "published_at": "2026-09-29T21:00:00Z",
+        "updated_at": "2026-09-29T21:00:17.074143Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.2,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40160,
+        "title": "NASA Features Exploration, Science at International Space Conference",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg",
+        "news_site": "NASA",
+        "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, T\u00fcrkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America\u2019s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.\u00a0 The IAC, organized by the International Astronautical [\u2026]",
+        "published_at": "2026-09-29T20:55:24Z",
+        "updated_at": "2026-09-29T21:00:17.129953Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40158,
+        "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+        "authors": [
+            {
+                "name": "Novaspace",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nParis, France | September 2026 \u2014 Novaspace\u2019s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues [\u2026]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035 appeared first on SpaceNews.",
+        "published_at": "2026-09-29T20:32:07Z",
+        "updated_at": "2026-09-29T20:40:35.130843Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    }
+]
