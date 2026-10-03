@@ -1,0 +1,227 @@
+[
+    {
+        "id": 40227,
+        "title": "APOD: 2026 October 3 \u2013 Selfie at Vera Rubin Ridge",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Sol1943CuriosityBodrov.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 3 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Selfie at Vera [\u2026]",
+        "published_at": "2026-10-03T04:05:00Z",
+        "updated_at": "2026-10-03T04:50:15.084841Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40226,
+        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg",
+        "news_site": "NASA",
+        "summary": "As part of NASA\u2019s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America\u2019s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an explorer and engineer who spent a total of 338 days in [\u2026]",
+        "published_at": "2026-10-02T19:54:54Z",
+        "updated_at": "2026-10-02T20:00:41.094060Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.16666666666666666,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40225,
+        "title": "Heading Home: NASA\u2019s SpaceX Crew-12 Concludes Station Science Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that benefits life on Earth and prepares humans for missions [\u2026]",
+        "published_at": "2026-10-02T19:30:00Z",
+        "updated_at": "2026-10-03T05:50:19.106394Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1524,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.0875,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40224,
+        "title": "NASA\u2019s DAVINCI Probe Can Stand the Heat",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg",
+        "news_site": "NASA",
+        "summary": "The engineering development unit for NASA\u2019s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the temperature to 869 F, or 465 C, over the course [\u2026]",
+        "published_at": "2026-10-02T19:00:36Z",
+        "updated_at": "2026-10-03T05:56:08.490076Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.165625,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40222,
+        "title": "US military ends long-running program to spot nuclear missile launches",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011.jpeg",
+        "news_site": "Arstechnica",
+        "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+        "published_at": "2026-10-02T17:32:14Z",
+        "updated_at": "2026-10-02T17:40:12.430641Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40223,
+        "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+        "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/20260826-175244.jpg",
+        "news_site": "NASA",
+        "summary": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what\u2019s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA\u2019s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign spent weeks this summer hunting across [\u2026]",
+        "published_at": "2026-10-02T16:34:57Z",
+        "updated_at": "2026-10-02T17:40:14.347438Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40220,
+        "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/bscw-side-by-side-image.jpg",
+        "news_site": "NASA",
+        "summary": "Groundbreaking tests at NASA\u2019s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future.\u00a0 In a first-of-its-kind test in NASA Langley\u2019s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study how air flows around a standard wind tunnel model known [\u2026]",
+        "published_at": "2026-10-02T16:10:55Z",
+        "updated_at": "2026-10-02T16:20:07.040628Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.06948051948051948,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40219,
+        "title": "Analysis: Despite Ambiguous Wording, Moon Base\u2019s \u201cPerimeter\u201d Likely Complies With International Law",
+        "authors": [
+            {
+                "name": "Matthew Sparks",
+                "socials": null
+            }
+        ],
+        "url": "https://www.spacescout.info/2026/10/despite-ambiguous-wording-moon-bases-perimeter-likely-complies-with-international-law/",
+        "image_url": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-1.png",
+        "news_site": "Space Scout",
+        "summary": "NASA should strive for clarity as to its exact intentions as it seeks to establish positive norms for lunar surface usage.",
+        "published_at": "2026-10-02T16:02:43Z",
+        "updated_at": "2026-10-02T16:10:30.329153Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06454545454545454,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40217,
+        "title": "NASA Opens Applications for Next Class of Flight Directors",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency\u2019s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon. Applications for [\u2026]",
+        "published_at": "2026-10-02T15:49:26Z",
+        "updated_at": "2026-10-02T15:50:11.206954Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05714285714285715,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40216,
+        "title": "Portugal\u2019s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/portugals-omnidea-acquires-orbex-assets-plans-primeneo-rocket/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Portugals-Omnidea-Acquires-Orbex-Assets-Plans-PrimeNEO-Rocket.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Portuguese space technology group Omnidea has acquired most of Orbex\u2019s intellectual property and UK assets after the rocket builder collapsed into administration in February. Omnidea plans to develop an evolution of Orbex\u2019s small launch vehicle called PrimeNEO. Omnidea completed the acquisition of Orbex\u2019s UK manufacturing assets, intellectual property and brand on 30 September. The company [\u2026]\r\nThe post Portugal\u2019s Omnidea Acquires Orbex Assets, Plans PrimeNEO Rocket appeared first on European Spaceflight.",
+        "published_at": "2026-10-02T15:19:37Z",
+        "updated_at": "2026-10-03T05:54:55.347621Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "1b11f81e-cdbf-49aa-a7ce-aa79f609046c",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.18333333333333335,
+        "sentiment_label": "Positive"
+    }
+]
