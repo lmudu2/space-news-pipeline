@@ -1,0 +1,236 @@
+[
+    {
+        "id": 40280,
+        "title": "Mars\u2019s oddest cloud may be even odder than we thought",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
+        "news_site": "ESA",
+        "summary": "Scientists using the European Space Agency's Mars Express,\u00a0in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars\u2019s most curious cloud.",
+        "published_at": "2026-10-07T15:00:00Z",
+        "updated_at": "2026-10-07T15:00:50.125487Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10833333333333334,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40279,
+        "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
+        "authors": [
+            {
+                "name": "SpaceNews Editor",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2025-icon-awards-Purdy.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMeet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews.",
+        "published_at": "2026-10-07T14:18:18Z",
+        "updated_at": "2026-10-07T14:20:20.747952Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40277,
+        "title": "Brake! Time for ESA\u2019s Hera asteroid mission to go slow",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_braking/27560778-2-eng-GB/Hera_braking_card_full.gif",
+        "news_site": "ESA",
+        "summary": "Launched two years ago today, the European Space Agency\u2019s Hera mission for planetary defence has been hurtling away from Earth ever since. The small-car-sized spacecraft is now preparing for its single most challenging activity since lift-off: the sustained braking manoeuvres to slow it down to approach its target asteroids.",
+        "published_at": "2026-10-07T12:33:00Z",
+        "updated_at": "2026-10-07T12:40:14.691710Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.024716553287981845,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40276,
+        "title": "The Incredible Adventures of the Hera mission \u2013 The space detectives arrive",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/the_incredible_adventures_of_the_hera_mission_the_space_detectives_arrive/27561209-1-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_The_space_detectives_arrive_card_full.png",
+        "news_site": "ESA",
+        "summary": "Meet\u00a0Hera, our very own asteroid detective. Together with two CubeSats \u2013 Milani the rock decoder and Juventas the radar visionary \u2013 Hera is off on an adventure to explore Didymos, a double asteroid system that is typical of the thousands that pose an impact risk to planet Earth.",
+        "published_at": "2026-10-07T12:00:00Z",
+        "updated_at": "2026-10-07T12:20:26.650163Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.37833333333333335,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40275,
+        "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ArianeGroup-Completes-Second-Themis-Wet-Dress-Rehearsal.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The European Space Agency announced that ArianeGroup and Swedish Space Corporation completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with the first wet dress rehearsal, [\u2026]\r\nThe post ArianeGroup Completes Second Themis Wet Dress Rehearsal appeared first on European Spaceflight.",
+        "published_at": "2026-10-07T08:21:45Z",
+        "updated_at": "2026-10-07T11:59:31.180888Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.05000000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40278,
+        "title": "Finding Hera\u2019s way: ESA\u2019s Flight Dynamics team into action",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Space_Safety/Hera/Finding_Hera_s_way_ESA_s_Flight_Dynamics_team_into_action",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/01/hera_approaching_didymos_asteroids/24679985-1-eng-GB/Hera_approaching_Didymos_asteroids_card_full.gif",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s Hera planetary defence mission team is preparing to light a fire in the sky. On the early morning of 15 October the small-car-sized spacecraft will burn its Orbit Control Thrusters in the direction of its target asteroid system for a total of 93 minutes continuously. This braking manoeuvre will bring it near to matching the orbital velocity of the Didymos binary asteroids.",
+        "published_at": "2026-10-07T08:03:00Z",
+        "updated_at": "2026-10-07T12:40:15.010887Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.11666666666666665,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40274,
+        "title": "When the Sun turns black",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/When_the_Sun_turns_black",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/when_the_sun_turns_black/27556841-1-eng-GB/When_the_Sun_turns_black_card_full.png",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-10-07T08:00:00Z",
+        "updated_at": "2026-10-07T12:05:26.253760Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.16666666666666666,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40273,
+        "title": "APOD: 2026 October 7 \u2013 Supernova Remnant Pa 30",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 7 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Supernova Remnant Pa [\u2026]",
+        "published_at": "2026-10-07T04:05:00Z",
+        "updated_at": "2026-10-07T04:50:15.085471Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40272,
+        "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg",
+        "news_site": "NASA",
+        "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+        "published_at": "2026-10-07T04:00:00Z",
+        "updated_at": "2026-10-07T04:40:17.368654Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.16666666666666666,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40271,
+        "title": "Crew-12 set to depart the ISS after eighth months in orbit",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/55490081853_fc3faab619_5k-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "After eight months aboard the International Space Station, NASA and SpaceX\u2019s Crew-12 mission is scheduled\u2026\r\nThe post Crew-12 set to depart the ISS after eighth months in orbit appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-10-06T23:43:49Z",
+        "updated_at": "2026-10-07T12:03:49.330099Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1524,
+                "provider": "Launch Library 2"
+            },
+            {
+                "event_id": 1559,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": 0.125,
+        "sentiment_label": "Positive"
+    }
+]
