@@ -1,0 +1,252 @@
+[
+    {
+        "id": 40319,
+        "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
+        "authors": [
+            {
+                "name": "Ryan Weber",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Ship40-4-2-wmarked-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Ship 42 for Flight 15 has headed back out to Massey\u2019s for more cryo-proof testing\u2026\nThe post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-10-09T14:36:44Z",
+        "updated_at": "2026-10-09T14:40:25.529525Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.35,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40317,
+        "title": "Cosmic House of Mirrors",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+        "news_site": "NASA",
+        "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA\u2019s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually [\u2026]",
+        "published_at": "2026-10-09T13:57:24Z",
+        "updated_at": "2026-10-09T14:00:37.538793Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.3,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40316,
+        "title": "Italy Explores Building an Artificial Gravity Research Platform in Orbit",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/italy-explores-building-an-artificial-gravity-research-platform-in-orbit/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Italy-Explores-Building-Artificial-Gravity-Research-Platform-in-Orbit-.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The Italian Space Agency (ASI) is exploring the development of a dedicated orbital platform capable of generating artificial gravity to support scientific research and technology development. ASI announced the initiative on 8 October and expects to open a consultation with the scientific and technological community later this month to gather research requirements, ideas and potential [\u2026]\nThe post Italy Explores Building an Artificial Gravity Research Platform in Orbit appeared first on European Spaceflight.",
+        "published_at": "2026-10-09T13:46:21Z",
+        "updated_at": "2026-10-09T13:50:16.282688Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.135,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40315,
+        "title": "Week in images: 05-09 October 2026",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Week in images: 05-09 October 2026",
+        "published_at": "2026-10-09T13:15:00Z",
+        "updated_at": "2026-10-09T13:10:12.180587Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40314,
+        "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1776275319.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"I can say we\u2019re weeks away from launching on Vulcan.\"",
+        "published_at": "2026-10-09T11:00:57Z",
+        "updated_at": "2026-10-09T13:29:58.263952Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c25fe23e-85e2-4e3a-87fc-ef53b96d0ec0",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "e0741415-6c63-4236-9736-24a6c04485bc",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40318,
+        "title": "Farewell to the Fluid Science Laboratory after 18 years in orbit",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Farewell_to_the_Fluid_Science_Laboratory_after_18_years_in_orbit",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/installing_pasta-3_in_fsl/27567798-1-eng-GB/Installing_PASTA-3_in_FSL_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "On 9 October, astronauts on the International Space Station begin supporting the final decommissioning of ESA's Fluid Science Laboratory (FSL), one of the longest-serving scientific facilities inside Europe's Columbus laboratory.",
+        "published_at": "2026-10-09T10:00:00Z",
+        "updated_at": "2026-10-09T14:00:48.236232Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40313,
+        "title": "Earth from Space: Namibia\u2019s biggest salt pan",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_namibia_s_biggest_salt_pan/27564541-1-eng-GB/Earth_from_Space_Namibia_s_biggest_salt_pan_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-10-09T08:00:00Z",
+        "updated_at": "2026-10-09T13:28:01.016025Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40311,
+        "title": "APOD: 2026 October 9 \u2013 Stickney Crater",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 9\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney [\u2026]",
+        "published_at": "2026-10-09T04:05:00Z",
+        "updated_at": "2026-10-09T06:40:17.573273Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "d23062f3-86d7-4b99-80f1-4c31cb07fcc0",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40312,
+        "title": "Floodwaters Overwhelm Thailand",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
+        "news_site": "NASA",
+        "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+        "published_at": "2026-10-09T04:01:00Z",
+        "updated_at": "2026-10-09T06:24:57.985839Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.2,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40310,
+        "title": "Crew-12 Back on Earth as ISS Keeps Busy",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/crew-12-back-on-earth-as-iss-keeps-busy/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Crew12-splashdown-Keegan-300x200.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "NASA\u2019s Crew-12 mission splashed down in the Pacific Ocean off the coast of California this morning, bringing the 237-day mission to an end. Their replacements on Crew-13 arrived a week [\u2026]",
+        "published_at": "2026-10-08T23:04:00Z",
+        "updated_at": "2026-10-09T06:24:38.320879Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1559,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.018518518518518528,
+        "sentiment_label": "Neutral"
+    }
+]
