@@ -1,0 +1,128 @@
+[
+    {
+        "id": 40340,
+        "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/sophie_is_back_in_europe2/27568712-2-eng-GB/Sophie_is_back_in_Europe_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "ESA astronaut Sophie Adenot has arrived back in Europe, landing in Cologne, Germany, following her return to Earth with Crew-12 after 237 days, nearly eight months, aboard the International Space Station for her \u03b5psilon mission.",
+        "published_at": "2026-10-10T09:01:00Z",
+        "updated_at": "2026-10-10T10:40:18.220078Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.05833333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40339,
+        "title": "APOD: 2026 October 10 \u2013 Lunar Farside",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 10\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally [\u2026]",
+        "published_at": "2026-10-10T04:05:00Z",
+        "updated_at": "2026-10-10T04:50:06.527537Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40338,
+        "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
+        "authors": [
+            {
+                "name": "Spaceflight Now",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261009-SDA-Fairing.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency\u2019s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC). ",
+        "published_at": "2026-10-09T21:41:30Z",
+        "updated_at": "2026-10-09T21:50:28.448265Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.8,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40337,
+        "title": "NASA issues long-awaited call to industry for private space stations",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"We\u2019ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+        "published_at": "2026-10-09T21:34:09Z",
+        "updated_at": "2026-10-09T21:40:09.588614Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.03333333333333334,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40321,
+        "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. \u201cIn alignment with the President\u2019s National [\u2026]",
+        "published_at": "2026-10-09T18:11:44Z",
+        "updated_at": "2026-10-09T18:20:13.800213Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40320,
+        "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
+        "news_site": "NASA",
+        "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to [\u2026]",
+        "published_at": "2026-10-09T16:59:24Z",
+        "updated_at": "2026-10-09T17:00:08.926355Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10999999999999999,
+        "sentiment_label": "Positive"
+    }
+]
