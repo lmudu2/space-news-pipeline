@@ -1,0 +1,44 @@
+[
+    {
+        "id": 40342,
+        "title": "APOD: 2026 October 11 \u2013 Ice Fishing for Cosmic Neutrinos",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 11 \u2013 Ice\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Ice Fishing [\u2026]",
+        "published_at": "2026-10-11T04:05:00Z",
+        "updated_at": "2026-10-11T04:40:08.388679Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40341,
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+        "news_site": "NASA",
+        "summary": "As part of the agency\u2019s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency\u2019s Experience Zone, located at the [\u2026]",
+        "published_at": "2026-10-10T14:18:59Z",
+        "updated_at": "2026-10-10T14:20:10.457357Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.04242424242424244,
+        "sentiment_label": "Neutral"
+    }
+]
