@@ -1,0 +1,236 @@
+[
+    {
+        "id": 40354,
+        "title": "Welcome home, Sophie Adenot",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Welcome_home_Sophie_Adenot",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/welcome_home_sophie_adenot/27571908-1-eng-GB/Welcome_home_Sophie_Adenot_card_full.png",
+        "news_site": "ESA",
+        "summary": "After 237 days and over 3,700 orbits around Earth aboard the International Space Station, Sophie Adenot is back on Earth!",
+        "published_at": "2026-10-12T13:00:00Z",
+        "updated_at": "2026-10-12T14:10:18.126770Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.26666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40353,
+        "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+        "authors": [
+            {
+                "name": "Jena-Optronik",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nMDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik\u2019s ASTRO HP star sensor on a LEO mission. This milestone underscores [\u2026]\nThe post Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission. appeared first on SpaceNews.",
+        "published_at": "2026-10-12T13:00:00Z",
+        "updated_at": "2026-10-12T13:01:08.536855Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.39166666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40350,
+        "title": "ExoMars rover twin rehearses first drive",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_rover_rolls_down_the_ramp/27567393-1-eng-GB/Mars_rover_rolls_down_the_ramp_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Before the Rosalind Franklin rover can explore Mars, it must first get off its lander.",
+        "published_at": "2026-10-12T09:30:00Z",
+        "updated_at": "2026-10-12T12:03:37.831677Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40349,
+        "title": "Preparing for a first drive on Mars",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Preparing_for_a_first_drive_on_Mars",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/preparing_for_a_first_drive_on_mars/27569566-1-eng-GB/Preparing_for_a_first_drive_on_Mars_card_full.png",
+        "news_site": "ESA",
+        "summary": "Before Rosalind Franklin can explore Mars, it has to get off its\u00a0lander.",
+        "published_at": "2026-10-12T09:00:00Z",
+        "updated_at": "2026-10-12T12:04:24.433419Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.25,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40348,
+        "title": "Rolling onto Mars - testing a rover\u2019s lander",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Rolling_onto_Mars_-_testing_a_rover_s_lander",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/rolling_onto_mars_-_testing_a_rover_s_lander/27569566-1-eng-GB/Rolling_onto_Mars_-_testing_a_rover_s_lander_card_full.png",
+        "news_site": "ESA",
+        "summary": "Before Rosalind Franklin can explore Mars, it has to get off its\u00a0lander.",
+        "published_at": "2026-10-12T09:00:00Z",
+        "updated_at": "2026-10-12T09:48:32.980327Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "26881916-98e7-40bc-954c-88ad6ac7a050",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40351,
+        "title": "NovaMoon mission patch",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/NovaMoon_mission_patch",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
+        "news_site": "ESA",
+        "summary": "From the ESA Blogs.",
+        "published_at": "2026-10-12T07:38:00Z",
+        "updated_at": "2026-10-12T12:50:18.839971Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40352,
+        "title": "Introducing NovaMoon",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Introducing_NovaMoon",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/novamoon_mission_patch/27569359-1-eng-GB/NovaMoon_mission_patch_card_full.png",
+        "news_site": "ESA",
+        "summary": "The European Space Agency\u2019s (ESA) NovaMoon mission will improve positioning, navigation and timing (PNT) services on the Moon. It will help rovers, landers and astronauts navigate on the Moon like cars, planes and pedestrians navigate on Earth.\u00a0",
+        "published_at": "2026-10-12T07:11:00Z",
+        "updated_at": "2026-10-12T12:50:18.854986Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40347,
+        "title": "APOD: 2026 October 12 \u2013 Jupiter and the Moons",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 12 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the [\u2026]",
+        "published_at": "2026-10-12T04:05:00Z",
+        "updated_at": "2026-10-12T06:15:01.226037Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40346,
+        "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/antarctic-sea-ice-grows-to-its-2026-maximum/antarctic_nsidc_20260914.jpg",
+        "news_site": "NASA",
+        "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+        "published_at": "2026-10-12T04:00:00Z",
+        "updated_at": "2026-10-12T06:15:09.958295Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40345,
+        "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
+        "authors": [
+            {
+                "name": "Haygen Warren",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/webbhubble1026-scaled.jpg",
+        "news_site": "NASASpaceflight",
+        "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope \u2014 both jointly\u2026\r\nThe post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-10-11T21:47:31Z",
+        "updated_at": "2026-10-12T06:14:32.633426Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+                "provider": "Launch Library 2"
+            },
+            {
+                "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.20454545454545453,
+        "sentiment_label": "Positive"
+    }
+]
