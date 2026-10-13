@@ -1,0 +1,242 @@
+[
+    {
+        "id": 40367,
+        "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+        "news_site": "NASA",
+        "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA\u2019s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity [\u2026]",
+        "published_at": "2026-10-13T15:02:21Z",
+        "updated_at": "2026-10-13T15:10:10.096553Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08000000000000003,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40366,
+        "title": "SpaceX launches NASA science and cargo to the International Space Station",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/10/13/spacex-launches-nasa-science-and-cargo-to-the-international-space-station/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261013_CRS-35_MC-1.jpeg",
+        "news_site": "Spaceflight Now",
+        "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA. ",
+        "published_at": "2026-10-13T14:07:50Z",
+        "updated_at": "2026-10-13T14:10:34.159779Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40365,
+        "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg",
+        "news_site": "NASA",
+        "summary": "A commercial lander that will be at the forefront of NASA\u2019s efforts to establish a Moon Base, humanity\u2019s first lunar outpost, has passed a series of critical tests at the agency\u2019s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting [\u2026]",
+        "published_at": "2026-10-13T13:00:00Z",
+        "updated_at": "2026-10-13T13:00:19.793436Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06041666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40364,
+        "title": "Mars moon lander set to launch on 19 October",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+        "news_site": "ESA",
+        "summary": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars\u2019s moon Phobos and bring it back to Earth.",
+        "published_at": "2026-10-13T12:00:00Z",
+        "updated_at": "2026-10-13T13:06:48.500854Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.049999999999999996,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40363,
+        "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will [\u2026]",
+        "published_at": "2026-10-13T11:12:18Z",
+        "updated_at": "2026-10-13T13:07:09.520340Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.15833333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40362,
+        "title": "Press conference: ESA astronaut Sophie Adenot returns to Europe",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/press_conference_esa_astronaut_sophie_adenot_returns_to_europe/27575398-1-eng-GB/Press_conference_ESA_astronaut_Sophie_Adenot_returns_to_Europe_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "ESA astronaut Sophie Adenot has returned to Europe following her 237-day \u03b5psilon mission aboard the International Space Station. A press conference with Sophie and Director of Human and Robotic Exploration Daniel Neuenschwander took place on 13 October 2026 at 11:00 CEST in Cologne, Germany.",
+        "published_at": "2026-10-13T10:20:00Z",
+        "updated_at": "2026-10-13T13:05:47.416697Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [
+            {
+                "event_id": 1559,
+                "provider": "Launch Library 2"
+            }
+        ],
+        "sentiment_score": -0.025,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40361,
+        "title": "Norway Details Funding Allocation for Second And\u00f8ya Launch Pad",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/norway-details-funding-allocation-for-second-andoya-launch-pad/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/10/Norway-Details-Funding-Allocation-for-Second-Andoya-Launch-Pad-.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The Norwegian government has detailed plans to finance a second orbital launch pad at And\u00f8ya Spaceport, an initiative the country\u2019s Minister of Trade and Industry first announced on 30 September. In its proposed state budget, published on 7 October, the government allocated NOK 323.3 million (\u20ac30 million) towards the project in 2027. NOK 223.5 million [\u2026]\nThe post Norway Details Funding Allocation for Second And\u00f8ya Launch Pad appeared first on European Spaceflight.",
+        "published_at": "2026-10-13T06:32:20Z",
+        "updated_at": "2026-10-13T06:40:13.211324Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.1125,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40360,
+        "title": "APOD: 2026 October 13 \u2013 Desert Stairway to Heaven",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 13 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway [\u2026]",
+        "published_at": "2026-10-13T04:05:00Z",
+        "updated_at": "2026-10-13T04:50:15.209849Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40359,
+        "title": "An Impact Structure With Legs",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-impact-structure-with-legs/aus_spidercrater_oli2_20260920.jpg",
+        "news_site": "NASA",
+        "summary": "If the thought of extraterrestrial objects crashing into Earth weren\u2019t creepy enough, behold Australia\u2019s Spider Crater.",
+        "published_at": "2026-10-13T04:01:00Z",
+        "updated_at": "2026-10-13T09:28:41.606066Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.25,
+        "sentiment_label": "Negative"
+    },
+    {
+        "id": 40358,
+        "title": "Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261012-F9-CRS-Sunset.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
+        "published_at": "2026-10-13T01:19:30Z",
+        "updated_at": "2026-10-13T09:28:17.474259Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0909090909090909,
+        "sentiment_label": "Neutral"
+    }
+]
