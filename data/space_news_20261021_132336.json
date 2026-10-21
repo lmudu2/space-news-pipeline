@@ -1,0 +1,222 @@
+[
+    {
+        "id": 40508,
+        "title": "NASA\u2019s CASALS Instrument Bridges Gaps in 3D Maps of Earth\u2019s Surface",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+        "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+        "news_site": "NASA",
+        "summary": "From orbit, today\u2019s space-based laser instruments measure Earth\u2019s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA\u2019s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively \u2018sweep\u2019 large swaths of Earth\u2019s surface. This [\u2026]",
+        "published_at": "2026-10-21T12:17:58Z",
+        "updated_at": "2026-10-21T12:40:22.360587Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.008928571428571432,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40507,
+        "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+        "authors": [
+            {
+                "name": "Debra Werner",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_nasa_solstar_momentus_iridium_proximity_operation_render_no_logos.png?fit=879%2C494&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nSAN FRANCISCO \u2013 Wi-Fi technology from Solstar Space connected NASA\u2019s R5-S10 cubesat with Momentus\u2019 Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA\u2019s Johnson Space Center, Solstar [\u2026]\nThe post Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration appeared first on SpaceNews.",
+        "published_at": "2026-10-21T12:00:00Z",
+        "updated_at": "2026-10-21T12:10:21.635293Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.075,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40506,
+        "title": "Summer of Quantum: Building momentum for space-based QKD",
+        "authors": [
+            {
+                "name": "Ben Young",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/White-CPL-Logo11.png?fit=1024%2C1024&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nGlasgow, UK | 21 October 2026 \u2013 The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been [\u2026]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
+        "published_at": "2026-10-21T11:54:30Z",
+        "updated_at": "2026-10-21T12:00:47.647107Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.06666666666666667,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40504,
+        "title": "Finding Our Way: Inside the Galileo Project: 2 - The people behind the signal",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_2_-_the_people_behind_the_signal/27585629-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_2_-_The_people_behind_the_signal_card_full.png",
+        "news_site": "ESA",
+        "summary": "At its heart, Galileo is a story about people: engineers, operators and programme leaders working across Europe, united by a shared mission to strengthen Europe\u2019s technological sovereignty while delivering a secure, resilient signal that supports safety, innovation and economic growth across the globe. Finding Our Way: Inside the Galileo Project celebrates the unseen work behind the signal that guides us forward.",
+        "published_at": "2026-10-21T08:04:00Z",
+        "updated_at": "2026-10-21T08:50:21.921363Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.05,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40503,
+        "title": "Finding Our Way: Inside the Galileo Project: 1 \u2013 A European vision",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_1_a_european_vision/27585539-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_1_A_European_vision_card_full.png",
+        "news_site": "ESA",
+        "summary": "It started with a bold idea: Europe should find its own way. Finding Our Way: Inside the Galileo Project tells the story of the vision, perseverance and people behind Galileo, Europe\u2019s global navigation satellite system, and the decades-long journey that turned an idea into the signal that guides us all.\u00a0",
+        "published_at": "2026-10-21T08:03:00Z",
+        "updated_at": "2026-10-21T08:30:13.268555Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10666666666666666,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40505,
+        "title": "Finding Our Way: Inside the Galileo Project: 3 - A symphony of precision",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/finding_our_way_inside_the_galileo_project_3_-_a_symphony_of_precision/27585719-1-eng-GB/Finding_Our_Way_Inside_the_Galileo_Project_3_-_A_symphony_of_precision_card_full.png",
+        "news_site": "ESA",
+        "summary": "Galileo is a system in perfect synchronisation: satellites orbiting above, atomic clocks setting the tempo, and ground stations listening and refining below. Each plays its part. Together, they create the precision behind the signal that guides us all. See how it all comes together in Finding Our Way: Inside the Galileo Project.",
+        "published_at": "2026-10-21T08:03:00Z",
+        "updated_at": "2026-10-21T08:50:21.935986Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.275,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40501,
+        "title": "APOD: 2026 October 21 \u2013 New Ghosts Revealed in Cassiopeia",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 21 \u2013 New\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New [\u2026]",
+        "published_at": "2026-10-21T04:05:00Z",
+        "updated_at": "2026-10-21T04:40:17.160242Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.18446969696969695,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40502,
+        "title": "Extratropical Cyclone Whips Past Iceland",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014.jpg",
+        "news_site": "NASA",
+        "summary": "The powerful low-pressure system formed over the North Atlantic out of the remnants of Hurricane Isaias.",
+        "published_at": "2026-10-21T04:01:00Z",
+        "updated_at": "2026-10-21T07:13:37.955723Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "060fc260-01bd-41ec-a0be-ce2223fbbc76",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.024999999999999994,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40500,
+        "title": "Making SpaceX and Tesla a single company has \"a lot of merit,\" Musk says",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+        "published_at": "2026-10-20T22:04:54Z",
+        "updated_at": "2026-10-20T22:10:16.975890Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.07142857142857142,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40499,
+        "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+        "image_url": "http://spaceflightnow.com/wp-content/uploads/2026/10/20261001-Vandenberg-File-Feature-Image.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:10 p.m. PDT (7:10 p.m. EDT / 2310 UTC).",
+        "published_at": "2026-10-20T21:18:11Z",
+        "updated_at": "2026-10-21T07:11:59.953385Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.16590909090909092,
+        "sentiment_label": "Negative"
+    }
+]
