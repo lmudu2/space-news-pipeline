@@ -1,0 +1,185 @@
+[
+    {
+        "id": 40679,
+        "title": "China releases timeline for lunar landing on the Moon, targeting \"before 2030\"",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1.jpg",
+        "news_site": "Arstechnica",
+        "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+        "published_at": "2026-11-02T17:09:13Z",
+        "updated_at": "2026-11-02T17:10:10.805736Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40678,
+        "title": "NASA\u2019s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+        "published_at": "2026-11-02T15:00:39Z",
+        "updated_at": "2026-11-02T15:40:15.437076Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.07500000000000001,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40677,
+        "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-to-Support-Industry-Led-Reusable-Booster-Flight-Demonstrations.webp",
+        "news_site": "European Spaceflight",
+        "summary": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstrations initiative, which is intended to \u201caccelerate the development and [\u2026]\nThe post ESA to Support Industry-Led Reusable Booster Flight Demonstrations appeared first on European Spaceflight.",
+        "published_at": "2026-11-02T14:13:02Z",
+        "updated_at": "2026-11-02T14:20:16.150334Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.23376623376623376,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40676,
+        "title": "How to Expand Reliable, Flexible Access to Space",
+        "authors": [
+            {
+                "name": "Exolaunch",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nThe space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren\u2019t enough rides to go around. And [\u2026]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
+        "published_at": "2026-11-02T14:00:00Z",
+        "updated_at": "2026-11-02T14:10:37.299126Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40675,
+        "title": "CubeSat achieves challenging laser link to ground",
+        "authors": [
+            {
+                "name": "ESA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+        "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
+        "news_site": "ESA",
+        "summary": "Despite it being a complex operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites. The demonstration, supported by the European Space Agency (ESA) and achieved using optical terminals developed by Lithuanian company\u00a0Astrolight, happened only weeks after the satellite\u2019s commissioning.",
+        "published_at": "2026-11-02T08:55:00Z",
+        "updated_at": "2026-11-02T14:29:17.502285Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.06875,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40674,
+        "title": "APOD: 2026 November 2 \u2013 A Long Cloud on Mars",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 November 2 \u2013 A\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long [\u2026]",
+        "published_at": "2026-11-02T05:05:00Z",
+        "updated_at": "2026-11-02T08:55:26.230918Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db62cfa1-4d10-41d3-b25f-a58e138ce202",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.11458333333333331,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40673,
+        "title": "Pennsylvania\u2019s Grand Canyon",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania%E2%80%99s-grand-canyon/pinecreekgorge_oli_20261025.jpg",
+        "news_site": "NASA",
+        "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+        "published_at": "2026-11-02T05:01:00Z",
+        "updated_at": "2026-11-02T08:54:09.709411Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "f9b109c7-494a-4dd4-a4ef-daca7ddeb763",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3666666666666667,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40672,
+        "title": "What\u2019s Happening in Space Policy November 1-8, 2026",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "Here is SpacePolicyOnline.com\u2019s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate [\u2026]",
+        "published_at": "2026-11-01T22:31:25Z",
+        "updated_at": "2026-11-01T22:40:27.844566Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
