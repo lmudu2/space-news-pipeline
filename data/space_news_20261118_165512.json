@@ -1,0 +1,227 @@
+[
+    {
+        "id": 40888,
+        "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg",
+        "news_site": "NASA",
+        "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially \u201crejuvenated\u201d star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA\u2019s James Webb [\u2026]",
+        "published_at": "2026-11-18T16:00:00Z",
+        "updated_at": "2026-11-18T16:40:14.770937Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.10773809523809526,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40887,
+        "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Investor-Selects-MIURA-5-to-Launch-Demo-Mission.webp",
+        "news_site": "European Spaceflight",
+        "summary": "Japanese satellite manufacturer Mitsubishi Electric has signed a contract with Spanish rocket builder PLD Space to launch a small satellite aboard the company\u2019s second MIURA 5 test flight. PLD Space announced that it had signed the launch contract on 18 November, describing the agreement as \u201ca new stage in the relationship between the two companies.\u201d [\u2026]\r\nThe post PLD Space Investor Selects MIURA 5 to Launch Demo Mission appeared first on European Spaceflight.",
+        "published_at": "2026-11-18T07:25:17Z",
+        "updated_at": "2026-11-18T08:14:55.637181Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.01948051948051948,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40886,
+        "title": "APOD: 2026 November 18 \u2013 An M-class Solar Flare",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 November 18 \u2013 An\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized [\u2026]",
+        "published_at": "2026-11-18T05:05:00Z",
+        "updated_at": "2026-11-18T08:10:04.737551Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40885,
+        "title": "Sierra Snow Season Spins Up",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+        "news_site": "NASA",
+        "summary": "A widespread, early-season snowstorm blanketed California\u2019s mountains in white in mid-November 2026.",
+        "published_at": "2026-11-18T05:01:00Z",
+        "updated_at": "2026-11-18T08:05:34.309373Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "85841db3-9422-4470-8327-0c42fc258987",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40884,
+        "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Vulcan-liftoff-300x292.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first [\u2026]",
+        "published_at": "2026-11-18T03:52:35Z",
+        "updated_at": "2026-11-18T08:03:49.211377Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": -0.022222222222222237,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40881,
+        "title": "Rocket Lab\u2019s Electron completes 100th mission, Neutron progresses toward debut mission",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Last weekend, Rocket Lab\u2019s workhorse Electron rocket officially completed its 100th mission, becoming the fastest\u2026\r\nThe post Rocket Lab\u2019s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-11-17T22:24:58Z",
+        "updated_at": "2026-11-18T08:09:30.856842Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.2333333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40882,
+        "title": "NASA Launches Nuclear Power Systems Student Contest",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear \u201cbatteries\u201d could help power their lunar exploration vision. Students are also invited to write [\u2026]",
+        "published_at": "2026-11-17T22:02:48Z",
+        "updated_at": "2026-11-17T22:40:10.285025Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40883,
+        "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg",
+        "news_site": "NASA",
+        "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA\u2019s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% [\u2026]",
+        "published_at": "2026-11-17T21:50:34Z",
+        "updated_at": "2026-11-17T22:40:10.321666Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40878,
+        "title": "BPS Digital AVATAR Challenge",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+        "image_url": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg",
+        "news_site": "NASA",
+        "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration\u2014including microgravity, ionizing radiation, low magnetic fields, and elevated CO\u2082. As NASA prepares for long-duration deep [\u2026]",
+        "published_at": "2026-11-17T20:39:38Z",
+        "updated_at": "2026-11-17T20:40:10.579591Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.12083333333333333,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40879,
+        "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
+        "authors": [
+            {
+                "name": "Marcia Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill/",
+        "image_url": "https://spacepolicyonline.com/wp-content/uploads/2026/11/H-and-S-USSF-table-300x96.jpg",
+        "news_site": "SpacePolicyOnline.com",
+        "summary": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration\u2019s appropriations request, but it [\u2026]",
+        "published_at": "2026-11-17T20:34:15Z",
+        "updated_at": "2026-11-17T20:40:16.753057Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    }
+]
