@@ -1,0 +1,227 @@
+[
+    {
+        "id": 40923,
+        "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/dsc-6269-stennis-honor-awards-1.jpg",
+        "news_site": "NASA",
+        "summary": "Employees contributing to NASA\u2019s mission at the agency\u2019s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center\u2019s Honor Awards ceremony on Nov. 18.\u00a0\u00a0 Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency\u2019s Artemis program manager responsible for management and oversight of NASA\u2019s initiative to return [\u2026]",
+        "published_at": "2026-11-20T16:27:46Z",
+        "updated_at": "2026-11-20T16:30:06.819385Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.016666666666666673,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40922,
+        "title": "NASA\u2019s Curiosity Mars Rover Collects Samples",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+        "news_site": "NASA",
+        "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA\u2019s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity\u2019s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [\u2026]",
+        "published_at": "2026-11-20T15:53:24Z",
+        "updated_at": "2026-11-20T16:00:34.853031Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40921,
+        "title": "Danish Soldiers Are Sneaking Starlink Terminals into Greenland",
+        "authors": [
+            {
+                "name": "European Spaceflight",
+                "socials": null
+            }
+        ],
+        "url": "https://europeanspaceflight.com/danish-soldiers-are-sneaking-starlink-terminals-into-greenland/",
+        "image_url": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Danish-Soldiers-Are-Sneaking-Starlink-Terminals-into-Greenland.webp",
+        "news_site": "European Spaceflight",
+        "summary": "A parliamentary question from Greenlandic politician Pele Broberg has suggested that Danish soldiers are bringing privately owned Starlink terminals into Greenland despite restrictions. Broberg raised the allegations on 23 October, explaining that he had received information from multiple sources claiming that Danish soldiers were bringing their own Starlink terminals from Denmark and using them to [\u2026]\nThe post Danish Soldiers Are Sneaking Starlink Terminals into Greenland appeared first on European Spaceflight.",
+        "published_at": "2026-11-20T07:09:49Z",
+        "updated_at": "2026-11-20T07:10:21.222800Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.16999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40920,
+        "title": "APOD: 2026 November 20 \u2013 V-G-R",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 November\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, [\u2026]",
+        "published_at": "2026-11-20T05:05:00Z",
+        "updated_at": "2026-11-20T05:50:10.336792Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40919,
+        "title": "The Stormy Southwest Pacific",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg",
+        "news_site": "NASA",
+        "summary": "Tropical Cyclone Xavier launched the basin\u2019s storm season with a bang.",
+        "published_at": "2026-11-20T05:01:00Z",
+        "updated_at": "2026-11-20T08:14:49.523797Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "c70dd943-2b43-416d-9b5e-99543b05cd08",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40918,
+        "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+        "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261119_USSF_317_Vertical.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The mission is the latest in the series of \u2018R\u2019 missions tasked by the U.S. Space Force. Liftoff from pad 4 East is scheduled for 8:32 p.m. PST (11:32 p.m. EST / 432 UTC).",
+        "published_at": "2026-11-19T23:51:47Z",
+        "updated_at": "2026-11-20T08:14:33.639561Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.3181818181818182,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40917,
+        "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+        "authors": [
+            {
+                "name": "Eleanor Day",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+        "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_2841.jpeg",
+        "news_site": "NASASpaceflight",
+        "summary": "Relativity Space is advancing Terran R\u2019s flight one hardware and ground infrastructure across NASA\u2019s Stennis\u2026\r\nThe post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com.",
+        "published_at": "2026-11-19T22:08:32Z",
+        "updated_at": "2026-11-20T08:13:04.158197Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.08333333333333333,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40916,
+        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+        "authors": [
+            {
+                "name": "Eric Berger",
+                "socials": null
+            }
+        ],
+        "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+        "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3.jpg",
+        "news_site": "Arstechnica",
+        "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+        "published_at": "2026-11-19T19:52:54Z",
+        "updated_at": "2026-11-20T08:13:22.412536Z",
+        "featured": false,
+        "launches": [
+            {
+                "launch_id": "e3fa897c-922e-4eee-8237-4531b73446a2",
+                "provider": "Launch Library 2"
+            }
+        ],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40915,
+        "title": "Challenge: Public Input on Life and the World in 2075",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+        "image_url": "https://www.nasa.gov/wp-content/uploads/2015/07/kerho-concept-v2.jpg",
+        "news_site": "NASA",
+        "summary": "NASA\u2019s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [\u2026]",
+        "published_at": "2026-11-19T19:34:20Z",
+        "updated_at": "2026-11-19T19:40:12.429239Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.0,
+        "sentiment_label": "Neutral"
+    },
+    {
+        "id": 40914,
+        "title": "The sweet spot for constellation size",
+        "authors": [
+            {
+                "name": "SpaceNews Editor",
+                "socials": null
+            }
+        ],
+        "url": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+        "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/jan-smolders-2-scaled.jpg?fit=1024%2C768&ssl=1",
+        "news_site": "SpaceNews",
+        "summary": "\nIn this episode of Space Minds, SpaceNews\u2019 Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss [\u2026]\nThe post The sweet spot for constellation size appeared first on SpaceNews.",
+        "published_at": "2026-11-19T17:25:17Z",
+        "updated_at": "2026-11-19T17:30:33.600000Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.2375,
+        "sentiment_label": "Positive"
+    }
+]
