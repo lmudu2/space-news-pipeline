@@ -1,0 +1,44 @@
+[
+    {
+        "id": 40931,
+        "title": "APOD: 2026 November 22 \u2013 Swirls and Colors on Jupiter from Juno",
+        "authors": [
+            {
+                "name": "NASA",
+                "socials": null
+            }
+        ],
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+        "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg",
+        "news_site": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 November 22 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors [\u2026]",
+        "published_at": "2026-11-22T05:05:00Z",
+        "updated_at": "2026-11-22T05:50:09.590997Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": 0.19999999999999998,
+        "sentiment_label": "Positive"
+    },
+    {
+        "id": 40930,
+        "title": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+        "authors": [
+            {
+                "name": "Will Robinson-Smith",
+                "socials": null
+            }
+        ],
+        "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+        "image_url": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+        "news_site": "Spaceflight Now",
+        "summary": "The NROL-136 mission will be the fourth launch of the year supporting the agency\u2019s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled during a window that opens at 4:16 a.m. PST (7:16 a.m. EST / 1216 UTC). ",
+        "published_at": "2026-11-21T16:50:51Z",
+        "updated_at": "2026-11-21T17:01:12.011033Z",
+        "featured": false,
+        "launches": [],
+        "events": [],
+        "sentiment_score": -0.08272727272727273,
+        "sentiment_label": "Neutral"
+    }
+]
